@@ -9,10 +9,10 @@ This portfolio demonstrates **Senior-Level** capability in transforming complex 
 ## 🛠 Tech Stack & Skills
 | Domain | Tools & Techniques |
 | :--- | :--- |
-| **Analysis** | Python (Pandas - Basic), Excel (Power Query, PivotTables), SQL (Window Functions) |
+| **Analysis** | Python (Pandas - Basic), Excel (groupby, index, match, X/VLookup, isnumber, search, sumif/countif, cleaning(trim, proper, text, len, left/right,), validations, PivotTables), SQL (Window Functions) |
 | **Visualization** | Power BI (DAX), Tableau, Excel Dashboards |
 | **Business** | KPI Definition, Forecasting, Cohort Analysis, Inventory Optimization |
-| **Strategy** | Team Leadership, Revenue Modeling, Churn Prevention, A/B Testing |
+| **Strategy** | KPI monotring, Team Leadership, Revenue Modeling, Churn Prevention, A/B Testing |
 
 ---
 
