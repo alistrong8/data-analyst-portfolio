@@ -1,13 +1,13 @@
-# [Your Name]
+# Olanrewaju Adekunle O.
 **Data Analyst | Business Intelligence Specialist | SQL & Excel Expert**
-[Location] | [Email] | [LinkedIn Profile] | [GitHub Portfolio Link]
+[Location] | alistrong8@gmail.com | [LinkedIn Profile] | https://github.com/alistrong8/data-analyst-portfolio
 
 ## Professional Summary
 Results-oriented Data Analyst with expertise in **SQL, Advanced Excel, Power BI, and Tableau**. Proven track record of transforming complex datasets into actionable business insights that drive revenue growth and operational efficiency. Skilled in data cleaning, modeling, and creating executive-level dashboards. Passionate about solving business problems through data-driven storytelling.
 
 ## Technical Skills
 - **Data Analysis**: Data Cleaning (Power Query), Data Modeling, Statistical Analysis, Forecasting.
-- **Tools**: **Excel** (Advanced formulas, VBA, PivotTables), **SQL** (PostgreSQL, MySQL), **Power BI** (DAX), **Tableau**, Python (Pandas).
+- **Tools**: **Excel** (Advanced formulas, data cleaning, PivotTables), **SQL** (PostgreSQL, MySQL), **Power BI** (DAX), **Tableau**, Python (Pandas).
 - **Soft Skills**: Stakeholder Communication, Problem Solving, Presentation Skills.
 
 ## Project Experience
@@ -28,14 +28,13 @@ Results-oriented Data Analyst with expertise in **SQL, Advanced Excel, Power BI,
 
 ## Work Experience
 
-**[Job Title]** | [Company Name] | [Dates]
+**Operation Manger** | Carlcare dev. | 2020-date
 - Analyzed sales trends using **Excel and SQL** to provide weekly reports to senior management.
 - Improved data accuracy by **20%** through rigorous data validation processes.
 - Collaborated with cross-functional teams to define KPIs and reporting requirements.
 
 ## Education
-**[Degree Name]** | [University Name]
-- [Relevant Coursework]
+**BSc. Computer Science** | Nation Open University
 
 ## Certifications
 - Google Data Analytics Professional Certificate
