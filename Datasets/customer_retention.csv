@@ -1,0 +1,1001 @@
+CustomerID,SubscriptionDate,ContractType,MonthlyBill,Age,Gender,TechSupportCalls,Churn
+SUB-1000,2022-04-27,Two Year,33.01,64,Male,2,No
+SUB-1001,2022-11-27,One Year,49.6,62,Female,3,No
+SUB-1002,2023-03-25,One Year,31.32,41,Female,1,No
+SUB-1003,2022-01-16,Two Year,97.83,32,Female,0,No
+SUB-1004,2022-04-25,Two Year,112.05,30,Female,4,No
+SUB-1005,2023-04-27,Month-to-Month,56.53,40,Male,2,Yes
+SUB-1006,2022-02-08,One Year,112.38,43,Male,0,Yes
+SUB-1007,2022-06-25,One Year,89.09,24,Male,0,No
+SUB-1008,2022-10-03,Month-to-Month,70.76,45,Male,1,No
+SUB-1009,2022-07-07,Month-to-Month,46.95,53,Female,0,Yes
+SUB-1010,2023-08-15,Month-to-Month,68.06,68,Male,0,No
+SUB-1011,2023-09-11,Two Year,96.03,53,Male,0,No
+SUB-1012,2022-10-19,One Year,51.32,33,Male,1,Yes
+SUB-1013,2023-06-18,Two Year,50.65,61,Male,1,No
+SUB-1014,2022-02-08,Two Year,39.25,34,Female,3,Yes
+SUB-1015,2023-11-02,Two Year,42.65,66,Male,0,No
+SUB-1016,2022-06-25,Two Year,90.69,52,Female,0,No
+SUB-1017,2023-05-10,One Year,109.83,58,Female,2,Yes
+SUB-1018,2022-08-17,One Year,103.54,46,Female,0,No
+SUB-1019,2022-01-12,Month-to-Month,57.93,59,Male,0,No
+SUB-1020,2022-06-20,Two Year,45.73,26,Male,1,No
+SUB-1021,2022-04-10,Two Year,108.81,46,Female,1,Yes
+SUB-1022,2023-04-07,One Year,61.46,59,Female,0,No
+SUB-1023,2022-09-17,One Year,86.41,61,Male,3,Yes
+SUB-1024,2022-03-16,Two Year,88.71,59,Female,0,No
+SUB-1025,2023-03-05,Month-to-Month,82.16,37,Female,2,No
+SUB-1026,2022-11-09,One Year,49.03,31,Female,1,No
+SUB-1027,2022-02-21,Two Year,112.42,61,Male,1,No
+SUB-1028,2023-08-04,Month-to-Month,117.97,49,Male,2,No
+SUB-1029,2023-08-02,Month-to-Month,39.01,20,Male,0,Yes
+SUB-1030,2022-09-10,Two Year,37.96,20,Female,1,No
+SUB-1031,2023-06-21,One Year,93.81,52,Female,2,No
+SUB-1032,2023-01-28,Month-to-Month,31.67,61,Female,0,Yes
+SUB-1033,2022-02-16,Two Year,113.59,63,Male,0,No
+SUB-1034,2022-04-16,One Year,93.77,60,Female,0,No
+SUB-1035,2022-06-11,Two Year,87.36,23,Female,1,Yes
+SUB-1036,2023-02-01,Month-to-Month,33.1,41,Male,0,No
+SUB-1037,2022-07-07,One Year,83.59,66,Female,2,No
+SUB-1038,2023-06-07,One Year,86.7,38,Female,1,No
+SUB-1039,2023-07-12,Two Year,87.93,47,Male,0,No
+SUB-1040,2022-09-12,Month-to-Month,45.55,51,Male,0,No
+SUB-1041,2022-11-25,Two Year,47.31,36,Male,0,No
+SUB-1042,2022-11-24,Month-to-Month,92.08,49,Male,1,No
+SUB-1043,2022-03-24,Two Year,76.62,56,Male,2,Yes
+SUB-1044,2022-08-17,Two Year,95.9,40,Male,0,No
+SUB-1045,2023-06-08,One Year,61.65,22,Female,1,No
+SUB-1046,2022-05-13,Two Year,53.25,50,Male,1,No
+SUB-1047,2022-01-18,Two Year,48.38,33,Female,2,No
+SUB-1048,2023-10-28,Two Year,69.74,19,Female,3,Yes
+SUB-1049,2023-07-12,One Year,111.4,35,Male,1,Yes
+SUB-1050,2022-03-13,Two Year,85.69,46,Female,0,Yes
+SUB-1051,2022-05-30,Two Year,71.69,29,Male,1,No
+SUB-1052,2022-10-05,Month-to-Month,110.88,57,Female,0,Yes
+SUB-1053,2023-10-15,Two Year,71.28,26,Female,0,Yes
+SUB-1054,2022-08-14,Month-to-Month,93.94,55,Female,0,Yes
+SUB-1055,2023-09-24,Month-to-Month,106.96,66,Male,2,Yes
+SUB-1056,2022-07-29,Two Year,116.93,22,Male,4,Yes
+SUB-1057,2022-05-01,Two Year,94.58,44,Male,0,No
+SUB-1058,2022-01-29,One Year,110.32,19,Female,0,Yes
+SUB-1059,2022-01-24,Two Year,65.05,63,Female,2,No
+SUB-1060,2023-05-11,Two Year,55.32,59,Female,3,No
+SUB-1061,2022-07-11,Month-to-Month,93.22,41,Male,0,Yes
+SUB-1062,2022-06-15,Two Year,107.23,46,Male,0,No
+SUB-1063,2022-11-30,Month-to-Month,96.78,20,Male,1,Yes
+SUB-1064,2023-01-28,Month-to-Month,86.14,18,Male,0,Yes
+SUB-1065,2022-12-28,Two Year,42.54,61,Female,0,No
+SUB-1066,2023-03-05,Month-to-Month,90.51,69,Male,0,No
+SUB-1067,2022-08-19,Two Year,101.22,39,Male,4,Yes
+SUB-1068,2022-03-10,One Year,56.02,52,Female,1,No
+SUB-1069,2023-11-04,One Year,54.62,68,Female,4,No
+SUB-1070,2022-01-31,Two Year,75.24,57,Male,1,No
+SUB-1071,2022-01-02,Month-to-Month,89.94,22,Female,4,No
+SUB-1072,2022-12-07,One Year,71.36,55,Male,1,No
+SUB-1073,2023-06-21,One Year,75.29,23,Male,0,No
+SUB-1074,2022-11-19,One Year,88.34,30,Female,0,Yes
+SUB-1075,2023-07-14,Month-to-Month,44.15,29,Male,2,No
+SUB-1076,2022-07-24,Month-to-Month,32.82,37,Female,1,Yes
+SUB-1077,2023-04-17,One Year,96.15,41,Female,1,No
+SUB-1078,2023-05-23,One Year,103.35,30,Male,3,Yes
+SUB-1079,2023-07-05,Two Year,116.68,41,Male,0,No
+SUB-1080,2022-06-21,Two Year,41.6,67,Female,1,No
+SUB-1081,2023-05-22,Two Year,111.26,66,Male,1,No
+SUB-1082,2022-08-02,Month-to-Month,58.81,35,Male,0,No
+SUB-1083,2023-05-31,One Year,83.42,33,Female,0,Yes
+SUB-1084,2023-04-19,Month-to-Month,93.03,31,Female,1,No
+SUB-1085,2022-06-02,One Year,47.25,60,Female,4,No
+SUB-1086,2023-02-02,Month-to-Month,77.63,56,Male,0,No
+SUB-1087,2023-04-11,One Year,74.13,56,Male,1,No
+SUB-1088,2022-03-14,One Year,60.0,34,Male,3,No
+SUB-1089,2022-11-22,One Year,101.46,37,Female,1,No
+SUB-1090,2022-07-21,Month-to-Month,99.59,33,Male,0,Yes
+SUB-1091,2022-08-10,One Year,57.64,33,Male,3,Yes
+SUB-1092,2022-01-16,Two Year,79.65,66,Male,1,No
+SUB-1093,2022-08-16,Month-to-Month,55.03,23,Male,0,Yes
+SUB-1094,2023-02-08,Month-to-Month,95.79,55,Female,0,Yes
+SUB-1095,2022-04-13,One Year,60.49,23,Male,3,No
+SUB-1096,2023-04-08,Month-to-Month,71.63,24,Female,0,No
+SUB-1097,2023-09-26,Two Year,68.6,46,Male,0,Yes
+SUB-1098,2022-09-30,One Year,76.73,65,Female,0,No
+SUB-1099,2023-05-17,One Year,96.13,69,Male,1,No
+SUB-1100,2022-02-06,Two Year,93.22,25,Female,0,No
+SUB-1101,2022-03-27,Month-to-Month,34.68,52,Female,0,Yes
+SUB-1102,2023-03-09,Two Year,100.81,40,Male,0,No
+SUB-1103,2023-06-11,One Year,55.62,32,Female,3,No
+SUB-1104,2023-09-11,One Year,36.97,32,Male,1,Yes
+SUB-1105,2022-08-02,One Year,113.99,43,Male,1,No
+SUB-1106,2023-05-19,Two Year,118.3,28,Female,2,No
+SUB-1107,2023-03-15,Month-to-Month,38.57,27,Male,1,Yes
+SUB-1108,2023-04-28,Two Year,45.74,20,Female,0,No
+SUB-1109,2022-03-19,Month-to-Month,75.48,42,Male,2,No
+SUB-1110,2022-06-20,Two Year,119.61,38,Male,0,No
+SUB-1111,2023-04-25,Two Year,52.41,21,Female,0,No
+SUB-1112,2023-06-05,Month-to-Month,48.42,38,Female,0,No
+SUB-1113,2022-08-31,Month-to-Month,55.14,48,Female,1,Yes
+SUB-1114,2022-08-02,One Year,30.9,29,Male,0,No
+SUB-1115,2023-02-03,One Year,83.41,24,Female,0,No
+SUB-1116,2023-10-16,Month-to-Month,31.98,63,Male,0,No
+SUB-1117,2022-12-10,Month-to-Month,42.21,54,Male,0,Yes
+SUB-1118,2022-10-17,One Year,119.99,39,Female,0,Yes
+SUB-1119,2022-11-17,One Year,112.86,60,Male,0,Yes
+SUB-1120,2023-01-15,One Year,30.11,28,Male,1,No
+SUB-1121,2023-11-06,Two Year,99.06,35,Male,0,No
+SUB-1122,2022-10-07,Two Year,91.36,25,Male,0,No
+SUB-1123,2022-04-10,One Year,99.56,47,Male,1,No
+SUB-1124,2022-03-04,Two Year,63.6,51,Female,0,Yes
+SUB-1125,2022-04-02,Month-to-Month,102.84,31,Female,0,Yes
+SUB-1126,2023-05-01,Two Year,118.73,65,Female,1,No
+SUB-1127,2023-10-30,Month-to-Month,30.36,64,Male,0,No
+SUB-1128,2023-08-18,Month-to-Month,87.98,20,Female,0,No
+SUB-1129,2023-03-31,Month-to-Month,38.54,26,Female,2,No
+SUB-1130,2022-07-29,Two Year,45.23,42,Male,2,Yes
+SUB-1131,2023-09-12,One Year,80.12,32,Female,0,No
+SUB-1132,2023-09-08,One Year,40.4,36,Female,1,No
+SUB-1133,2022-08-01,Month-to-Month,90.58,65,Male,0,No
+SUB-1134,2022-01-22,Month-to-Month,44.1,28,Male,3,No
+SUB-1135,2023-09-11,Month-to-Month,60.69,47,Male,1,No
+SUB-1136,2023-01-02,One Year,35.91,51,Male,4,No
+SUB-1137,2023-03-20,Two Year,84.61,57,Female,2,No
+SUB-1138,2023-04-25,One Year,98.6,50,Female,0,No
+SUB-1139,2023-07-23,One Year,37.66,40,Male,0,No
+SUB-1140,2022-07-18,Month-to-Month,94.61,67,Female,3,No
+SUB-1141,2022-06-01,One Year,63.46,65,Female,0,Yes
+SUB-1142,2022-08-23,Two Year,86.81,25,Male,0,Yes
+SUB-1143,2022-08-07,Month-to-Month,31.22,32,Male,2,Yes
+SUB-1144,2022-09-30,One Year,109.98,33,Male,0,No
+SUB-1145,2023-03-20,Two Year,47.5,38,Female,0,No
+SUB-1146,2022-04-25,Two Year,75.86,64,Male,0,No
+SUB-1147,2023-06-06,Month-to-Month,90.18,28,Male,0,Yes
+SUB-1148,2023-11-20,One Year,33.38,53,Female,1,No
+SUB-1149,2022-08-06,One Year,38.5,18,Male,0,Yes
+SUB-1150,2022-09-10,Two Year,55.77,30,Female,1,No
+SUB-1151,2022-08-23,Two Year,102.52,24,Female,0,No
+SUB-1152,2023-03-16,Two Year,83.66,56,Female,1,No
+SUB-1153,2023-10-02,Two Year,43.39,65,Female,0,No
+SUB-1154,2023-04-02,Two Year,71.24,53,Female,2,No
+SUB-1155,2023-03-04,Two Year,51.62,46,Female,0,No
+SUB-1156,2023-10-17,One Year,44.78,37,Female,3,No
+SUB-1157,2022-12-23,Two Year,60.45,65,Female,1,No
+SUB-1158,2023-10-27,Month-to-Month,33.55,48,Female,3,No
+SUB-1159,2022-12-29,One Year,39.56,60,Male,0,Yes
+SUB-1160,2022-04-09,Two Year,110.29,49,Female,1,No
+SUB-1161,2022-04-19,One Year,53.95,39,Male,0,No
+SUB-1162,2022-02-21,Month-to-Month,97.51,59,Male,0,No
+SUB-1163,2022-08-26,One Year,74.84,40,Female,3,No
+SUB-1164,2023-01-16,Two Year,91.58,46,Male,1,No
+SUB-1165,2023-06-12,Month-to-Month,35.38,25,Male,0,No
+SUB-1166,2022-06-30,Month-to-Month,56.93,48,Female,0,No
+SUB-1167,2022-11-28,One Year,47.06,56,Female,0,Yes
+SUB-1168,2023-01-31,Two Year,99.74,32,Male,1,No
+SUB-1169,2023-09-26,One Year,109.87,51,Male,0,Yes
+SUB-1170,2022-07-01,Month-to-Month,39.26,33,Female,2,No
+SUB-1171,2022-04-06,Month-to-Month,74.36,48,Female,3,Yes
+SUB-1172,2023-11-27,Two Year,74.17,23,Male,1,Yes
+SUB-1173,2022-05-13,One Year,64.08,46,Male,1,No
+SUB-1174,2022-02-15,One Year,94.23,37,Female,0,No
+SUB-1175,2022-02-08,Two Year,42.96,57,Female,0,No
+SUB-1176,2023-09-27,Two Year,79.65,24,Female,0,No
+SUB-1177,2022-11-14,Month-to-Month,74.93,42,Male,2,No
+SUB-1178,2022-07-31,One Year,61.26,61,Male,3,No
+SUB-1179,2023-01-29,Month-to-Month,73.81,62,Female,1,No
+SUB-1180,2023-03-19,Month-to-Month,53.53,40,Female,0,No
+SUB-1181,2022-09-24,Month-to-Month,88.28,64,Male,3,No
+SUB-1182,2022-12-23,Two Year,85.98,29,Male,0,No
+SUB-1183,2022-11-19,One Year,73.42,36,Male,4,No
+SUB-1184,2022-07-19,One Year,54.17,60,Male,0,No
+SUB-1185,2023-11-20,Month-to-Month,54.93,24,Female,0,Yes
+SUB-1186,2022-05-09,One Year,64.98,69,Female,0,No
+SUB-1187,2023-06-21,Month-to-Month,43.07,46,Female,0,No
+SUB-1188,2022-08-13,Month-to-Month,118.5,26,Female,0,No
+SUB-1189,2023-03-23,Two Year,55.81,30,Female,3,No
+SUB-1190,2022-08-17,Two Year,34.71,29,Female,0,No
+SUB-1191,2023-11-02,Month-to-Month,106.92,48,Male,2,No
+SUB-1192,2023-06-11,Month-to-Month,78.34,21,Male,0,No
+SUB-1193,2022-01-16,One Year,90.85,38,Female,0,No
+SUB-1194,2023-06-15,Month-to-Month,37.2,54,Male,1,Yes
+SUB-1195,2023-05-25,Two Year,40.4,43,Male,0,No
+SUB-1196,2023-09-07,One Year,108.12,60,Male,0,No
+SUB-1197,2022-11-20,One Year,46.96,54,Male,0,No
+SUB-1198,2023-03-31,Month-to-Month,118.13,18,Female,1,No
+SUB-1199,2023-06-14,Month-to-Month,96.92,18,Female,1,No
+SUB-1200,2022-12-06,Two Year,56.51,58,Male,2,No
+SUB-1201,2023-04-20,Two Year,79.86,53,Male,4,Yes
+SUB-1202,2023-10-19,One Year,59.12,39,Female,0,Yes
+SUB-1203,2023-11-07,One Year,103.69,54,Female,0,Yes
+SUB-1204,2023-10-28,Month-to-Month,80.59,31,Male,0,Yes
+SUB-1205,2022-05-29,One Year,117.73,37,Female,0,No
+SUB-1206,2023-06-04,Two Year,81.2,50,Male,3,No
+SUB-1207,2023-08-21,Two Year,37.8,63,Male,0,No
+SUB-1208,2022-05-21,One Year,34.42,44,Female,0,Yes
+SUB-1209,2022-06-01,One Year,92.56,66,Male,2,No
+SUB-1210,2023-07-14,One Year,111.82,61,Male,3,Yes
+SUB-1211,2023-02-05,Month-to-Month,70.17,40,Female,0,No
+SUB-1212,2022-07-22,Month-to-Month,76.81,27,Female,0,Yes
+SUB-1213,2023-03-30,One Year,110.96,40,Female,0,No
+SUB-1214,2022-09-06,One Year,52.3,23,Female,1,Yes
+SUB-1215,2023-08-23,One Year,83.12,25,Female,2,No
+SUB-1216,2022-06-25,One Year,77.21,52,Female,1,No
+SUB-1217,2022-11-12,Two Year,117.54,55,Female,1,Yes
+SUB-1218,2022-06-19,One Year,96.9,53,Female,0,No
+SUB-1219,2022-05-21,Two Year,77.22,41,Female,0,No
+SUB-1220,2022-10-14,Two Year,82.86,19,Male,2,Yes
+SUB-1221,2023-02-19,One Year,92.77,28,Female,0,Yes
+SUB-1222,2023-09-20,One Year,95.19,67,Male,0,Yes
+SUB-1223,2023-08-17,Month-to-Month,58.86,57,Male,1,Yes
+SUB-1224,2022-02-12,One Year,52.61,59,Female,2,No
+SUB-1225,2022-03-06,Two Year,81.51,19,Female,0,No
+SUB-1226,2023-07-27,One Year,110.42,29,Female,2,No
+SUB-1227,2022-03-23,Month-to-Month,101.34,41,Male,2,Yes
+SUB-1228,2023-03-29,Month-to-Month,33.75,30,Male,1,No
+SUB-1229,2023-10-26,Month-to-Month,108.7,55,Female,1,Yes
+SUB-1230,2023-05-12,Month-to-Month,97.71,46,Female,1,Yes
+SUB-1231,2023-11-29,Month-to-Month,66.08,46,Female,1,Yes
+SUB-1232,2022-05-18,Two Year,101.11,64,Female,0,Yes
+SUB-1233,2023-02-20,One Year,80.57,68,Male,0,No
+SUB-1234,2022-09-10,Month-to-Month,102.8,47,Female,0,Yes
+SUB-1235,2022-11-04,Month-to-Month,50.45,63,Male,2,Yes
+SUB-1236,2023-08-08,Month-to-Month,54.04,57,Female,0,Yes
+SUB-1237,2022-04-15,Month-to-Month,69.48,59,Male,3,Yes
+SUB-1238,2023-10-08,Month-to-Month,38.04,24,Female,0,Yes
+SUB-1239,2023-01-06,Month-to-Month,36.8,54,Female,0,No
+SUB-1240,2022-07-11,Month-to-Month,38.07,50,Male,3,Yes
+SUB-1241,2022-08-27,Month-to-Month,71.37,27,Male,0,Yes
+SUB-1242,2023-10-06,Two Year,89.8,30,Male,0,No
+SUB-1243,2022-06-25,One Year,45.4,45,Male,1,Yes
+SUB-1244,2023-09-29,One Year,96.36,26,Male,0,No
+SUB-1245,2023-03-17,One Year,95.24,58,Female,1,Yes
+SUB-1246,2023-07-22,One Year,30.13,58,Female,0,No
+SUB-1247,2022-06-11,Month-to-Month,119.93,66,Male,1,Yes
+SUB-1248,2023-12-01,Two Year,44.77,58,Male,1,No
+SUB-1249,2023-03-18,Two Year,117.76,32,Female,0,Yes
+SUB-1250,2023-07-02,Month-to-Month,40.16,33,Male,0,No
+SUB-1251,2022-04-14,Month-to-Month,44.12,35,Male,1,Yes
+SUB-1252,2023-11-10,One Year,61.95,18,Female,1,No
+SUB-1253,2022-07-07,Month-to-Month,95.63,58,Female,3,No
+SUB-1254,2022-04-20,One Year,106.55,27,Female,0,No
+SUB-1255,2022-03-06,Month-to-Month,39.59,32,Female,0,No
+SUB-1256,2023-06-19,Month-to-Month,58.16,66,Male,0,Yes
+SUB-1257,2023-10-13,Two Year,86.51,48,Male,2,No
+SUB-1258,2023-04-02,Two Year,68.37,67,Male,2,No
+SUB-1259,2023-06-26,Month-to-Month,34.91,65,Female,0,No
+SUB-1260,2022-10-20,Two Year,34.92,42,Female,1,No
+SUB-1261,2022-08-03,Two Year,102.01,27,Female,4,No
+SUB-1262,2022-05-10,Two Year,35.39,33,Female,1,No
+SUB-1263,2023-08-07,Month-to-Month,113.84,61,Female,3,Yes
+SUB-1264,2023-07-12,One Year,62.7,55,Female,1,No
+SUB-1265,2023-09-21,Month-to-Month,56.0,35,Male,0,No
+SUB-1266,2022-12-20,Month-to-Month,37.69,68,Male,2,No
+SUB-1267,2022-03-09,Month-to-Month,75.68,21,Female,0,Yes
+SUB-1268,2022-12-25,One Year,111.76,66,Female,0,No
+SUB-1269,2023-04-22,Month-to-Month,86.52,57,Female,1,Yes
+SUB-1270,2023-10-28,Month-to-Month,50.35,48,Female,0,No
+SUB-1271,2023-11-12,One Year,48.06,42,Male,0,No
+SUB-1272,2022-05-24,Month-to-Month,43.71,58,Male,0,Yes
+SUB-1273,2022-03-26,One Year,60.27,58,Female,0,No
+SUB-1274,2022-08-18,One Year,47.2,45,Male,0,No
+SUB-1275,2022-11-26,One Year,58.95,27,Female,0,No
+SUB-1276,2022-09-27,Month-to-Month,48.62,33,Female,0,Yes
+SUB-1277,2022-11-27,One Year,71.45,35,Male,2,No
+SUB-1278,2022-09-27,Month-to-Month,74.26,57,Male,0,No
+SUB-1279,2022-05-08,Month-to-Month,77.65,36,Female,3,Yes
+SUB-1280,2022-05-16,Two Year,87.9,39,Male,0,No
+SUB-1281,2023-10-16,Month-to-Month,106.63,38,Male,0,Yes
+SUB-1282,2022-05-19,Month-to-Month,113.43,63,Female,0,No
+SUB-1283,2023-10-10,Two Year,90.51,55,Male,0,No
+SUB-1284,2023-07-14,Month-to-Month,34.36,37,Female,3,Yes
+SUB-1285,2023-10-13,Month-to-Month,33.56,29,Female,0,Yes
+SUB-1286,2023-02-14,Month-to-Month,58.85,45,Female,0,Yes
+SUB-1287,2022-03-29,Two Year,115.29,45,Female,2,No
+SUB-1288,2023-01-17,Two Year,57.9,50,Female,1,No
+SUB-1289,2023-01-03,Month-to-Month,34.23,34,Male,3,No
+SUB-1290,2023-03-22,Two Year,50.58,65,Male,2,No
+SUB-1291,2022-08-12,One Year,111.75,29,Male,3,Yes
+SUB-1292,2022-11-30,Two Year,78.67,60,Female,1,No
+SUB-1293,2022-09-03,Two Year,65.97,32,Female,3,No
+SUB-1294,2023-08-27,Two Year,41.38,50,Female,3,No
+SUB-1295,2023-04-08,Month-to-Month,72.37,63,Male,1,Yes
+SUB-1296,2022-09-06,Month-to-Month,79.2,48,Female,0,Yes
+SUB-1297,2023-07-18,Month-to-Month,99.41,19,Male,1,Yes
+SUB-1298,2022-02-02,One Year,114.13,51,Female,0,No
+SUB-1299,2022-05-13,Two Year,68.65,33,Male,0,No
+SUB-1300,2023-09-20,One Year,102.2,20,Female,0,No
+SUB-1301,2022-10-19,One Year,82.18,20,Male,2,No
+SUB-1302,2023-05-02,Month-to-Month,85.94,44,Male,0,Yes
+SUB-1303,2022-05-13,Two Year,99.01,46,Female,0,No
+SUB-1304,2022-04-21,Month-to-Month,30.02,37,Female,0,Yes
+SUB-1305,2022-11-25,Two Year,102.53,19,Male,2,Yes
+SUB-1306,2023-04-14,Month-to-Month,33.28,44,Female,0,No
+SUB-1307,2022-02-21,Month-to-Month,50.53,35,Male,4,No
+SUB-1308,2023-01-28,Two Year,93.04,32,Female,0,No
+SUB-1309,2023-09-14,One Year,85.52,68,Male,1,Yes
+SUB-1310,2023-06-06,One Year,53.35,62,Male,0,No
+SUB-1311,2023-10-14,Two Year,112.53,65,Male,1,No
+SUB-1312,2023-06-21,Month-to-Month,100.56,26,Female,0,Yes
+SUB-1313,2023-05-26,Month-to-Month,64.48,66,Female,2,No
+SUB-1314,2022-07-28,Month-to-Month,73.84,22,Male,0,No
+SUB-1315,2022-05-27,Two Year,73.54,67,Male,3,No
+SUB-1316,2023-01-21,Month-to-Month,52.23,42,Male,3,No
+SUB-1317,2022-06-21,Two Year,69.29,64,Female,1,No
+SUB-1318,2022-03-13,Month-to-Month,74.78,52,Male,1,Yes
+SUB-1319,2022-11-24,Month-to-Month,68.92,59,Male,2,No
+SUB-1320,2022-11-20,One Year,81.66,66,Male,1,No
+SUB-1321,2022-04-13,Two Year,60.2,32,Male,0,No
+SUB-1322,2022-07-13,One Year,88.33,41,Male,1,Yes
+SUB-1323,2022-01-15,One Year,33.42,26,Male,3,No
+SUB-1324,2022-01-28,One Year,70.71,27,Female,1,Yes
+SUB-1325,2022-07-29,Two Year,88.88,23,Female,0,No
+SUB-1326,2022-02-22,Two Year,119.84,37,Male,0,No
+SUB-1327,2022-05-15,One Year,32.54,65,Male,4,No
+SUB-1328,2023-10-30,One Year,94.83,67,Male,1,No
+SUB-1329,2022-04-11,Month-to-Month,111.73,26,Male,0,No
+SUB-1330,2023-01-16,Two Year,81.47,57,Female,1,No
+SUB-1331,2023-03-11,Month-to-Month,66.9,33,Male,0,Yes
+SUB-1332,2023-07-23,One Year,59.21,24,Male,3,No
+SUB-1333,2023-08-07,One Year,90.42,49,Female,0,Yes
+SUB-1334,2022-11-09,Month-to-Month,47.77,26,Female,0,No
+SUB-1335,2022-05-11,One Year,89.06,48,Female,0,No
+SUB-1336,2023-04-25,One Year,86.16,49,Male,0,No
+SUB-1337,2022-12-31,One Year,36.94,36,Female,0,No
+SUB-1338,2022-04-28,One Year,103.84,36,Male,1,No
+SUB-1339,2023-01-25,Month-to-Month,58.3,51,Male,0,No
+SUB-1340,2022-07-29,One Year,86.63,26,Female,1,No
+SUB-1341,2022-11-05,Month-to-Month,107.38,45,Female,0,Yes
+SUB-1342,2022-09-10,Two Year,73.47,36,Female,2,No
+SUB-1343,2022-05-02,Month-to-Month,38.71,45,Female,1,Yes
+SUB-1344,2022-03-23,Two Year,48.95,34,Male,4,No
+SUB-1345,2023-07-27,Two Year,58.33,42,Male,3,No
+SUB-1346,2022-04-21,Two Year,45.82,23,Female,1,Yes
+SUB-1347,2022-04-09,One Year,40.17,18,Male,0,No
+SUB-1348,2023-05-18,Month-to-Month,53.67,32,Female,3,Yes
+SUB-1349,2022-04-24,One Year,96.09,56,Male,1,No
+SUB-1350,2022-11-30,One Year,112.36,22,Female,0,Yes
+SUB-1351,2022-07-18,Month-to-Month,98.43,56,Female,0,Yes
+SUB-1352,2022-01-23,Two Year,54.05,55,Male,2,No
+SUB-1353,2022-07-22,Two Year,39.67,24,Female,3,Yes
+SUB-1354,2023-08-14,Month-to-Month,52.02,62,Male,4,Yes
+SUB-1355,2022-08-09,Two Year,107.34,63,Male,0,Yes
+SUB-1356,2023-07-09,One Year,30.84,27,Female,1,No
+SUB-1357,2023-06-27,Two Year,63.11,31,Male,1,Yes
+SUB-1358,2022-01-02,Two Year,103.75,24,Female,1,No
+SUB-1359,2023-10-29,One Year,104.29,56,Male,3,Yes
+SUB-1360,2022-10-09,Two Year,45.22,18,Female,2,No
+SUB-1361,2023-01-30,Two Year,58.86,53,Female,4,No
+SUB-1362,2022-08-28,Month-to-Month,113.25,28,Male,0,No
+SUB-1363,2023-09-22,One Year,66.79,48,Female,0,No
+SUB-1364,2023-11-18,Month-to-Month,34.37,64,Female,3,Yes
+SUB-1365,2023-03-18,Month-to-Month,116.75,24,Male,0,No
+SUB-1366,2023-05-13,Month-to-Month,89.39,30,Female,2,Yes
+SUB-1367,2022-08-27,Month-to-Month,89.31,30,Male,0,Yes
+SUB-1368,2023-02-21,Month-to-Month,77.47,66,Female,3,No
+SUB-1369,2023-03-09,Month-to-Month,115.36,22,Male,4,No
+SUB-1370,2023-08-24,One Year,35.78,59,Female,4,No
+SUB-1371,2022-02-18,Month-to-Month,88.79,67,Female,1,Yes
+SUB-1372,2022-05-25,Two Year,68.73,34,Male,1,No
+SUB-1373,2023-03-20,One Year,112.24,67,Male,2,No
+SUB-1374,2022-06-27,Two Year,43.63,50,Female,0,No
+SUB-1375,2022-09-04,One Year,30.49,33,Female,1,No
+SUB-1376,2022-03-06,Month-to-Month,58.87,29,Male,1,No
+SUB-1377,2023-08-24,One Year,66.24,68,Female,0,No
+SUB-1378,2022-03-15,Month-to-Month,89.54,29,Male,1,Yes
+SUB-1379,2022-02-01,One Year,79.83,52,Male,1,Yes
+SUB-1380,2023-07-12,Month-to-Month,119.35,21,Female,0,No
+SUB-1381,2023-04-18,One Year,78.03,53,Female,2,No
+SUB-1382,2023-09-23,Two Year,74.04,47,Male,0,No
+SUB-1383,2023-05-01,One Year,72.37,68,Female,1,No
+SUB-1384,2023-09-17,Two Year,31.22,38,Female,0,Yes
+SUB-1385,2022-05-27,Two Year,118.64,39,Male,2,No
+SUB-1386,2022-03-04,Two Year,93.4,53,Female,0,No
+SUB-1387,2022-11-18,Two Year,73.21,26,Female,1,No
+SUB-1388,2022-07-08,Month-to-Month,39.51,59,Female,1,No
+SUB-1389,2023-03-03,Month-to-Month,68.03,34,Male,0,Yes
+SUB-1390,2022-07-14,Two Year,62.65,24,Female,0,No
+SUB-1391,2023-07-20,One Year,45.73,40,Female,1,No
+SUB-1392,2022-08-30,Month-to-Month,59.29,33,Male,0,Yes
+SUB-1393,2023-01-19,Two Year,94.96,65,Female,2,Yes
+SUB-1394,2022-02-16,Two Year,80.4,33,Female,0,No
+SUB-1395,2022-05-03,Month-to-Month,31.65,26,Male,0,No
+SUB-1396,2023-08-30,One Year,43.55,22,Male,1,No
+SUB-1397,2022-02-28,One Year,90.27,34,Female,0,No
+SUB-1398,2022-11-07,Two Year,62.02,36,Female,0,No
+SUB-1399,2022-12-04,Month-to-Month,107.76,66,Female,0,Yes
+SUB-1400,2022-08-20,Month-to-Month,69.95,45,Male,0,Yes
+SUB-1401,2022-02-20,One Year,79.89,61,Male,0,No
+SUB-1402,2023-11-18,Two Year,109.91,18,Female,0,No
+SUB-1403,2023-05-16,Two Year,68.85,18,Female,3,No
+SUB-1404,2023-04-12,Two Year,50.48,46,Male,1,No
+SUB-1405,2023-01-23,Month-to-Month,70.56,50,Female,0,No
+SUB-1406,2023-01-22,Month-to-Month,105.81,21,Male,1,No
+SUB-1407,2022-06-20,One Year,47.56,52,Female,1,No
+SUB-1408,2022-09-24,Two Year,108.42,20,Male,0,No
+SUB-1409,2022-03-02,One Year,58.84,39,Male,0,No
+SUB-1410,2022-05-22,Month-to-Month,111.13,55,Male,2,Yes
+SUB-1411,2022-02-24,Month-to-Month,104.97,50,Female,2,No
+SUB-1412,2023-11-02,Month-to-Month,108.37,63,Female,1,Yes
+SUB-1413,2023-07-18,Month-to-Month,90.07,48,Male,0,Yes
+SUB-1414,2023-11-30,One Year,60.87,45,Female,0,Yes
+SUB-1415,2023-09-13,Two Year,66.33,50,Female,2,No
+SUB-1416,2022-04-30,Two Year,83.93,41,Male,3,No
+SUB-1417,2023-05-08,Two Year,60.32,35,Female,0,No
+SUB-1418,2022-11-05,Month-to-Month,36.53,45,Female,4,No
+SUB-1419,2023-04-08,Month-to-Month,78.86,50,Female,0,No
+SUB-1420,2023-04-27,One Year,50.27,56,Female,0,No
+SUB-1421,2023-04-19,One Year,80.53,33,Female,4,Yes
+SUB-1422,2023-05-18,One Year,116.54,35,Male,2,No
+SUB-1423,2023-05-15,One Year,79.43,26,Female,0,No
+SUB-1424,2022-04-25,One Year,94.9,33,Female,2,No
+SUB-1425,2023-01-22,One Year,95.11,26,Female,1,No
+SUB-1426,2023-09-16,One Year,37.62,64,Female,0,Yes
+SUB-1427,2023-02-21,Month-to-Month,105.64,56,Male,0,No
+SUB-1428,2022-03-13,One Year,66.42,42,Female,3,No
+SUB-1429,2022-10-02,Month-to-Month,83.18,59,Female,4,No
+SUB-1430,2023-06-13,One Year,100.16,47,Female,1,Yes
+SUB-1431,2022-03-28,One Year,115.11,53,Male,3,No
+SUB-1432,2023-02-25,Two Year,70.46,62,Female,0,Yes
+SUB-1433,2023-10-02,Two Year,102.95,52,Male,1,No
+SUB-1434,2023-08-06,Month-to-Month,94.86,29,Female,0,No
+SUB-1435,2023-06-28,Month-to-Month,54.73,51,Male,0,No
+SUB-1436,2022-07-03,Two Year,43.33,21,Female,1,No
+SUB-1437,2023-09-29,Two Year,73.93,50,Male,1,No
+SUB-1438,2023-10-23,Two Year,94.81,44,Male,1,No
+SUB-1439,2022-01-08,Month-to-Month,49.99,50,Male,0,No
+SUB-1440,2023-06-02,Two Year,114.96,33,Female,3,Yes
+SUB-1441,2022-12-05,One Year,102.94,42,Male,2,No
+SUB-1442,2023-11-26,Month-to-Month,90.12,48,Male,3,Yes
+SUB-1443,2022-05-26,One Year,105.66,33,Male,3,No
+SUB-1444,2023-03-01,Month-to-Month,49.01,65,Male,3,Yes
+SUB-1445,2023-07-04,Two Year,72.56,46,Male,0,Yes
+SUB-1446,2023-10-19,Month-to-Month,113.37,30,Male,3,No
+SUB-1447,2022-09-25,Month-to-Month,44.15,39,Female,1,No
+SUB-1448,2023-05-07,One Year,43.1,46,Male,2,No
+SUB-1449,2023-09-04,One Year,33.69,63,Female,4,No
+SUB-1450,2023-10-16,One Year,109.45,67,Female,1,No
+SUB-1451,2023-07-20,Two Year,110.46,58,Male,0,No
+SUB-1452,2023-10-02,Two Year,49.16,34,Male,1,No
+SUB-1453,2023-09-04,Two Year,73.52,49,Male,0,No
+SUB-1454,2022-05-03,Two Year,36.59,18,Male,2,No
+SUB-1455,2022-09-17,Month-to-Month,39.92,58,Female,1,No
+SUB-1456,2022-01-07,Month-to-Month,95.36,22,Male,1,No
+SUB-1457,2023-08-08,Two Year,90.41,38,Male,1,Yes
+SUB-1458,2022-10-20,Month-to-Month,60.81,62,Male,0,No
+SUB-1459,2022-07-19,Month-to-Month,77.5,43,Female,3,No
+SUB-1460,2022-12-19,Two Year,116.82,40,Female,3,Yes
+SUB-1461,2023-08-02,Month-to-Month,77.69,57,Female,2,No
+SUB-1462,2023-06-26,One Year,99.13,66,Female,1,No
+SUB-1463,2023-03-25,Two Year,81.26,48,Male,0,No
+SUB-1464,2022-10-19,One Year,82.42,60,Female,0,Yes
+SUB-1465,2022-03-31,Month-to-Month,110.78,30,Male,4,Yes
+SUB-1466,2023-04-30,Month-to-Month,33.02,57,Male,0,No
+SUB-1467,2022-12-05,Two Year,79.88,36,Male,0,No
+SUB-1468,2022-01-09,Month-to-Month,33.01,63,Female,0,Yes
+SUB-1469,2023-09-16,One Year,34.98,23,Female,3,Yes
+SUB-1470,2022-12-31,One Year,87.58,36,Male,0,Yes
+SUB-1471,2022-01-22,Month-to-Month,81.03,55,Female,0,No
+SUB-1472,2023-08-10,One Year,93.68,25,Female,0,No
+SUB-1473,2023-04-01,One Year,64.66,48,Male,1,No
+SUB-1474,2023-04-14,Two Year,76.48,25,Male,0,No
+SUB-1475,2023-09-16,One Year,90.68,48,Female,0,Yes
+SUB-1476,2023-03-10,Month-to-Month,83.95,61,Male,0,Yes
+SUB-1477,2023-02-24,Month-to-Month,44.25,58,Male,3,No
+SUB-1478,2023-02-21,One Year,80.85,42,Male,3,No
+SUB-1479,2022-03-11,Month-to-Month,80.35,65,Female,0,Yes
+SUB-1480,2023-09-23,Two Year,114.26,24,Female,1,No
+SUB-1481,2022-10-15,Month-to-Month,100.91,30,Female,2,No
+SUB-1482,2023-03-14,Two Year,93.79,65,Male,3,No
+SUB-1483,2023-11-06,Month-to-Month,32.32,24,Female,2,Yes
+SUB-1484,2023-11-16,Month-to-Month,76.64,25,Female,0,Yes
+SUB-1485,2023-11-15,One Year,31.17,63,Male,0,No
+SUB-1486,2022-10-29,Month-to-Month,113.18,18,Female,0,Yes
+SUB-1487,2023-01-16,Month-to-Month,49.74,20,Female,3,Yes
+SUB-1488,2022-03-11,Two Year,107.02,40,Male,0,No
+SUB-1489,2022-05-24,Two Year,102.06,59,Female,0,No
+SUB-1490,2022-11-21,One Year,39.63,47,Female,1,No
+SUB-1491,2022-06-04,One Year,31.88,66,Female,1,No
+SUB-1492,2023-02-06,Month-to-Month,68.84,54,Female,1,Yes
+SUB-1493,2022-12-19,One Year,88.8,49,Female,4,Yes
+SUB-1494,2023-11-10,Month-to-Month,94.37,52,Male,3,No
+SUB-1495,2023-07-01,Month-to-Month,46.58,21,Female,0,Yes
+SUB-1496,2022-06-09,Month-to-Month,41.3,55,Male,1,No
+SUB-1497,2022-06-24,One Year,71.01,34,Female,0,No
+SUB-1498,2023-09-09,Two Year,81.15,52,Female,0,No
+SUB-1499,2023-09-15,Two Year,105.82,33,Male,0,Yes
+SUB-1500,2023-11-07,One Year,40.65,24,Male,2,No
+SUB-1501,2022-10-23,Month-to-Month,76.11,59,Female,0,Yes
+SUB-1502,2022-08-20,Two Year,42.27,48,Female,0,Yes
+SUB-1503,2023-01-16,One Year,81.74,45,Female,4,No
+SUB-1504,2022-07-21,Month-to-Month,68.7,26,Male,0,No
+SUB-1505,2022-09-21,Two Year,99.88,57,Male,3,No
+SUB-1506,2022-04-20,One Year,31.39,39,Female,1,No
+SUB-1507,2022-09-01,Month-to-Month,67.44,43,Female,1,No
+SUB-1508,2022-04-02,Two Year,80.78,52,Male,0,No
+SUB-1509,2023-09-11,One Year,115.05,65,Male,2,No
+SUB-1510,2022-06-12,Month-to-Month,69.74,45,Male,3,Yes
+SUB-1511,2023-06-17,Month-to-Month,109.64,68,Male,2,Yes
+SUB-1512,2022-11-29,Month-to-Month,73.08,46,Male,0,Yes
+SUB-1513,2023-02-13,One Year,103.0,33,Male,3,Yes
+SUB-1514,2022-02-07,Month-to-Month,95.92,24,Male,0,Yes
+SUB-1515,2022-04-06,One Year,99.21,62,Male,0,No
+SUB-1516,2023-04-26,Two Year,69.26,37,Female,0,No
+SUB-1517,2022-03-22,Month-to-Month,53.46,44,Male,1,No
+SUB-1518,2023-11-11,One Year,45.2,22,Male,0,No
+SUB-1519,2023-08-14,One Year,53.63,30,Male,1,Yes
+SUB-1520,2023-04-09,One Year,34.35,58,Female,0,No
+SUB-1521,2023-05-12,One Year,111.39,61,Male,2,No
+SUB-1522,2022-11-07,One Year,89.72,36,Male,0,No
+SUB-1523,2023-04-08,Month-to-Month,92.4,55,Male,1,No
+SUB-1524,2023-03-26,Month-to-Month,109.19,60,Female,0,No
+SUB-1525,2023-04-29,Month-to-Month,58.34,21,Female,3,Yes
+SUB-1526,2022-05-13,Month-to-Month,32.35,46,Female,0,No
+SUB-1527,2023-10-28,Two Year,51.06,47,Female,0,Yes
+SUB-1528,2022-05-02,Month-to-Month,76.46,26,Male,2,Yes
+SUB-1529,2022-12-28,Two Year,54.35,22,Male,0,No
+SUB-1530,2022-04-01,Two Year,70.25,27,Male,0,No
+SUB-1531,2023-11-06,Two Year,56.79,48,Female,1,No
+SUB-1532,2023-04-15,Month-to-Month,112.2,67,Male,0,No
+SUB-1533,2023-04-27,Two Year,86.47,40,Female,3,No
+SUB-1534,2022-07-31,One Year,96.19,28,Female,0,No
+SUB-1535,2022-06-03,Two Year,39.18,69,Female,2,No
+SUB-1536,2023-05-29,Two Year,92.42,31,Female,0,Yes
+SUB-1537,2023-10-15,One Year,65.89,25,Female,0,No
+SUB-1538,2023-06-27,Month-to-Month,54.48,59,Male,0,No
+SUB-1539,2023-10-05,Two Year,60.28,58,Female,0,No
+SUB-1540,2022-06-11,One Year,104.36,25,Female,2,Yes
+SUB-1541,2023-04-11,Month-to-Month,64.04,42,Female,2,No
+SUB-1542,2023-05-09,Month-to-Month,99.95,55,Female,0,Yes
+SUB-1543,2022-01-12,Two Year,34.75,67,Female,3,No
+SUB-1544,2023-05-14,One Year,70.59,64,Female,0,Yes
+SUB-1545,2023-04-01,One Year,93.99,36,Female,0,No
+SUB-1546,2022-02-01,One Year,112.05,45,Male,0,No
+SUB-1547,2022-05-16,One Year,51.1,45,Male,3,No
+SUB-1548,2022-11-20,One Year,53.14,38,Male,4,No
+SUB-1549,2022-04-15,Two Year,30.89,33,Male,0,No
+SUB-1550,2022-12-20,One Year,41.69,19,Male,1,No
+SUB-1551,2022-03-28,Month-to-Month,55.42,32,Male,1,No
+SUB-1552,2022-02-11,Month-to-Month,73.75,34,Female,2,Yes
+SUB-1553,2023-09-18,One Year,39.5,65,Male,1,No
+SUB-1554,2022-04-05,One Year,106.53,39,Male,0,Yes
+SUB-1555,2022-08-09,One Year,117.85,46,Female,3,No
+SUB-1556,2022-03-15,Month-to-Month,47.19,18,Female,0,Yes
+SUB-1557,2022-11-28,Two Year,65.0,21,Female,3,Yes
+SUB-1558,2022-04-25,One Year,68.51,43,Male,2,Yes
+SUB-1559,2023-06-10,Month-to-Month,41.29,59,Male,1,No
+SUB-1560,2022-10-05,One Year,59.79,26,Male,0,No
+SUB-1561,2023-02-13,One Year,101.45,38,Female,0,No
+SUB-1562,2022-04-15,Two Year,32.6,47,Female,0,No
+SUB-1563,2022-03-02,One Year,32.91,29,Female,1,No
+SUB-1564,2023-06-01,Two Year,72.78,39,Male,0,No
+SUB-1565,2022-09-10,One Year,116.74,27,Female,3,No
+SUB-1566,2023-09-29,One Year,93.32,23,Male,1,No
+SUB-1567,2023-01-13,Two Year,40.3,64,Female,0,No
+SUB-1568,2022-05-12,Two Year,39.28,68,Male,0,No
+SUB-1569,2022-02-03,Two Year,64.65,33,Female,1,No
+SUB-1570,2022-01-19,Two Year,41.4,58,Female,3,No
+SUB-1571,2022-08-10,Two Year,62.69,36,Female,0,Yes
+SUB-1572,2022-12-15,One Year,47.53,35,Male,0,No
+SUB-1573,2023-09-23,Month-to-Month,87.43,25,Female,0,Yes
+SUB-1574,2023-05-06,One Year,33.63,60,Male,0,Yes
+SUB-1575,2023-01-29,Two Year,55.99,24,Male,0,Yes
+SUB-1576,2022-05-02,Month-to-Month,59.73,23,Male,0,Yes
+SUB-1577,2022-07-29,One Year,48.66,33,Male,2,No
+SUB-1578,2023-02-20,One Year,81.95,23,Female,0,Yes
+SUB-1579,2022-01-18,Two Year,39.98,43,Male,0,No
+SUB-1580,2023-03-24,Month-to-Month,115.22,56,Female,0,Yes
+SUB-1581,2022-03-21,Two Year,31.43,34,Male,0,No
+SUB-1582,2022-10-09,One Year,80.65,29,Female,2,No
+SUB-1583,2022-11-13,Month-to-Month,108.41,24,Male,0,Yes
+SUB-1584,2022-09-28,One Year,61.49,59,Male,4,No
+SUB-1585,2022-03-27,Month-to-Month,68.1,41,Female,0,Yes
+SUB-1586,2022-05-01,Month-to-Month,59.18,49,Female,1,Yes
+SUB-1587,2022-02-28,One Year,111.83,39,Male,0,Yes
+SUB-1588,2023-08-16,Two Year,59.53,19,Male,0,No
+SUB-1589,2023-07-20,Month-to-Month,91.59,54,Female,1,Yes
+SUB-1590,2023-03-23,One Year,65.17,45,Female,4,No
+SUB-1591,2022-09-01,Month-to-Month,52.25,65,Male,0,No
+SUB-1592,2023-10-09,Two Year,85.23,48,Female,0,No
+SUB-1593,2023-10-14,Two Year,31.98,27,Female,1,No
+SUB-1594,2022-12-23,Month-to-Month,85.03,31,Female,0,No
+SUB-1595,2022-01-29,One Year,83.0,65,Male,0,No
+SUB-1596,2022-07-03,One Year,68.02,50,Female,0,No
+SUB-1597,2022-09-22,Month-to-Month,32.26,23,Male,1,No
+SUB-1598,2022-05-19,One Year,41.48,59,Male,0,No
+SUB-1599,2022-09-12,Two Year,70.24,53,Female,0,No
+SUB-1600,2022-03-10,One Year,76.88,52,Male,4,No
+SUB-1601,2023-07-20,Two Year,32.55,56,Female,0,No
+SUB-1602,2022-07-09,Two Year,93.78,29,Male,1,No
+SUB-1603,2023-10-24,Two Year,46.08,48,Male,2,No
+SUB-1604,2022-12-09,Two Year,72.91,30,Male,3,No
+SUB-1605,2022-11-19,Two Year,65.62,42,Female,2,No
+SUB-1606,2023-05-07,One Year,35.33,42,Female,1,Yes
+SUB-1607,2022-03-13,Two Year,78.92,36,Male,1,No
+SUB-1608,2023-10-26,Month-to-Month,111.28,56,Female,0,No
+SUB-1609,2022-09-11,Two Year,85.75,62,Female,1,No
+SUB-1610,2023-05-26,Month-to-Month,55.61,34,Female,0,Yes
+SUB-1611,2022-02-26,Two Year,81.82,62,Male,0,Yes
+SUB-1612,2022-09-04,One Year,31.12,65,Female,2,No
+SUB-1613,2022-04-18,Month-to-Month,108.48,31,Male,4,Yes
+SUB-1614,2022-04-26,Two Year,106.72,29,Female,2,No
+SUB-1615,2022-08-23,One Year,110.29,42,Male,4,No
+SUB-1616,2022-01-24,Two Year,41.93,23,Female,1,No
+SUB-1617,2023-04-27,Two Year,88.57,34,Female,1,No
+SUB-1618,2023-03-11,One Year,44.07,47,Male,1,No
+SUB-1619,2023-04-11,Two Year,82.27,59,Male,0,No
+SUB-1620,2022-08-15,Two Year,44.45,30,Male,0,No
+SUB-1621,2023-01-06,One Year,36.0,48,Female,0,No
+SUB-1622,2022-06-21,Month-to-Month,93.28,61,Female,0,Yes
+SUB-1623,2022-05-15,Two Year,99.0,36,Female,2,No
+SUB-1624,2022-04-22,Month-to-Month,93.37,46,Male,3,No
+SUB-1625,2022-11-21,Two Year,74.91,62,Female,2,No
+SUB-1626,2022-01-14,Two Year,70.9,24,Male,0,No
+SUB-1627,2023-06-14,Two Year,75.88,18,Female,0,No
+SUB-1628,2022-10-27,One Year,61.52,43,Female,0,No
+SUB-1629,2022-09-09,Month-to-Month,58.64,58,Male,0,Yes
+SUB-1630,2023-10-16,Month-to-Month,86.74,23,Female,0,No
+SUB-1631,2023-04-29,One Year,54.15,30,Male,0,No
+SUB-1632,2022-09-14,One Year,32.73,25,Female,0,No
+SUB-1633,2022-02-01,Month-to-Month,116.53,20,Female,0,Yes
+SUB-1634,2023-04-20,Month-to-Month,90.23,44,Female,0,Yes
+SUB-1635,2023-09-09,One Year,78.86,61,Male,1,No
+SUB-1636,2022-05-22,Two Year,107.28,33,Female,0,Yes
+SUB-1637,2022-06-26,Two Year,92.53,26,Male,3,No
+SUB-1638,2023-06-11,Month-to-Month,87.86,50,Female,0,Yes
+SUB-1639,2023-04-22,Month-to-Month,116.6,66,Female,1,No
+SUB-1640,2023-11-30,One Year,115.8,44,Male,1,Yes
+SUB-1641,2022-04-25,One Year,31.37,35,Male,0,No
+SUB-1642,2023-02-08,One Year,45.4,46,Female,1,No
+SUB-1643,2022-10-05,Two Year,88.51,64,Female,0,No
+SUB-1644,2022-03-18,Month-to-Month,39.94,53,Male,2,Yes
+SUB-1645,2022-06-21,Month-to-Month,42.31,58,Female,0,No
+SUB-1646,2023-08-11,Month-to-Month,37.78,34,Male,0,No
+SUB-1647,2023-04-22,Month-to-Month,108.07,51,Female,4,Yes
+SUB-1648,2022-10-04,One Year,42.54,20,Male,0,Yes
+SUB-1649,2022-04-05,Month-to-Month,55.26,46,Male,1,No
+SUB-1650,2023-01-08,Month-to-Month,62.41,34,Male,0,No
+SUB-1651,2022-06-27,Month-to-Month,70.69,56,Female,0,No
+SUB-1652,2023-07-14,Month-to-Month,67.26,52,Female,0,Yes
+SUB-1653,2022-11-21,Month-to-Month,44.65,38,Female,1,Yes
+SUB-1654,2023-03-31,One Year,78.37,26,Male,1,Yes
+SUB-1655,2023-06-17,One Year,91.2,56,Male,0,No
+SUB-1656,2023-07-09,Month-to-Month,100.86,64,Male,0,Yes
+SUB-1657,2023-02-02,Two Year,109.88,29,Male,1,No
+SUB-1658,2023-05-01,Two Year,102.38,24,Male,0,No
+SUB-1659,2022-02-21,Two Year,102.23,46,Female,0,No
+SUB-1660,2022-05-23,Month-to-Month,116.37,66,Female,0,Yes
+SUB-1661,2022-01-14,Month-to-Month,119.35,59,Female,1,Yes
+SUB-1662,2022-01-27,Month-to-Month,53.13,69,Male,3,No
+SUB-1663,2022-06-30,One Year,91.55,60,Male,1,No
+SUB-1664,2022-09-17,Month-to-Month,110.99,58,Male,4,Yes
+SUB-1665,2023-07-07,Two Year,64.9,19,Male,0,No
+SUB-1666,2022-08-30,Month-to-Month,36.29,35,Female,1,No
+SUB-1667,2023-01-28,Month-to-Month,35.54,36,Male,0,Yes
+SUB-1668,2023-09-04,Month-to-Month,49.94,40,Male,2,Yes
+SUB-1669,2023-09-09,Two Year,76.18,36,Female,0,No
+SUB-1670,2023-09-06,Two Year,66.26,62,Male,1,No
+SUB-1671,2022-06-14,One Year,35.97,18,Female,1,No
+SUB-1672,2023-11-24,One Year,94.27,27,Female,3,No
+SUB-1673,2022-08-05,Month-to-Month,66.72,58,Male,0,No
+SUB-1674,2022-11-26,Month-to-Month,108.97,18,Male,1,Yes
+SUB-1675,2022-05-27,Two Year,50.97,29,Male,2,No
+SUB-1676,2022-01-29,Two Year,31.35,18,Female,2,Yes
+SUB-1677,2022-08-08,One Year,75.23,69,Male,2,No
+SUB-1678,2022-04-06,Two Year,54.93,56,Male,0,No
+SUB-1679,2022-09-03,Two Year,90.68,50,Female,1,No
+SUB-1680,2022-08-25,Month-to-Month,56.03,20,Female,3,No
+SUB-1681,2023-04-20,Month-to-Month,84.59,41,Male,0,No
+SUB-1682,2022-04-11,Month-to-Month,79.2,66,Male,0,No
+SUB-1683,2022-10-20,Two Year,113.45,29,Female,1,No
+SUB-1684,2022-02-13,Two Year,67.15,31,Female,0,No
+SUB-1685,2022-09-10,Month-to-Month,73.11,43,Female,0,No
+SUB-1686,2022-04-19,Month-to-Month,73.66,36,Female,0,No
+SUB-1687,2022-08-31,One Year,79.88,55,Female,0,No
+SUB-1688,2022-03-28,Month-to-Month,52.7,45,Male,0,No
+SUB-1689,2022-06-24,Two Year,74.79,24,Male,0,No
+SUB-1690,2023-06-27,One Year,42.93,45,Female,0,No
+SUB-1691,2023-08-22,One Year,30.83,28,Female,3,No
+SUB-1692,2023-02-05,Two Year,60.32,21,Male,1,No
+SUB-1693,2022-04-11,Month-to-Month,84.56,59,Female,1,No
+SUB-1694,2022-05-10,Month-to-Month,31.09,34,Male,0,No
+SUB-1695,2023-03-31,Two Year,83.05,52,Male,0,No
+SUB-1696,2022-08-21,One Year,104.55,50,Female,0,No
+SUB-1697,2022-06-14,Two Year,111.54,39,Male,0,No
+SUB-1698,2023-02-28,One Year,87.39,51,Male,1,No
+SUB-1699,2022-04-27,Two Year,96.84,56,Female,1,No
+SUB-1700,2023-05-24,One Year,53.27,53,Female,0,No
+SUB-1701,2022-10-13,Two Year,107.92,66,Female,0,No
+SUB-1702,2023-10-26,Two Year,89.16,44,Male,2,No
+SUB-1703,2023-04-01,One Year,70.88,24,Female,0,No
+SUB-1704,2022-05-10,Month-to-Month,37.2,38,Female,0,Yes
+SUB-1705,2023-06-19,One Year,55.39,68,Male,0,No
+SUB-1706,2023-05-20,Two Year,43.46,20,Male,3,Yes
+SUB-1707,2023-05-29,Month-to-Month,97.31,34,Female,0,Yes
+SUB-1708,2023-04-20,Month-to-Month,62.51,55,Male,0,Yes
+SUB-1709,2023-02-13,One Year,67.59,47,Female,1,No
+SUB-1710,2022-12-14,Two Year,52.79,60,Male,2,No
+SUB-1711,2022-09-14,Two Year,32.37,26,Female,0,No
+SUB-1712,2022-08-01,Two Year,106.18,39,Female,0,No
+SUB-1713,2023-05-18,One Year,93.43,22,Female,0,No
+SUB-1714,2022-08-20,Two Year,99.44,47,Female,3,No
+SUB-1715,2023-06-22,Month-to-Month,44.72,64,Male,0,Yes
+SUB-1716,2023-09-21,Two Year,40.53,52,Male,1,Yes
+SUB-1717,2022-09-18,Month-to-Month,116.82,49,Male,0,Yes
+SUB-1718,2022-01-20,One Year,66.32,64,Male,0,Yes
+SUB-1719,2022-02-27,Month-to-Month,72.9,57,Male,0,No
+SUB-1720,2023-09-07,One Year,119.28,41,Male,0,No
+SUB-1721,2022-01-14,One Year,99.11,33,Female,0,Yes
+SUB-1722,2023-08-15,One Year,37.84,61,Male,1,Yes
+SUB-1723,2023-02-24,Month-to-Month,58.26,56,Male,0,Yes
+SUB-1724,2022-03-11,One Year,41.45,55,Female,0,Yes
+SUB-1725,2022-07-22,Two Year,64.69,41,Male,0,No
+SUB-1726,2023-03-11,One Year,66.96,35,Male,3,No
+SUB-1727,2022-04-13,Two Year,57.79,57,Male,3,No
+SUB-1728,2022-06-18,Two Year,81.61,47,Female,0,No
+SUB-1729,2023-09-04,One Year,95.92,35,Male,4,No
+SUB-1730,2022-02-01,Month-to-Month,34.04,39,Male,0,No
+SUB-1731,2023-10-19,Month-to-Month,92.08,63,Female,4,Yes
+SUB-1732,2023-06-15,One Year,84.72,47,Male,1,Yes
+SUB-1733,2022-02-15,Month-to-Month,85.41,31,Female,2,Yes
+SUB-1734,2022-01-03,One Year,70.68,35,Male,3,No
+SUB-1735,2022-11-29,One Year,50.18,56,Male,3,Yes
+SUB-1736,2023-07-25,One Year,43.84,64,Female,0,No
+SUB-1737,2023-10-15,One Year,103.57,42,Male,0,No
+SUB-1738,2022-01-16,Two Year,62.06,23,Female,1,Yes
+SUB-1739,2023-02-03,One Year,65.94,47,Female,2,Yes
+SUB-1740,2023-08-30,One Year,106.39,69,Male,0,Yes
+SUB-1741,2022-07-19,Month-to-Month,82.07,29,Male,0,Yes
+SUB-1742,2023-10-15,Month-to-Month,60.47,67,Female,1,Yes
+SUB-1743,2022-03-19,One Year,87.42,58,Female,0,No
+SUB-1744,2023-07-16,Two Year,95.91,31,Female,2,No
+SUB-1745,2023-10-02,Two Year,37.54,42,Male,4,No
+SUB-1746,2022-08-29,Two Year,96.15,42,Male,0,Yes
+SUB-1747,2022-10-20,One Year,88.77,60,Female,1,No
+SUB-1748,2022-03-28,One Year,83.32,60,Male,0,No
+SUB-1749,2022-04-13,Two Year,45.42,67,Male,1,No
+SUB-1750,2022-02-09,Month-to-Month,35.66,50,Male,0,No
+SUB-1751,2023-04-08,Month-to-Month,116.79,63,Female,3,Yes
+SUB-1752,2022-02-09,Two Year,53.95,22,Female,3,No
+SUB-1753,2023-06-24,Month-to-Month,80.12,46,Male,0,Yes
+SUB-1754,2022-09-20,Two Year,99.61,51,Male,1,No
+SUB-1755,2023-10-07,Two Year,49.28,32,Female,1,No
+SUB-1756,2022-07-20,Two Year,88.91,42,Male,1,No
+SUB-1757,2022-05-17,Two Year,96.27,60,Female,1,No
+SUB-1758,2023-08-03,Two Year,83.68,47,Female,0,No
+SUB-1759,2022-10-16,Month-to-Month,79.89,39,Male,1,Yes
+SUB-1760,2023-01-27,Two Year,59.95,42,Female,2,No
+SUB-1761,2023-08-09,Month-to-Month,79.81,48,Female,0,Yes
+SUB-1762,2023-11-15,One Year,91.94,52,Male,0,No
+SUB-1763,2023-11-22,Two Year,91.18,45,Female,0,No
+SUB-1764,2023-09-13,Two Year,117.99,49,Male,3,Yes
+SUB-1765,2023-08-14,One Year,52.57,32,Female,1,No
+SUB-1766,2022-01-17,Month-to-Month,77.89,26,Male,0,Yes
+SUB-1767,2022-06-10,One Year,55.8,36,Male,0,No
+SUB-1768,2022-09-26,Two Year,38.11,23,Female,2,No
+SUB-1769,2022-04-20,Two Year,56.33,36,Female,3,No
+SUB-1770,2022-03-28,Two Year,78.02,44,Female,0,Yes
+SUB-1771,2022-07-15,One Year,102.72,65,Male,0,No
+SUB-1772,2022-06-27,Month-to-Month,55.34,36,Female,2,Yes
+SUB-1773,2023-06-16,One Year,76.85,34,Male,2,No
+SUB-1774,2023-01-31,One Year,49.05,25,Male,0,Yes
+SUB-1775,2022-10-01,One Year,53.11,20,Male,0,No
+SUB-1776,2023-04-14,Month-to-Month,81.42,51,Male,3,No
+SUB-1777,2023-11-26,Month-to-Month,40.04,57,Male,1,No
+SUB-1778,2022-03-22,One Year,62.2,40,Male,0,No
+SUB-1779,2023-08-22,One Year,82.29,41,Male,2,No
+SUB-1780,2023-04-21,Two Year,96.33,23,Male,0,Yes
+SUB-1781,2022-05-21,One Year,113.73,51,Male,0,No
+SUB-1782,2023-02-17,Two Year,68.06,41,Male,2,No
+SUB-1783,2023-03-08,Month-to-Month,77.09,50,Female,0,Yes
+SUB-1784,2022-12-24,Month-to-Month,72.29,18,Female,0,Yes
+SUB-1785,2023-01-24,Month-to-Month,86.25,49,Female,0,No
+SUB-1786,2023-10-26,One Year,68.97,27,Male,2,Yes
+SUB-1787,2023-09-15,One Year,40.78,40,Male,1,No
+SUB-1788,2022-06-11,One Year,81.88,52,Male,0,No
+SUB-1789,2023-10-25,One Year,42.19,34,Female,2,No
+SUB-1790,2022-11-22,One Year,50.04,67,Male,1,No
+SUB-1791,2023-09-07,Month-to-Month,51.5,44,Female,0,Yes
+SUB-1792,2022-03-03,One Year,66.19,61,Female,0,No
+SUB-1793,2022-09-10,One Year,72.11,62,Male,4,No
+SUB-1794,2022-06-15,Two Year,116.56,43,Female,2,No
+SUB-1795,2022-01-17,One Year,78.16,63,Female,0,No
+SUB-1796,2022-06-23,One Year,82.81,67,Female,2,No
+SUB-1797,2022-01-27,One Year,85.56,59,Female,4,No
+SUB-1798,2023-01-05,Month-to-Month,45.32,57,Male,0,No
+SUB-1799,2022-08-17,Two Year,66.83,66,Male,0,No
+SUB-1800,2022-06-11,Month-to-Month,42.13,62,Male,0,Yes
+SUB-1801,2023-09-29,Two Year,113.94,66,Female,0,No
+SUB-1802,2022-06-11,Two Year,111.81,36,Male,0,No
+SUB-1803,2022-09-30,Month-to-Month,116.4,34,Female,1,No
+SUB-1804,2022-11-24,Two Year,54.39,24,Male,0,No
+SUB-1805,2022-01-24,Two Year,32.87,54,Female,1,Yes
+SUB-1806,2023-02-25,Month-to-Month,50.87,25,Male,0,No
+SUB-1807,2023-05-30,Month-to-Month,68.64,43,Female,1,Yes
+SUB-1808,2022-02-03,Month-to-Month,71.35,30,Male,0,No
+SUB-1809,2022-03-30,Two Year,104.86,69,Male,2,No
+SUB-1810,2023-01-12,Two Year,105.35,29,Male,1,Yes
+SUB-1811,2022-06-25,Two Year,91.07,48,Male,3,No
+SUB-1812,2023-02-02,One Year,108.77,66,Male,0,No
+SUB-1813,2023-01-05,One Year,93.07,52,Male,1,No
+SUB-1814,2022-11-21,Month-to-Month,79.94,52,Female,1,No
+SUB-1815,2023-04-04,Two Year,59.65,36,Male,0,No
+SUB-1816,2023-09-13,Two Year,87.11,21,Female,1,No
+SUB-1817,2023-11-25,Month-to-Month,70.63,28,Male,3,No
+SUB-1818,2023-01-31,One Year,53.05,20,Male,0,Yes
+SUB-1819,2022-06-05,One Year,50.12,41,Male,0,Yes
+SUB-1820,2022-05-14,Two Year,86.26,44,Female,1,No
+SUB-1821,2022-01-13,One Year,105.69,45,Male,0,No
+SUB-1822,2023-10-20,Month-to-Month,70.32,54,Female,0,Yes
+SUB-1823,2022-12-13,Month-to-Month,33.81,48,Male,3,No
+SUB-1824,2023-03-07,Month-to-Month,102.65,55,Female,0,No
+SUB-1825,2022-12-26,Two Year,41.67,32,Male,0,No
+SUB-1826,2023-04-08,One Year,46.08,36,Female,0,No
+SUB-1827,2023-10-07,Month-to-Month,116.16,67,Male,0,Yes
+SUB-1828,2022-03-10,Two Year,98.26,31,Male,2,No
+SUB-1829,2023-09-09,Two Year,117.89,34,Female,0,No
+SUB-1830,2022-12-15,Month-to-Month,76.2,65,Female,2,No
+SUB-1831,2022-02-05,One Year,87.93,59,Male,1,No
+SUB-1832,2022-04-24,One Year,76.08,35,Female,1,No
+SUB-1833,2023-04-09,Two Year,115.38,23,Male,2,No
+SUB-1834,2022-10-31,Two Year,37.96,50,Female,0,Yes
+SUB-1835,2022-01-27,Month-to-Month,60.66,49,Female,2,Yes
+SUB-1836,2022-11-18,One Year,95.86,60,Female,0,Yes
+SUB-1837,2022-10-20,One Year,61.49,42,Female,3,No
+SUB-1838,2023-11-24,One Year,74.37,25,Male,1,No
+SUB-1839,2023-06-23,One Year,52.49,33,Male,1,No
+SUB-1840,2023-08-17,Two Year,71.61,33,Male,2,Yes
+SUB-1841,2022-09-20,Two Year,46.04,32,Male,1,No
+SUB-1842,2022-04-22,Month-to-Month,111.58,54,Male,0,Yes
+SUB-1843,2023-03-20,One Year,117.84,63,Female,0,No
+SUB-1844,2023-07-22,Two Year,78.74,20,Female,0,No
+SUB-1845,2022-06-20,One Year,84.38,33,Male,0,No
+SUB-1846,2023-04-04,Two Year,61.3,18,Male,0,No
+SUB-1847,2023-07-19,One Year,100.93,61,Female,0,No
+SUB-1848,2022-01-25,Two Year,67.73,36,Male,2,Yes
+SUB-1849,2022-03-07,Two Year,102.5,49,Female,0,No
+SUB-1850,2023-07-05,Month-to-Month,47.26,30,Female,2,Yes
+SUB-1851,2022-10-09,Month-to-Month,80.77,44,Female,3,No
+SUB-1852,2022-02-18,Two Year,46.04,56,Female,0,No
+SUB-1853,2022-03-12,Two Year,108.89,20,Female,1,No
+SUB-1854,2022-08-01,One Year,115.42,40,Female,0,No
+SUB-1855,2022-09-05,Month-to-Month,64.02,44,Male,1,Yes
+SUB-1856,2023-05-31,One Year,73.95,59,Female,0,Yes
+SUB-1857,2022-03-22,Month-to-Month,58.09,47,Female,0,Yes
+SUB-1858,2022-11-05,One Year,83.7,37,Female,2,Yes
+SUB-1859,2023-10-09,Month-to-Month,72.1,20,Female,2,Yes
+SUB-1860,2023-08-29,Two Year,77.49,22,Female,0,No
+SUB-1861,2023-04-27,One Year,82.47,47,Male,0,No
+SUB-1862,2022-11-12,One Year,55.69,37,Female,2,No
+SUB-1863,2023-03-20,Two Year,47.0,28,Male,4,No
+SUB-1864,2023-01-03,One Year,56.67,65,Male,0,No
+SUB-1865,2022-04-22,One Year,45.41,31,Female,0,Yes
+SUB-1866,2023-01-17,Month-to-Month,72.83,58,Female,1,Yes
+SUB-1867,2022-06-30,One Year,43.58,25,Female,1,No
+SUB-1868,2022-05-30,One Year,69.42,27,Female,0,No
+SUB-1869,2022-01-21,Month-to-Month,57.44,67,Male,1,No
+SUB-1870,2023-02-09,One Year,70.34,43,Male,2,No
+SUB-1871,2023-06-05,Month-to-Month,94.4,22,Male,1,No
+SUB-1872,2023-06-19,Two Year,58.52,65,Female,3,No
+SUB-1873,2023-05-18,Two Year,58.42,22,Male,4,No
+SUB-1874,2023-07-17,Two Year,37.01,64,Female,1,No
+SUB-1875,2023-04-21,One Year,85.28,52,Male,0,No
+SUB-1876,2023-01-02,Two Year,30.51,33,Male,1,Yes
+SUB-1877,2023-05-26,Month-to-Month,56.65,62,Female,0,No
+SUB-1878,2023-03-29,Month-to-Month,82.55,60,Male,4,Yes
+SUB-1879,2023-02-09,One Year,85.41,65,Male,4,Yes
+SUB-1880,2022-07-28,Two Year,64.02,24,Female,0,No
+SUB-1881,2023-07-31,Month-to-Month,55.94,48,Male,4,Yes
+SUB-1882,2022-02-17,Two Year,36.83,34,Female,0,No
+SUB-1883,2023-08-19,Two Year,72.25,34,Male,0,No
+SUB-1884,2023-09-20,Month-to-Month,59.01,56,Female,2,No
+SUB-1885,2022-02-22,One Year,62.7,61,Male,0,No
+SUB-1886,2022-12-23,Month-to-Month,62.17,69,Male,0,No
+SUB-1887,2022-02-04,Two Year,50.31,28,Female,1,Yes
+SUB-1888,2022-10-31,Month-to-Month,83.38,49,Female,0,Yes
+SUB-1889,2022-08-08,Month-to-Month,72.22,22,Male,0,Yes
+SUB-1890,2022-03-27,One Year,70.58,36,Male,0,No
+SUB-1891,2023-04-20,Two Year,96.0,19,Male,0,No
+SUB-1892,2023-03-02,One Year,54.76,67,Female,1,No
+SUB-1893,2023-08-14,Month-to-Month,105.48,29,Male,1,Yes
+SUB-1894,2023-08-26,One Year,60.62,43,Male,2,No
+SUB-1895,2022-07-12,Two Year,104.23,28,Female,0,No
+SUB-1896,2022-03-06,Month-to-Month,34.62,39,Female,2,Yes
+SUB-1897,2022-07-28,One Year,52.7,38,Female,0,Yes
+SUB-1898,2022-06-20,Month-to-Month,42.05,41,Female,1,No
+SUB-1899,2022-03-09,One Year,62.01,27,Female,0,No
+SUB-1900,2022-09-19,Month-to-Month,96.51,62,Male,0,Yes
+SUB-1901,2022-10-13,Two Year,74.8,60,Male,0,No
+SUB-1902,2022-01-09,One Year,76.8,51,Female,0,No
+SUB-1903,2023-01-24,Month-to-Month,104.5,69,Male,0,Yes
+SUB-1904,2022-01-08,Two Year,92.97,45,Male,0,No
+SUB-1905,2022-01-27,Month-to-Month,118.44,55,Male,0,No
+SUB-1906,2023-07-05,One Year,68.08,68,Female,0,No
+SUB-1907,2023-06-09,One Year,64.84,36,Female,1,No
+SUB-1908,2022-12-03,Two Year,34.28,36,Female,2,No
+SUB-1909,2022-11-18,Two Year,39.52,40,Female,0,No
+SUB-1910,2023-03-29,Two Year,114.27,36,Female,2,Yes
+SUB-1911,2022-10-07,One Year,47.38,19,Male,0,No
+SUB-1912,2022-07-13,Two Year,90.5,66,Male,4,No
+SUB-1913,2022-08-09,One Year,48.06,25,Male,4,No
+SUB-1914,2023-11-19,Two Year,50.24,43,Female,0,No
+SUB-1915,2022-10-22,Two Year,87.75,38,Male,0,No
+SUB-1916,2022-02-05,One Year,53.63,39,Female,0,Yes
+SUB-1917,2023-03-02,Month-to-Month,34.28,39,Female,2,Yes
+SUB-1918,2023-03-30,Two Year,92.83,43,Male,0,No
+SUB-1919,2022-08-16,Month-to-Month,82.2,47,Female,1,No
+SUB-1920,2023-02-08,Month-to-Month,59.6,34,Male,0,No
+SUB-1921,2022-10-03,Month-to-Month,31.86,43,Female,0,No
+SUB-1922,2022-06-24,One Year,64.48,66,Female,0,No
+SUB-1923,2022-07-14,Month-to-Month,65.4,38,Female,0,No
+SUB-1924,2023-11-22,One Year,50.78,60,Male,0,No
+SUB-1925,2023-05-10,Month-to-Month,100.27,69,Female,1,Yes
+SUB-1926,2022-05-22,One Year,45.53,66,Male,3,Yes
+SUB-1927,2023-10-26,Two Year,79.94,26,Female,1,Yes
+SUB-1928,2023-10-02,Two Year,50.38,54,Female,0,No
+SUB-1929,2022-11-03,One Year,54.47,28,Female,2,Yes
+SUB-1930,2022-10-12,Two Year,76.68,25,Female,0,No
+SUB-1931,2023-01-13,One Year,60.31,43,Male,0,No
+SUB-1932,2022-03-01,One Year,71.18,61,Male,0,No
+SUB-1933,2022-10-02,One Year,84.42,54,Male,1,No
+SUB-1934,2023-01-22,Month-to-Month,87.4,21,Female,0,Yes
+SUB-1935,2022-08-05,Two Year,104.86,31,Male,0,No
+SUB-1936,2022-07-18,Month-to-Month,105.73,19,Female,0,No
+SUB-1937,2023-07-10,Two Year,81.77,36,Male,0,No
+SUB-1938,2022-09-14,Two Year,36.29,26,Female,0,No
+SUB-1939,2023-01-28,Month-to-Month,117.38,19,Female,0,No
+SUB-1940,2023-06-04,Two Year,87.06,37,Female,0,No
+SUB-1941,2023-08-07,Two Year,98.94,36,Male,1,No
+SUB-1942,2022-07-29,Month-to-Month,78.38,53,Male,0,No
+SUB-1943,2023-03-04,Month-to-Month,33.71,45,Female,0,Yes
+SUB-1944,2022-04-15,One Year,38.03,49,Male,0,No
+SUB-1945,2023-10-11,One Year,98.67,49,Male,0,No
+SUB-1946,2023-06-26,Month-to-Month,94.08,22,Male,0,No
+SUB-1947,2023-11-07,Two Year,51.32,41,Female,0,No
+SUB-1948,2023-04-07,Month-to-Month,57.48,52,Male,2,Yes
+SUB-1949,2022-08-22,Month-to-Month,83.44,53,Female,1,Yes
+SUB-1950,2023-08-07,Two Year,37.49,54,Female,1,No
+SUB-1951,2023-10-27,Two Year,71.43,53,Female,1,No
+SUB-1952,2022-12-15,Month-to-Month,97.61,33,Male,4,No
+SUB-1953,2023-10-31,Two Year,101.25,61,Female,0,No
+SUB-1954,2022-02-25,Two Year,52.43,22,Male,4,No
+SUB-1955,2023-09-04,Month-to-Month,31.35,58,Female,2,No
+SUB-1956,2022-02-01,One Year,119.68,63,Male,0,No
+SUB-1957,2023-05-16,Two Year,91.25,34,Male,0,No
+SUB-1958,2023-11-26,Month-to-Month,83.2,24,Male,3,No
+SUB-1959,2023-10-28,One Year,35.02,64,Female,3,No
+SUB-1960,2022-05-29,Month-to-Month,37.07,62,Male,0,No
+SUB-1961,2023-05-20,One Year,76.94,69,Male,4,No
+SUB-1962,2022-04-13,One Year,30.45,25,Female,0,No
+SUB-1963,2023-02-01,Two Year,45.71,35,Female,2,No
+SUB-1964,2022-10-15,One Year,45.47,40,Male,0,No
+SUB-1965,2023-04-04,Month-to-Month,94.86,34,Male,2,No
+SUB-1966,2022-04-12,Month-to-Month,62.89,57,Female,2,No
+SUB-1967,2022-05-21,One Year,110.22,65,Male,0,No
+SUB-1968,2022-03-02,One Year,48.03,44,Male,2,No
+SUB-1969,2022-03-21,One Year,101.47,46,Male,1,No
+SUB-1970,2023-06-24,Month-to-Month,107.6,26,Male,0,No
+SUB-1971,2022-11-03,Month-to-Month,67.01,49,Female,0,No
+SUB-1972,2023-07-23,Two Year,30.02,37,Female,0,Yes
+SUB-1973,2022-09-30,Month-to-Month,41.49,47,Female,0,No
+SUB-1974,2022-03-19,Two Year,41.03,32,Female,0,No
+SUB-1975,2023-11-03,Two Year,78.89,50,Female,1,Yes
+SUB-1976,2022-07-05,Two Year,51.09,51,Male,4,No
+SUB-1977,2023-07-07,One Year,99.88,50,Male,0,No
+SUB-1978,2022-05-08,Two Year,110.83,40,Male,0,No
+SUB-1979,2022-01-30,Two Year,85.79,65,Female,2,Yes
+SUB-1980,2022-12-03,Two Year,47.9,41,Female,1,Yes
+SUB-1981,2022-12-01,Month-to-Month,68.47,51,Female,1,Yes
+SUB-1982,2023-01-21,One Year,81.22,68,Male,0,No
+SUB-1983,2023-08-27,Two Year,69.86,27,Male,2,No
+SUB-1984,2022-10-24,Month-to-Month,51.06,66,Male,2,No
+SUB-1985,2022-03-07,One Year,30.02,62,Female,1,No
+SUB-1986,2022-11-13,Month-to-Month,57.34,27,Male,4,Yes
+SUB-1987,2023-01-21,One Year,113.92,24,Female,0,No
+SUB-1988,2022-02-04,Month-to-Month,65.08,40,Male,0,Yes
+SUB-1989,2023-02-27,Two Year,58.08,36,Female,1,No
+SUB-1990,2023-11-06,One Year,59.23,63,Male,0,No
+SUB-1991,2023-02-23,One Year,59.26,46,Female,3,No
+SUB-1992,2022-01-14,Two Year,110.78,54,Female,0,No
+SUB-1993,2022-10-22,Month-to-Month,63.63,54,Female,3,Yes
+SUB-1994,2023-09-27,Month-to-Month,114.0,55,Female,1,Yes
+SUB-1995,2023-07-10,Two Year,34.86,39,Male,2,No
+SUB-1996,2023-04-01,One Year,74.09,48,Female,0,Yes
+SUB-1997,2022-09-03,One Year,80.42,63,Female,0,No
+SUB-1998,2023-02-14,One Year,97.43,25,Male,0,No
+SUB-1999,2023-05-26,Two Year,93.21,29,Male,1,No

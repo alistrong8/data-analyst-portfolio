@@ -1,0 +1,2001 @@
+TransactionID,Date,CustomerID,Region,Category,Product,Quantity,UnitPrice,TotalPrice,PaymentMethod
+TRX-10000,2023-09-28,CUST-206,East,Clothing,Jeans,1,58.49,58.49,Debit Card
+TRX-10001,2024-09-06,CUST-221,East,Clothing,T-Shirt,1,26.4,26.4,Credit Card
+TRX-10002,2024-04-03,CUST-187,North,Clothing,Jeans,3,55.87,167.61,Debit Card
+TRX-10003,2024-10-25,CUST-230,North,Home,Coffee Maker,4,77.34,309.36,Debit Card
+TRX-10004,2023-12-10,CUST-393,West,Electronics,Smartphone,2,723.29,1446.58,Debit Card
+TRX-10005,2023-10-04,CUST-260,South,Electronics,Monitor,4,270.05,1080.2,Debit Card
+TRX-10006,2023-09-10,CUST-335,East,Electronics,Smartphone,2,768.68,1537.36,Debit Card
+TRX-10007,2023-02-28,CUST-269,East,Electronics,Laptop,3,1085.53,3256.59,PayPal
+TRX-10008,2023-07-09,CUST-274,North,Home,Desk,4,136.4,545.6,Credit Card
+TRX-10009,2024-07-20,CUST-343,North,Home,Desk,4,153.55,614.2,Credit Card
+TRX-10010,2024-04-29,CUST-406,North,Clothing,Jacket,3,122.22,366.66,Debit Card
+TRX-10011,2023-06-16,CUST-373,West,Electronics,Laptop,1,1243.27,1243.27,Credit Card
+TRX-10012,2023-01-14,CUST-341,North,Electronics,Monitor,4,326.93,1307.72,PayPal
+TRX-10013,2024-07-18,CUST-485,East,Clothing,Jacket,2,117.25,234.5,PayPal
+TRX-10014,2024-03-30,CUST-363,West,Electronics,Smartphone,3,829.48,2488.44,Credit Card
+TRX-10015,2023-03-22,CUST-149,East,Clothing,Jeans,2,54.41,108.82,Debit Card
+TRX-10016,2024-01-25,CUST-153,South,Home,Coffee Maker,2,82.6,165.2,Debit Card
+TRX-10017,2024-04-21,CUST-290,South,Electronics,Smartphone,2,807.47,1614.94,PayPal
+TRX-10018,2023-06-11,CUST-301,North,Clothing,T-Shirt,4,26.71,106.84,PayPal
+TRX-10019,2023-09-28,CUST-314,North,Clothing,T-Shirt,2,26.97,53.94,Credit Card
+TRX-10020,2023-10-23,CUST-312,West,Clothing,Jeans,2,60.25,120.5,Credit Card
+TRX-10021,2023-02-22,CUST-379,North,Clothing,T-Shirt,2,24.44,48.88,Credit Card
+TRX-10022,2023-07-07,CUST-479,East,Clothing,Sneakers,4,87.42,349.68,Debit Card
+TRX-10023,2023-01-15,CUST-400,East,Electronics,Monitor,1,286.56,286.56,PayPal
+TRX-10024,2024-06-04,CUST-443,West,Home,Blender,3,41.17,123.51,Credit Card
+TRX-10025,2024-04-16,CUST-162,North,Clothing,T-Shirt,4,24.47,97.88,Credit Card
+TRX-10026,2024-01-27,CUST-262,West,Clothing,T-Shirt,1,26.58,26.58,PayPal
+TRX-10027,2024-05-04,CUST-330,South,Clothing,Jeans,3,63.48,190.44,Credit Card
+TRX-10028,2023-05-15,CUST-300,East,Electronics,Headphones,4,154.53,618.12,Debit Card
+TRX-10029,2023-02-02,CUST-147,West,Home,Blender,2,46.11,92.22,Debit Card
+TRX-10030,2024-12-28,CUST-392,West,Home,Coffee Maker,2,77.93,155.86,PayPal
+TRX-10031,2024-12-26,CUST-134,South,Clothing,T-Shirt,4,26.15,104.6,Credit Card
+TRX-10032,2024-04-06,CUST-230,West,Clothing,T-Shirt,1,24.86,24.86,PayPal
+TRX-10033,2024-05-17,CUST-354,West,Clothing,Sneakers,2,94.69,189.38,Credit Card
+TRX-10034,2024-01-28,CUST-306,East,Clothing,Sneakers,3,85.61,256.83,Credit Card
+TRX-10035,2024-04-05,CUST-278,West,Clothing,T-Shirt,2,24.64,49.28,Debit Card
+TRX-10036,2023-08-29,CUST-151,South,Home,Desk,3,135.94,407.82,Credit Card
+TRX-10037,2024-04-29,CUST-330,South,Electronics,Headphones,4,151.9,607.6,PayPal
+TRX-10038,2024-06-24,CUST-135,South,Home,Chair,3,98.21,294.63,Credit Card
+TRX-10039,2024-11-29,CUST-342,East,Clothing,Jacket,3,130.63,391.89,Debit Card
+TRX-10040,2024-11-12,CUST-144,North,Electronics,Laptop,2,1118.69,2237.38,Credit Card
+TRX-10041,2024-10-07,CUST-383,South,Home,Blender,1,43.16,43.16,PayPal
+TRX-10042,2023-12-06,CUST-385,East,Home,Blender,4,47.73,190.92,PayPal
+TRX-10043,2024-05-20,CUST-447,West,Clothing,Sneakers,4,96.9,387.6,PayPal
+TRX-10044,2023-08-13,CUST-484,East,Clothing,T-Shirt,2,24.28,48.56,PayPal
+TRX-10045,2024-09-24,CUST-215,North,Home,Blender,2,42.55,85.1,PayPal
+TRX-10046,2023-12-25,CUST-297,South,Home,Coffee Maker,3,77.64,232.92,Credit Card
+TRX-10047,2023-11-14,CUST-264,West,Home,Coffee Maker,1,80.17,80.17,Credit Card
+TRX-10048,2024-11-14,CUST-251,North,Electronics,Headphones,2,155.77,311.54,Debit Card
+TRX-10049,2024-11-02,CUST-195,West,Electronics,Monitor,2,326.57,653.14,Debit Card
+TRX-10050,2023-04-23,CUST-417,West,Clothing,Jacket,4,121.39,485.56,PayPal
+TRX-10051,2023-09-25,CUST-394,East,Clothing,T-Shirt,4,27.36,109.44,Debit Card
+TRX-10052,2024-09-04,CUST-212,North,Home,Desk,1,149.92,149.92,PayPal
+TRX-10053,2023-04-23,CUST-101,West,Clothing,T-Shirt,3,27.49,82.47,PayPal
+TRX-10054,2023-08-13,CUST-484,West,Home,Blender,2,45.02,90.04,Debit Card
+TRX-10055,2023-02-22,CUST-271,South,Electronics,Laptop,2,1137.49,2274.98,Debit Card
+TRX-10056,2024-02-20,CUST-346,North,Clothing,T-Shirt,2,24.74,49.48,Debit Card
+TRX-10057,2023-07-03,CUST-222,West,Clothing,Sneakers,3,93.1,279.3,Credit Card
+TRX-10058,2023-10-07,CUST-424,North,Electronics,Headphones,2,142.26,284.52,PayPal
+TRX-10059,2024-05-25,CUST-339,East,Electronics,Smartphone,2,821.17,1642.34,Debit Card
+TRX-10060,2023-05-04,CUST-286,North,Home,Chair,1,105.97,105.97,Credit Card
+TRX-10061,2024-10-21,CUST-351,West,Clothing,Jacket,1,112.48,112.48,PayPal
+TRX-10062,2023-12-12,CUST-246,North,Home,Desk,3,155.33,465.99,PayPal
+TRX-10063,2024-05-03,CUST-227,East,Home,Coffee Maker,3,77.58,232.74,Credit Card
+TRX-10064,2024-10-02,CUST-366,West,Home,Blender,4,45.16,180.64,Debit Card
+TRX-10065,2023-05-31,CUST-397,North,Electronics,Laptop,1,1161.86,1161.86,Credit Card
+TRX-10066,2023-05-24,CUST-445,West,Home,Blender,4,42.82,171.28,PayPal
+TRX-10067,2024-07-25,CUST-468,East,Home,Chair,4,109.64,438.56,PayPal
+TRX-10068,2023-09-11,CUST-239,East,Home,Blender,4,42.68,170.72,Credit Card
+TRX-10069,2023-01-09,CUST-332,West,Electronics,Laptop,4,1213.99,4855.96,PayPal
+TRX-10070,2023-07-27,CUST-230,East,Clothing,Sneakers,4,87.29,349.16,PayPal
+TRX-10071,2023-04-30,CUST-260,South,Home,Desk,2,160.69,321.38,PayPal
+TRX-10072,2024-09-16,CUST-203,North,Clothing,Sneakers,3,92.56,277.68,Debit Card
+TRX-10073,2023-04-22,CUST-198,North,Electronics,Headphones,3,153.19,459.57,Credit Card
+TRX-10074,2023-12-04,CUST-293,South,Electronics,Smartphone,2,875.79,1751.58,Credit Card
+TRX-10075,2024-11-11,CUST-260,West,Clothing,Sneakers,4,93.45,373.8,PayPal
+TRX-10076,2023-10-04,CUST-403,West,Electronics,Laptop,2,1084.34,2168.68,PayPal
+TRX-10077,2024-01-27,CUST-234,East,Electronics,Monitor,4,314.79,1259.16,Credit Card
+TRX-10078,2023-02-02,CUST-275,North,Clothing,Sneakers,4,93.98,375.92,Debit Card
+TRX-10079,2024-04-14,CUST-474,South,Electronics,Monitor,3,275.62,826.86,PayPal
+TRX-10080,2023-02-07,CUST-329,West,Home,Chair,2,95.01,190.02,Credit Card
+TRX-10081,2023-10-10,CUST-126,South,Clothing,Jeans,2,58.72,117.44,Debit Card
+TRX-10082,2024-08-31,CUST-383,North,Home,Blender,2,47.65,95.3,PayPal
+TRX-10083,2024-03-28,CUST-416,East,Clothing,T-Shirt,1,25.84,25.84,Debit Card
+TRX-10084,2024-06-30,CUST-291,South,Clothing,Sneakers,4,89.99,359.96,PayPal
+TRX-10085,2023-06-21,CUST-319,West,Home,Coffee Maker,1,82.33,82.33,Credit Card
+TRX-10086,2024-01-08,CUST-105,North,Electronics,Laptop,2,1192.79,2385.58,Credit Card
+TRX-10087,2023-02-06,CUST-379,South,Electronics,Monitor,1,292.21,292.21,Credit Card
+TRX-10088,2023-06-30,CUST-194,North,Clothing,Jacket,2,115.94,231.88,Debit Card
+TRX-10089,2023-04-26,CUST-290,South,Home,Chair,1,109.27,109.27,Debit Card
+TRX-10090,2023-06-10,CUST-355,North,Home,Chair,4,96.11,384.44,PayPal
+TRX-10091,2024-07-19,CUST-157,South,Clothing,T-Shirt,2,24.93,49.86,Credit Card
+TRX-10092,2024-09-17,CUST-387,North,Clothing,T-Shirt,2,27.15,54.3,PayPal
+TRX-10093,2024-09-30,CUST-254,South,Electronics,Laptop,3,1241.07,3723.21,Credit Card
+TRX-10094,2023-04-14,CUST-492,North,Electronics,Headphones,2,143.86,287.72,Debit Card
+TRX-10095,2023-02-08,CUST-269,West,Home,Coffee Maker,4,83.24,332.96,Credit Card
+TRX-10096,2024-02-12,CUST-112,West,Electronics,Headphones,3,159.28,477.84,Debit Card
+TRX-10097,2023-02-05,CUST-272,West,Home,Chair,3,91.63,274.89,Debit Card
+TRX-10098,2024-05-26,CUST-499,North,Home,Blender,4,42.25,169.0,Debit Card
+TRX-10099,2024-04-15,CUST-242,East,Clothing,Sneakers,3,81.91,245.73,PayPal
+TRX-10100,2024-12-27,CUST-441,North,Electronics,Smartphone,2,780.09,1560.18,Debit Card
+TRX-10101,2024-07-28,CUST-289,South,Home,Desk,2,144.84,289.68,PayPal
+TRX-10102,2024-07-23,CUST-441,North,Clothing,Jeans,2,57.44,114.88,Debit Card
+TRX-10103,2023-02-23,CUST-200,North,Clothing,Jacket,2,114.01,228.02,Credit Card
+TRX-10104,2024-07-25,CUST-207,North,Clothing,T-Shirt,1,25.11,25.11,PayPal
+TRX-10105,2023-12-16,CUST-146,West,Home,Blender,4,46.11,184.44,PayPal
+TRX-10106,2024-10-17,CUST-368,West,Home,Blender,4,46.8,187.2,PayPal
+TRX-10107,2024-10-31,CUST-246,North,Home,Coffee Maker,2,87.51,175.02,Debit Card
+TRX-10108,2024-08-26,CUST-157,East,Electronics,Monitor,3,317.71,953.13,Credit Card
+TRX-10109,2024-04-18,CUST-216,South,Electronics,Smartphone,1,732.55,732.55,Debit Card
+TRX-10110,2024-01-28,CUST-495,South,Home,Desk,3,137.43,412.29,Credit Card
+TRX-10111,2024-09-25,CUST-100,West,Home,Desk,2,147.27,294.54,Credit Card
+TRX-10112,2024-09-29,CUST-217,West,Home,Blender,4,44.48,177.92,PayPal
+TRX-10113,2023-08-25,CUST-472,North,Clothing,T-Shirt,4,26.07,104.28,Debit Card
+TRX-10114,2024-12-04,CUST-168,North,Home,Blender,1,46.24,46.24,PayPal
+TRX-10115,2023-03-17,CUST-253,South,Clothing,Jeans,3,61.34,184.02,PayPal
+TRX-10116,2023-03-27,CUST-284,East,Clothing,Sneakers,1,87.41,87.41,Debit Card
+TRX-10117,2023-03-10,CUST-146,North,Clothing,T-Shirt,4,24.21,96.84,Credit Card
+TRX-10118,2024-03-28,CUST-303,South,Clothing,T-Shirt,2,22.7,45.4,PayPal
+TRX-10119,2024-03-07,CUST-440,North,Home,Desk,2,135.51,271.02,Debit Card
+TRX-10120,2023-09-11,CUST-321,West,Electronics,Smartphone,1,795.76,795.76,Debit Card
+TRX-10121,2024-06-05,CUST-345,North,Electronics,Monitor,2,308.99,617.98,Credit Card
+TRX-10122,2023-06-29,CUST-322,North,Home,Coffee Maker,2,82.16,164.32,Credit Card
+TRX-10123,2024-03-17,CUST-195,South,Electronics,Headphones,3,135.46,406.38,Credit Card
+TRX-10124,2024-05-30,CUST-115,East,Home,Blender,1,48.21,48.21,PayPal
+TRX-10125,2023-09-15,CUST-483,South,Home,Chair,3,91.41,274.23,Debit Card
+TRX-10126,2024-10-25,CUST-495,East,Clothing,Sneakers,4,92.46,369.84,Credit Card
+TRX-10127,2024-06-28,CUST-278,West,Home,Chair,4,97.76,391.04,Debit Card
+TRX-10128,2024-07-30,CUST-267,North,Clothing,Jeans,4,63.85,255.4,Debit Card
+TRX-10129,2023-10-12,CUST-496,West,Home,Blender,4,48.65,194.6,PayPal
+TRX-10130,2023-09-10,CUST-341,North,Home,Desk,2,141.44,282.88,Debit Card
+TRX-10131,2023-03-31,CUST-363,West,Clothing,Sneakers,1,93.29,93.29,Debit Card
+TRX-10132,2024-08-24,CUST-214,East,Home,Chair,2,97.71,195.42,Credit Card
+TRX-10133,2024-05-15,CUST-213,South,Home,Chair,4,95.64,382.56,Debit Card
+TRX-10134,2024-01-11,CUST-316,South,Electronics,Smartphone,1,820.63,820.63,Debit Card
+TRX-10135,2024-11-06,CUST-493,North,Electronics,Monitor,1,318.21,318.21,PayPal
+TRX-10136,2023-07-11,CUST-326,South,Home,Chair,4,98.47,393.88,Credit Card
+TRX-10137,2024-07-01,CUST-195,South,Clothing,T-Shirt,4,27.45,109.8,Credit Card
+TRX-10138,2023-02-06,CUST-367,South,Clothing,Jeans,2,58.09,116.18,PayPal
+TRX-10139,2023-10-06,CUST-316,North,Electronics,Laptop,1,1182.96,1182.96,PayPal
+TRX-10140,2023-09-30,CUST-468,West,Electronics,Smartphone,2,758.12,1516.24,Debit Card
+TRX-10141,2024-12-29,CUST-441,East,Home,Blender,4,45.05,180.2,Credit Card
+TRX-10142,2023-06-26,CUST-199,East,Electronics,Laptop,3,1151.43,3454.29,Debit Card
+TRX-10143,2023-03-17,CUST-364,West,Home,Chair,1,90.22,90.22,Credit Card
+TRX-10144,2024-01-19,CUST-151,East,Electronics,Smartphone,2,771.09,1542.18,PayPal
+TRX-10145,2023-05-24,CUST-472,North,Electronics,Headphones,3,152.2,456.6,Credit Card
+TRX-10146,2023-01-25,CUST-478,East,Home,Chair,4,91.83,367.32,PayPal
+TRX-10147,2023-05-31,CUST-243,West,Electronics,Laptop,1,1131.05,1131.05,Debit Card
+TRX-10148,2024-11-23,CUST-141,South,Electronics,Laptop,1,1269.51,1269.51,Debit Card
+TRX-10149,2023-08-11,CUST-221,West,Electronics,Laptop,2,1313.82,2627.64,Debit Card
+TRX-10150,2023-08-23,CUST-430,North,Home,Chair,3,98.83,296.49,Credit Card
+TRX-10151,2023-01-09,CUST-173,South,Clothing,T-Shirt,4,23.09,92.36,Debit Card
+TRX-10152,2023-09-10,CUST-329,South,Home,Coffee Maker,1,85.39,85.39,Credit Card
+TRX-10153,2023-06-17,CUST-269,South,Home,Chair,1,91.68,91.68,Debit Card
+TRX-10154,2024-09-25,CUST-293,West,Home,Blender,3,44.07,132.21,Debit Card
+TRX-10155,2024-02-26,CUST-438,East,Home,Blender,1,41.23,41.23,Credit Card
+TRX-10156,2023-12-08,CUST-244,South,Home,Chair,1,101.63,101.63,Credit Card
+TRX-10157,2023-10-28,CUST-231,West,Home,Chair,1,108.94,108.94,PayPal
+TRX-10158,2024-02-19,CUST-374,South,Clothing,Jeans,4,58.2,232.8,PayPal
+TRX-10159,2023-06-16,CUST-190,East,Clothing,Sneakers,2,94.99,189.98,PayPal
+TRX-10160,2023-02-08,CUST-225,North,Home,Blender,3,42.74,128.22,Debit Card
+TRX-10161,2023-08-08,CUST-225,West,Electronics,Smartphone,1,798.82,798.82,Debit Card
+TRX-10162,2024-03-31,CUST-416,West,Clothing,Sneakers,4,82.01,328.04,Credit Card
+TRX-10163,2023-01-01,CUST-486,West,Electronics,Laptop,3,1277.47,3832.41,PayPal
+TRX-10164,2024-05-19,CUST-290,East,Home,Chair,2,101.67,203.34,Debit Card
+TRX-10165,2023-04-27,CUST-233,East,Home,Chair,1,99.55,99.55,Credit Card
+TRX-10166,2024-11-02,CUST-272,South,Electronics,Monitor,1,318.13,318.13,Debit Card
+TRX-10167,2023-03-21,CUST-473,West,Electronics,Headphones,1,136.29,136.29,Credit Card
+TRX-10168,2023-08-17,CUST-263,East,Home,Desk,4,162.74,650.96,Credit Card
+TRX-10169,2024-03-16,CUST-146,South,Clothing,Jeans,4,60.65,242.6,Credit Card
+TRX-10170,2023-05-23,CUST-100,West,Electronics,Monitor,2,307.76,615.52,Debit Card
+TRX-10171,2023-09-16,CUST-243,North,Electronics,Headphones,2,153.83,307.66,Debit Card
+TRX-10172,2023-01-12,CUST-429,East,Home,Desk,3,157.11,471.33,Debit Card
+TRX-10173,2023-12-24,CUST-255,North,Home,Chair,4,109.01,436.04,Debit Card
+TRX-10174,2023-12-14,CUST-263,West,Electronics,Monitor,2,290.14,580.28,PayPal
+TRX-10175,2023-11-12,CUST-277,West,Home,Chair,2,99.27,198.54,PayPal
+TRX-10176,2023-02-10,CUST-327,West,Electronics,Headphones,1,142.98,142.98,PayPal
+TRX-10177,2023-05-25,CUST-300,South,Clothing,Jeans,2,65.83,131.66,Credit Card
+TRX-10178,2024-04-05,CUST-319,East,Electronics,Monitor,4,288.57,1154.28,Credit Card
+TRX-10179,2024-07-11,CUST-134,South,Electronics,Laptop,1,1145.03,1145.03,Debit Card
+TRX-10180,2023-09-13,CUST-296,South,Electronics,Laptop,2,1277.41,2554.82,Debit Card
+TRX-10181,2023-01-10,CUST-411,North,Home,Blender,2,46.02,92.04,Credit Card
+TRX-10182,2023-01-05,CUST-218,East,Electronics,Laptop,3,1290.4,3871.2,PayPal
+TRX-10183,2023-03-06,CUST-245,South,Clothing,Jacket,2,117.87,235.74,Credit Card
+TRX-10184,2023-10-09,CUST-162,East,Home,Chair,1,109.75,109.75,Debit Card
+TRX-10185,2024-11-19,CUST-197,West,Electronics,Monitor,3,293.58,880.74,Credit Card
+TRX-10186,2024-01-20,CUST-410,West,Clothing,T-Shirt,3,22.68,68.04,Debit Card
+TRX-10187,2024-12-09,CUST-450,West,Clothing,T-Shirt,1,26.82,26.82,Debit Card
+TRX-10188,2024-03-12,CUST-122,West,Home,Blender,3,47.25,141.75,PayPal
+TRX-10189,2024-12-14,CUST-182,North,Clothing,Jacket,1,126.46,126.46,PayPal
+TRX-10190,2024-04-01,CUST-465,East,Clothing,Jacket,2,113.94,227.88,Debit Card
+TRX-10191,2024-12-17,CUST-359,West,Clothing,Jacket,1,114.03,114.03,Debit Card
+TRX-10192,2024-05-02,CUST-387,West,Clothing,Jacket,1,113.49,113.49,PayPal
+TRX-10193,2023-03-13,CUST-138,East,Electronics,Headphones,3,136.41,409.23,Debit Card
+TRX-10194,2024-03-13,CUST-217,West,Home,Blender,2,46.54,93.08,Credit Card
+TRX-10195,2023-09-25,CUST-153,West,Clothing,T-Shirt,2,26.66,53.32,Credit Card
+TRX-10196,2024-02-05,CUST-211,South,Home,Coffee Maker,2,87.49,174.98,PayPal
+TRX-10197,2023-07-26,CUST-328,North,Home,Chair,3,99.6,298.8,Credit Card
+TRX-10198,2023-03-16,CUST-202,South,Electronics,Monitor,2,307.22,614.44,PayPal
+TRX-10199,2023-11-02,CUST-197,East,Electronics,Monitor,4,278.18,1112.72,Credit Card
+TRX-10200,2024-03-10,CUST-407,North,Clothing,Sneakers,3,92.46,277.38,Credit Card
+TRX-10201,2023-12-01,CUST-129,East,Home,Chair,1,100.95,100.95,Debit Card
+TRX-10202,2023-03-22,CUST-232,North,Electronics,Monitor,3,307.33,921.99,PayPal
+TRX-10203,2023-07-03,CUST-429,South,Electronics,Headphones,2,158.89,317.78,Debit Card
+TRX-10204,2023-03-10,CUST-133,North,Electronics,Laptop,4,1264.54,5058.16,Debit Card
+TRX-10205,2023-07-24,CUST-225,South,Home,Chair,2,102.42,204.84,Credit Card
+TRX-10206,2023-04-21,CUST-348,North,Clothing,Sneakers,4,92.4,369.6,Debit Card
+TRX-10207,2023-04-05,CUST-473,East,Clothing,T-Shirt,4,24.8,99.2,PayPal
+TRX-10208,2023-12-26,CUST-487,West,Electronics,Monitor,4,311.86,1247.44,Credit Card
+TRX-10209,2023-07-14,CUST-254,South,Clothing,Jacket,3,116.3,348.9,Debit Card
+TRX-10210,2023-03-02,CUST-221,West,Clothing,T-Shirt,2,25.84,51.68,Debit Card
+TRX-10211,2023-01-05,CUST-191,South,Clothing,T-Shirt,1,23.62,23.62,Credit Card
+TRX-10212,2024-02-09,CUST-425,West,Electronics,Laptop,2,1163.43,2326.86,PayPal
+TRX-10213,2024-06-07,CUST-445,North,Clothing,T-Shirt,1,23.1,23.1,Debit Card
+TRX-10214,2023-03-19,CUST-317,North,Electronics,Smartphone,1,863.07,863.07,Debit Card
+TRX-10215,2023-09-06,CUST-146,West,Home,Desk,1,155.71,155.71,Credit Card
+TRX-10216,2023-02-25,CUST-449,North,Electronics,Laptop,3,1230.7,3692.1,Credit Card
+TRX-10217,2024-07-26,CUST-436,South,Electronics,Monitor,4,279.42,1117.68,Debit Card
+TRX-10218,2023-01-08,CUST-212,East,Home,Blender,1,42.99,42.99,Credit Card
+TRX-10219,2024-12-19,CUST-402,West,Home,Blender,4,45.88,183.52,Credit Card
+TRX-10220,2024-06-09,CUST-127,East,Electronics,Laptop,2,1168.91,2337.82,Debit Card
+TRX-10221,2024-01-21,CUST-464,East,Home,Coffee Maker,4,77.9,311.6,PayPal
+TRX-10222,2023-11-08,CUST-470,North,Clothing,Jacket,3,109.5,328.5,PayPal
+TRX-10223,2023-12-29,CUST-338,East,Electronics,Smartphone,3,834.14,2502.42,Credit Card
+TRX-10224,2024-05-20,CUST-393,South,Clothing,Jacket,2,108.73,217.46,Credit Card
+TRX-10225,2023-07-11,CUST-218,South,Home,Coffee Maker,3,80.52,241.56,Debit Card
+TRX-10226,2023-02-08,CUST-372,North,Electronics,Smartphone,2,780.37,1560.74,Debit Card
+TRX-10227,2023-05-06,CUST-399,West,Home,Desk,2,141.34,282.68,Debit Card
+TRX-10228,2023-07-31,CUST-124,East,Home,Chair,1,94.66,94.66,Credit Card
+TRX-10229,2023-08-21,CUST-208,South,Electronics,Smartphone,3,828.66,2485.98,Credit Card
+TRX-10230,2023-04-21,CUST-133,North,Home,Coffee Maker,4,79.67,318.68,Credit Card
+TRX-10231,2024-01-04,CUST-335,West,Electronics,Headphones,4,151.73,606.92,Debit Card
+TRX-10232,2024-09-04,CUST-105,North,Home,Blender,1,41.65,41.65,PayPal
+TRX-10233,2024-03-18,CUST-414,South,Electronics,Smartphone,4,863.94,3455.76,Debit Card
+TRX-10234,2024-01-12,CUST-388,East,Clothing,Jacket,1,131.68,131.68,PayPal
+TRX-10235,2024-12-10,CUST-169,East,Home,Blender,1,40.57,40.57,Debit Card
+TRX-10236,2023-12-16,CUST-430,West,Home,Blender,4,42.71,170.84,Credit Card
+TRX-10237,2024-08-29,CUST-251,North,Home,Desk,2,137.64,275.28,Debit Card
+TRX-10238,2023-08-31,CUST-130,South,Home,Blender,3,48.57,145.71,Debit Card
+TRX-10239,2023-08-11,CUST-105,West,Electronics,Monitor,4,294.62,1178.48,Debit Card
+TRX-10240,2023-03-16,CUST-103,East,Home,Coffee Maker,4,78.37,313.48,PayPal
+TRX-10241,2024-08-28,CUST-161,South,Home,Coffee Maker,2,72.08,144.16,PayPal
+TRX-10242,2024-12-15,CUST-491,West,Clothing,Sneakers,3,97.73,293.19,PayPal
+TRX-10243,2023-10-27,CUST-232,North,Clothing,T-Shirt,1,24.88,24.88,Debit Card
+TRX-10244,2024-12-24,CUST-324,South,Electronics,Monitor,2,281.22,562.44,Credit Card
+TRX-10245,2024-07-12,CUST-100,North,Clothing,Jeans,4,62.83,251.32,Credit Card
+TRX-10246,2024-07-03,CUST-392,East,Electronics,Smartphone,4,817.7,3270.8,Debit Card
+TRX-10247,2023-09-16,CUST-260,South,Home,Blender,3,45.05,135.15,Credit Card
+TRX-10248,2023-01-10,CUST-360,East,Home,Desk,4,146.08,584.32,Debit Card
+TRX-10249,2023-01-13,CUST-267,North,Home,Desk,4,136.9,547.6,Debit Card
+TRX-10250,2023-11-15,CUST-200,West,Clothing,Jeans,1,63.72,63.72,Credit Card
+TRX-10251,2024-07-03,CUST-193,North,Home,Coffee Maker,1,72.04,72.04,Credit Card
+TRX-10252,2023-11-14,CUST-335,West,Electronics,Headphones,1,138.2,138.2,Credit Card
+TRX-10253,2024-01-11,CUST-236,North,Electronics,Monitor,1,294.51,294.51,Debit Card
+TRX-10254,2024-06-30,CUST-100,North,Clothing,T-Shirt,3,23.53,70.59,Credit Card
+TRX-10255,2024-07-25,CUST-419,South,Electronics,Smartphone,2,838.58,1677.16,Debit Card
+TRX-10256,2023-08-17,CUST-369,South,Electronics,Headphones,3,158.45,475.35,Credit Card
+TRX-10257,2024-12-25,CUST-264,North,Home,Desk,3,158.99,476.97,Credit Card
+TRX-10258,2023-03-19,CUST-161,East,Clothing,Jeans,3,63.77,191.31,Credit Card
+TRX-10259,2023-02-11,CUST-188,South,Electronics,Monitor,1,291.53,291.53,Credit Card
+TRX-10260,2023-10-22,CUST-203,North,Clothing,Sneakers,4,93.29,373.16,Credit Card
+TRX-10261,2024-09-28,CUST-452,West,Electronics,Laptop,3,1170.47,3511.41,PayPal
+TRX-10262,2024-10-26,CUST-244,West,Electronics,Smartphone,3,839.62,2518.86,Debit Card
+TRX-10263,2024-09-07,CUST-203,North,Home,Blender,3,48.6,145.8,Debit Card
+TRX-10264,2023-07-17,CUST-233,East,Clothing,Jeans,3,61.49,184.47,Credit Card
+TRX-10265,2024-07-07,CUST-114,West,Home,Coffee Maker,3,77.33,231.99,Debit Card
+TRX-10266,2024-04-22,CUST-330,North,Electronics,Smartphone,1,860.58,860.58,Debit Card
+TRX-10267,2024-07-03,CUST-196,East,Home,Desk,1,152.19,152.19,Debit Card
+TRX-10268,2023-10-16,CUST-353,North,Electronics,Smartphone,3,833.12,2499.36,Credit Card
+TRX-10269,2024-06-05,CUST-104,South,Clothing,T-Shirt,2,23.52,47.04,Credit Card
+TRX-10270,2023-04-28,CUST-393,East,Electronics,Headphones,1,161.3,161.3,Debit Card
+TRX-10271,2023-08-16,CUST-464,West,Home,Coffee Maker,3,80.58,241.74,Debit Card
+TRX-10272,2023-01-15,CUST-256,North,Clothing,Jacket,4,111.06,444.24,PayPal
+TRX-10273,2023-02-16,CUST-423,East,Electronics,Smartphone,1,806.38,806.38,Debit Card
+TRX-10274,2024-02-15,CUST-194,West,Electronics,Smartphone,2,835.56,1671.12,Credit Card
+TRX-10275,2023-10-19,CUST-381,North,Electronics,Smartphone,4,815.75,3263.0,Credit Card
+TRX-10276,2024-10-21,CUST-110,East,Electronics,Smartphone,1,760.29,760.29,Credit Card
+TRX-10277,2024-07-03,CUST-233,South,Electronics,Smartphone,4,873.45,3493.8,PayPal
+TRX-10278,2023-12-12,CUST-401,East,Home,Chair,3,98.02,294.06,PayPal
+TRX-10279,2023-05-21,CUST-203,East,Electronics,Headphones,2,153.45,306.9,Credit Card
+TRX-10280,2024-09-14,CUST-203,North,Electronics,Headphones,1,150.18,150.18,PayPal
+TRX-10281,2023-12-22,CUST-423,North,Home,Desk,4,161.16,644.64,Credit Card
+TRX-10282,2023-05-07,CUST-205,South,Electronics,Smartphone,1,846.41,846.41,Credit Card
+TRX-10283,2024-01-13,CUST-492,West,Clothing,T-Shirt,3,26.36,79.08,PayPal
+TRX-10284,2024-04-06,CUST-395,East,Clothing,Sneakers,1,88.63,88.63,Debit Card
+TRX-10285,2024-02-11,CUST-356,North,Electronics,Headphones,3,160.21,480.63,PayPal
+TRX-10286,2023-12-12,CUST-209,West,Clothing,Jeans,1,55.36,55.36,Debit Card
+TRX-10287,2023-01-01,CUST-418,South,Clothing,T-Shirt,3,23.43,70.29,Credit Card
+TRX-10288,2024-10-22,CUST-408,West,Clothing,Jacket,3,115.47,346.41,Debit Card
+TRX-10289,2023-11-09,CUST-216,North,Home,Blender,4,43.52,174.08,Credit Card
+TRX-10290,2024-07-28,CUST-343,North,Home,Coffee Maker,3,81.66,244.98,Debit Card
+TRX-10291,2024-01-21,CUST-490,East,Electronics,Headphones,3,151.12,453.36,PayPal
+TRX-10292,2023-12-13,CUST-116,West,Electronics,Headphones,2,145.41,290.82,PayPal
+TRX-10293,2023-06-28,CUST-281,West,Clothing,Sneakers,3,91.57,274.71,Debit Card
+TRX-10294,2023-06-29,CUST-297,North,Electronics,Headphones,3,140.29,420.87,Credit Card
+TRX-10295,2023-06-26,CUST-384,North,Home,Desk,1,136.02,136.02,Credit Card
+TRX-10296,2024-10-27,CUST-255,West,Clothing,T-Shirt,2,25.4,50.8,Debit Card
+TRX-10297,2023-03-25,CUST-460,West,Clothing,T-Shirt,1,23.56,23.56,Debit Card
+TRX-10298,2023-12-08,CUST-162,East,Home,Blender,2,41.84,83.68,Debit Card
+TRX-10299,2023-11-23,CUST-356,North,Clothing,Jeans,1,65.96,65.96,PayPal
+TRX-10300,2023-08-03,CUST-478,West,Clothing,Sneakers,2,86.58,173.16,Credit Card
+TRX-10301,2023-02-01,CUST-257,North,Electronics,Headphones,2,158.99,317.98,Credit Card
+TRX-10302,2024-04-21,CUST-385,West,Clothing,Jeans,1,56.29,56.29,PayPal
+TRX-10303,2023-01-18,CUST-356,North,Clothing,Jeans,3,64.04,192.12,Credit Card
+TRX-10304,2023-07-13,CUST-212,North,Home,Desk,3,158.27,474.81,Debit Card
+TRX-10305,2024-10-05,CUST-484,South,Electronics,Monitor,2,294.05,588.1,PayPal
+TRX-10306,2024-10-04,CUST-387,North,Clothing,T-Shirt,3,24.17,72.51,Credit Card
+TRX-10307,2023-06-11,CUST-479,South,Home,Coffee Maker,3,76.36,229.08,Debit Card
+TRX-10308,2024-04-20,CUST-387,South,Electronics,Monitor,3,318.04,954.12,PayPal
+TRX-10309,2023-01-08,CUST-420,South,Electronics,Smartphone,1,834.56,834.56,Credit Card
+TRX-10310,2024-03-18,CUST-354,North,Electronics,Smartphone,3,808.28,2424.84,PayPal
+TRX-10311,2023-08-27,CUST-328,West,Home,Coffee Maker,2,72.32,144.64,Debit Card
+TRX-10312,2024-08-26,CUST-363,North,Electronics,Laptop,1,1122.85,1122.85,Credit Card
+TRX-10313,2023-03-29,CUST-177,South,Clothing,Jacket,4,110.39,441.56,Credit Card
+TRX-10314,2024-05-05,CUST-499,South,Clothing,Jeans,2,61.24,122.48,Debit Card
+TRX-10315,2023-07-01,CUST-497,North,Home,Coffee Maker,1,78.35,78.35,Debit Card
+TRX-10316,2023-01-07,CUST-429,North,Home,Chair,4,95.86,383.44,PayPal
+TRX-10317,2023-03-26,CUST-246,South,Clothing,T-Shirt,3,22.93,68.79,Credit Card
+TRX-10318,2024-07-01,CUST-384,North,Clothing,Jeans,3,55.47,166.41,Credit Card
+TRX-10319,2024-12-09,CUST-110,North,Home,Chair,2,98.43,196.86,Debit Card
+TRX-10320,2024-12-07,CUST-218,South,Home,Coffee Maker,2,76.15,152.3,PayPal
+TRX-10321,2023-09-13,CUST-321,South,Electronics,Headphones,1,143.04,143.04,Credit Card
+TRX-10322,2024-05-14,CUST-441,North,Clothing,Jeans,1,58.35,58.35,Debit Card
+TRX-10323,2024-12-14,CUST-257,South,Home,Blender,1,47.52,47.52,Credit Card
+TRX-10324,2024-12-27,CUST-227,North,Home,Blender,2,44.89,89.78,Credit Card
+TRX-10325,2023-04-25,CUST-308,East,Home,Chair,2,93.64,187.28,PayPal
+TRX-10326,2023-08-25,CUST-380,North,Home,Chair,4,95.37,381.48,Credit Card
+TRX-10327,2023-10-05,CUST-334,South,Home,Blender,2,42.82,85.64,Credit Card
+TRX-10328,2024-03-17,CUST-128,West,Clothing,Sneakers,2,88.59,177.18,PayPal
+TRX-10329,2023-03-16,CUST-425,East,Electronics,Laptop,3,1121.2,3363.6,Credit Card
+TRX-10330,2023-02-11,CUST-455,North,Clothing,Jeans,1,64.97,64.97,Debit Card
+TRX-10331,2023-01-17,CUST-264,West,Electronics,Monitor,2,299.89,599.78,Credit Card
+TRX-10332,2024-08-10,CUST-186,East,Clothing,T-Shirt,2,25.76,51.52,PayPal
+TRX-10333,2023-01-27,CUST-412,South,Electronics,Headphones,2,138.2,276.4,Credit Card
+TRX-10334,2023-06-17,CUST-197,North,Home,Chair,3,95.33,285.99,PayPal
+TRX-10335,2024-03-30,CUST-493,East,Clothing,T-Shirt,1,25.5,25.5,Debit Card
+TRX-10336,2024-04-20,CUST-289,West,Electronics,Smartphone,2,866.31,1732.62,PayPal
+TRX-10337,2023-05-10,CUST-409,East,Electronics,Headphones,4,150.57,602.28,Credit Card
+TRX-10338,2024-11-23,CUST-391,East,Electronics,Monitor,3,314.28,942.84,Debit Card
+TRX-10339,2023-05-29,CUST-366,South,Clothing,Sneakers,1,94.88,94.88,PayPal
+TRX-10340,2024-11-06,CUST-212,East,Clothing,Jeans,4,57.46,229.84,PayPal
+TRX-10341,2023-08-15,CUST-409,East,Home,Chair,4,104.43,417.72,Debit Card
+TRX-10342,2024-10-25,CUST-345,South,Electronics,Headphones,3,149.28,447.84,Debit Card
+TRX-10343,2023-10-16,CUST-349,North,Home,Blender,4,41.72,166.88,PayPal
+TRX-10344,2024-04-11,CUST-326,North,Home,Blender,4,40.78,163.12,PayPal
+TRX-10345,2024-05-21,CUST-464,North,Home,Desk,1,160.25,160.25,Credit Card
+TRX-10346,2023-06-03,CUST-172,North,Electronics,Monitor,1,279.28,279.28,Credit Card
+TRX-10347,2024-10-02,CUST-316,West,Electronics,Smartphone,1,732.02,732.02,Debit Card
+TRX-10348,2023-02-11,CUST-124,West,Electronics,Smartphone,4,832.79,3331.16,Credit Card
+TRX-10349,2024-05-12,CUST-328,North,Home,Blender,3,42.72,128.16,Credit Card
+TRX-10350,2024-04-22,CUST-201,North,Clothing,Sneakers,3,81.04,243.12,PayPal
+TRX-10351,2024-09-04,CUST-143,North,Home,Blender,3,45.81,137.43,PayPal
+TRX-10352,2023-01-17,CUST-429,West,Clothing,Sneakers,1,95.53,95.53,Debit Card
+TRX-10353,2023-01-12,CUST-417,East,Electronics,Smartphone,1,830.49,830.49,Credit Card
+TRX-10354,2024-10-22,CUST-180,East,Home,Coffee Maker,3,87.33,261.99,Credit Card
+TRX-10355,2024-12-10,CUST-299,West,Clothing,Jeans,2,61.91,123.82,Debit Card
+TRX-10356,2023-09-25,CUST-242,South,Clothing,Jacket,1,113.99,113.99,PayPal
+TRX-10357,2024-06-21,CUST-146,North,Electronics,Monitor,1,311.59,311.59,Debit Card
+TRX-10358,2024-12-11,CUST-381,East,Electronics,Headphones,4,136.32,545.28,PayPal
+TRX-10359,2024-01-26,CUST-369,North,Home,Chair,2,101.36,202.72,Debit Card
+TRX-10360,2023-05-17,CUST-470,South,Electronics,Smartphone,3,739.28,2217.84,PayPal
+TRX-10361,2024-12-27,CUST-181,North,Clothing,Jeans,2,65.09,130.18,Credit Card
+TRX-10362,2024-02-06,CUST-202,North,Electronics,Monitor,4,314.7,1258.8,PayPal
+TRX-10363,2023-06-01,CUST-207,South,Home,Blender,3,40.83,122.49,PayPal
+TRX-10364,2023-05-11,CUST-392,North,Home,Blender,2,41.59,83.18,Debit Card
+TRX-10365,2023-07-02,CUST-463,East,Clothing,Sneakers,2,90.54,181.08,Debit Card
+TRX-10366,2024-05-11,CUST-103,East,Electronics,Smartphone,4,811.59,3246.36,Debit Card
+TRX-10367,2024-02-01,CUST-309,East,Clothing,Jeans,1,63.49,63.49,PayPal
+TRX-10368,2024-03-01,CUST-207,East,Home,Coffee Maker,1,80.32,80.32,Debit Card
+TRX-10369,2023-06-19,CUST-133,South,Home,Desk,3,141.99,425.97,Credit Card
+TRX-10370,2023-05-21,CUST-373,North,Clothing,T-Shirt,3,22.61,67.83,Debit Card
+TRX-10371,2023-02-08,CUST-401,West,Home,Chair,3,108.78,326.34,PayPal
+TRX-10372,2024-04-21,CUST-417,North,Electronics,Laptop,2,1164.17,2328.34,Debit Card
+TRX-10373,2023-09-29,CUST-335,West,Home,Chair,1,99.6,99.6,Debit Card
+TRX-10374,2023-12-25,CUST-439,East,Clothing,Jacket,2,131.62,263.24,PayPal
+TRX-10375,2024-11-19,CUST-102,North,Home,Coffee Maker,2,83.8,167.6,Debit Card
+TRX-10376,2024-10-31,CUST-423,North,Clothing,Jacket,4,119.22,476.88,PayPal
+TRX-10377,2024-10-26,CUST-292,South,Electronics,Smartphone,1,834.49,834.49,Debit Card
+TRX-10378,2024-08-07,CUST-498,South,Clothing,Sneakers,3,97.39,292.17,Debit Card
+TRX-10379,2023-05-20,CUST-286,West,Clothing,Jacket,4,117.22,468.88,PayPal
+TRX-10380,2024-01-15,CUST-297,East,Home,Blender,1,49.05,49.05,Debit Card
+TRX-10381,2023-10-29,CUST-443,West,Clothing,Jacket,3,131.58,394.74,Debit Card
+TRX-10382,2023-08-14,CUST-252,East,Electronics,Smartphone,1,794.78,794.78,PayPal
+TRX-10383,2024-07-24,CUST-171,East,Home,Blender,4,47.19,188.76,PayPal
+TRX-10384,2023-11-06,CUST-472,South,Clothing,T-Shirt,3,27.21,81.63,Debit Card
+TRX-10385,2023-11-26,CUST-206,East,Electronics,Monitor,2,319.84,639.68,PayPal
+TRX-10386,2024-05-20,CUST-358,East,Electronics,Headphones,2,140.3,280.6,Debit Card
+TRX-10387,2023-02-23,CUST-146,South,Clothing,Jeans,1,63.91,63.91,Debit Card
+TRX-10388,2023-04-09,CUST-119,East,Home,Coffee Maker,1,75.46,75.46,Credit Card
+TRX-10389,2024-05-04,CUST-277,South,Home,Coffee Maker,1,87.92,87.92,PayPal
+TRX-10390,2023-08-04,CUST-102,North,Clothing,Sneakers,1,89.84,89.84,Credit Card
+TRX-10391,2023-04-30,CUST-480,West,Clothing,Jacket,2,127.58,255.16,Credit Card
+TRX-10392,2024-08-02,CUST-497,South,Clothing,Jeans,1,60.44,60.44,Credit Card
+TRX-10393,2024-09-08,CUST-422,North,Electronics,Headphones,3,160.8,482.4,Credit Card
+TRX-10394,2024-10-10,CUST-294,South,Home,Desk,1,143.19,143.19,Credit Card
+TRX-10395,2023-06-19,CUST-108,South,Electronics,Monitor,4,327.34,1309.36,Debit Card
+TRX-10396,2023-09-18,CUST-494,South,Home,Blender,1,43.46,43.46,Debit Card
+TRX-10397,2023-05-04,CUST-137,South,Electronics,Monitor,4,275.22,1100.88,PayPal
+TRX-10398,2023-06-25,CUST-189,South,Clothing,Sneakers,1,85.68,85.68,Credit Card
+TRX-10399,2023-11-12,CUST-275,East,Electronics,Monitor,1,301.96,301.96,Credit Card
+TRX-10400,2024-08-15,CUST-213,South,Home,Desk,1,155.5,155.5,Credit Card
+TRX-10401,2023-11-14,CUST-448,West,Electronics,Headphones,4,149.85,599.4,Credit Card
+TRX-10402,2024-07-21,CUST-139,West,Clothing,Jeans,3,64.88,194.64,Credit Card
+TRX-10403,2023-10-16,CUST-361,North,Electronics,Headphones,3,155.34,466.02,Debit Card
+TRX-10404,2023-06-17,CUST-191,East,Clothing,Jacket,4,120.51,482.04,PayPal
+TRX-10405,2024-11-11,CUST-368,West,Electronics,Headphones,3,160.52,481.56,PayPal
+TRX-10406,2024-11-23,CUST-269,South,Home,Coffee Maker,1,85.39,85.39,Credit Card
+TRX-10407,2024-02-26,CUST-287,North,Home,Desk,3,138.18,414.54,Credit Card
+TRX-10408,2024-07-10,CUST-413,West,Home,Coffee Maker,3,74.54,223.62,PayPal
+TRX-10409,2024-06-18,CUST-493,South,Electronics,Laptop,3,1191.71,3575.13,Credit Card
+TRX-10410,2024-10-31,CUST-138,North,Electronics,Headphones,1,159.6,159.6,Debit Card
+TRX-10411,2023-09-15,CUST-305,West,Electronics,Monitor,4,279.65,1118.6,Credit Card
+TRX-10412,2023-10-22,CUST-323,North,Home,Coffee Maker,4,84.11,336.44,Debit Card
+TRX-10413,2023-04-23,CUST-332,West,Home,Desk,3,137.52,412.56,Credit Card
+TRX-10414,2024-11-30,CUST-443,East,Clothing,Sneakers,3,92.37,277.11,Debit Card
+TRX-10415,2023-11-22,CUST-173,North,Electronics,Monitor,4,319.12,1276.48,PayPal
+TRX-10416,2024-02-16,CUST-159,North,Clothing,Jeans,2,59.19,118.38,Debit Card
+TRX-10417,2023-10-05,CUST-295,North,Electronics,Laptop,1,1123.08,1123.08,PayPal
+TRX-10418,2023-08-30,CUST-423,West,Electronics,Monitor,4,280.43,1121.72,Debit Card
+TRX-10419,2024-06-07,CUST-493,East,Home,Desk,1,144.03,144.03,PayPal
+TRX-10420,2024-04-18,CUST-219,East,Electronics,Laptop,2,1193.66,2387.32,Debit Card
+TRX-10421,2023-09-27,CUST-291,East,Clothing,T-Shirt,2,22.73,45.46,Debit Card
+TRX-10422,2024-11-06,CUST-350,North,Electronics,Headphones,4,155.28,621.12,Debit Card
+TRX-10423,2024-04-04,CUST-106,South,Clothing,Jacket,1,111.12,111.12,PayPal
+TRX-10424,2024-10-07,CUST-466,West,Clothing,Jacket,1,109.58,109.58,Credit Card
+TRX-10425,2024-04-03,CUST-157,South,Electronics,Headphones,3,149.66,448.98,Credit Card
+TRX-10426,2024-03-05,CUST-325,West,Electronics,Monitor,2,270.06,540.12,Debit Card
+TRX-10427,2023-04-09,CUST-496,East,Electronics,Laptop,1,1319.31,1319.31,Credit Card
+TRX-10428,2023-06-06,CUST-174,South,Electronics,Smartphone,3,856.67,2570.01,Credit Card
+TRX-10429,2024-11-17,CUST-183,East,Clothing,Jeans,2,56.65,113.3,PayPal
+TRX-10430,2024-12-07,CUST-436,East,Clothing,Sneakers,3,92.78,278.34,PayPal
+TRX-10431,2024-08-26,CUST-120,East,Home,Blender,4,49.17,196.68,Debit Card
+TRX-10432,2023-03-25,CUST-361,North,Electronics,Headphones,1,162.29,162.29,PayPal
+TRX-10433,2024-01-22,CUST-356,East,Clothing,T-Shirt,1,26.3,26.3,PayPal
+TRX-10434,2024-06-10,CUST-261,North,Electronics,Monitor,2,289.24,578.48,PayPal
+TRX-10435,2024-06-07,CUST-373,East,Home,Coffee Maker,4,75.41,301.64,PayPal
+TRX-10436,2024-06-22,CUST-171,South,Clothing,Jeans,4,64.37,257.48,Credit Card
+TRX-10437,2024-10-18,CUST-192,West,Clothing,Jacket,1,111.82,111.82,Credit Card
+TRX-10438,2023-01-27,CUST-273,South,Clothing,Jeans,3,63.32,189.96,Credit Card
+TRX-10439,2024-01-22,CUST-448,East,Electronics,Monitor,3,301.82,905.46,Debit Card
+TRX-10440,2024-06-19,CUST-415,East,Clothing,T-Shirt,1,23.16,23.16,PayPal
+TRX-10441,2024-07-11,CUST-114,North,Clothing,Jeans,4,65.61,262.44,PayPal
+TRX-10442,2024-03-30,CUST-372,West,Home,Coffee Maker,2,79.7,159.4,Credit Card
+TRX-10443,2024-06-04,CUST-265,North,Electronics,Monitor,4,306.44,1225.76,PayPal
+TRX-10444,2024-12-26,CUST-216,East,Home,Desk,4,141.77,567.08,Debit Card
+TRX-10445,2024-01-30,CUST-163,West,Home,Coffee Maker,4,81.44,325.76,Debit Card
+TRX-10446,2023-10-01,CUST-419,East,Clothing,Jacket,4,118.93,475.72,Debit Card
+TRX-10447,2024-08-29,CUST-265,East,Clothing,Sneakers,3,88.12,264.36,PayPal
+TRX-10448,2024-12-29,CUST-388,West,Home,Coffee Maker,1,76.67,76.67,Credit Card
+TRX-10449,2024-01-27,CUST-366,East,Clothing,T-Shirt,1,27.26,27.26,Debit Card
+TRX-10450,2024-07-06,CUST-175,North,Electronics,Smartphone,4,796.88,3187.52,Credit Card
+TRX-10451,2024-04-07,CUST-179,West,Clothing,T-Shirt,4,27.43,109.72,Credit Card
+TRX-10452,2024-10-21,CUST-260,East,Home,Chair,4,99.65,398.6,Debit Card
+TRX-10453,2023-08-30,CUST-452,North,Clothing,Jeans,4,60.72,242.88,Debit Card
+TRX-10454,2024-08-11,CUST-215,North,Home,Coffee Maker,1,80.28,80.28,Credit Card
+TRX-10455,2023-07-13,CUST-265,North,Home,Coffee Maker,3,77.72,233.16,PayPal
+TRX-10456,2023-05-02,CUST-242,West,Clothing,Jeans,2,60.81,121.62,Credit Card
+TRX-10457,2024-03-03,CUST-404,North,Clothing,Sneakers,3,84.6,253.8,Credit Card
+TRX-10458,2024-09-26,CUST-489,West,Clothing,Jeans,1,65.42,65.42,Credit Card
+TRX-10459,2023-12-25,CUST-322,South,Electronics,Smartphone,1,815.16,815.16,Credit Card
+TRX-10460,2024-12-16,CUST-363,South,Electronics,Monitor,2,302.48,604.96,PayPal
+TRX-10461,2023-11-14,CUST-183,North,Clothing,T-Shirt,4,27.24,108.96,Debit Card
+TRX-10462,2024-01-18,CUST-106,South,Home,Blender,3,43.56,130.68,Credit Card
+TRX-10463,2024-01-25,CUST-413,East,Clothing,Jeans,4,61.93,247.72,Debit Card
+TRX-10464,2024-05-29,CUST-226,East,Home,Blender,3,47.55,142.65,Debit Card
+TRX-10465,2023-01-14,CUST-111,North,Clothing,T-Shirt,2,25.13,50.26,Credit Card
+TRX-10466,2024-06-20,CUST-400,South,Home,Blender,1,42.72,42.72,PayPal
+TRX-10467,2024-07-20,CUST-337,East,Home,Coffee Maker,3,81.85,245.55,Debit Card
+TRX-10468,2024-09-22,CUST-408,South,Home,Blender,4,43.53,174.12,Debit Card
+TRX-10469,2024-08-16,CUST-310,North,Electronics,Headphones,3,154.76,464.28,Credit Card
+TRX-10470,2023-11-08,CUST-460,West,Clothing,Jacket,4,113.48,453.92,PayPal
+TRX-10471,2024-12-14,CUST-342,North,Electronics,Monitor,4,299.6,1198.4,Credit Card
+TRX-10472,2023-07-26,CUST-452,West,Clothing,Jeans,1,62.16,62.16,PayPal
+TRX-10473,2024-12-25,CUST-258,North,Electronics,Headphones,1,160.21,160.21,PayPal
+TRX-10474,2024-02-08,CUST-392,North,Clothing,Jacket,4,117.98,471.92,Debit Card
+TRX-10475,2024-01-17,CUST-119,East,Home,Chair,4,96.92,387.68,Credit Card
+TRX-10476,2024-11-19,CUST-195,South,Home,Desk,2,150.15,300.3,Credit Card
+TRX-10477,2023-04-27,CUST-453,East,Electronics,Monitor,2,305.28,610.56,Debit Card
+TRX-10478,2023-12-01,CUST-361,West,Electronics,Headphones,2,149.6,299.2,Debit Card
+TRX-10479,2024-01-06,CUST-285,East,Clothing,Jacket,3,123.72,371.16,Debit Card
+TRX-10480,2024-10-04,CUST-336,West,Clothing,Jacket,4,129.9,519.6,Credit Card
+TRX-10481,2024-06-03,CUST-199,North,Clothing,Sneakers,1,89.38,89.38,Credit Card
+TRX-10482,2023-10-25,CUST-113,West,Electronics,Smartphone,3,865.45,2596.35,Debit Card
+TRX-10483,2023-10-20,CUST-424,East,Electronics,Headphones,3,164.14,492.42,Debit Card
+TRX-10484,2023-11-14,CUST-415,South,Clothing,Jeans,1,54.83,54.83,Credit Card
+TRX-10485,2024-05-18,CUST-330,South,Electronics,Headphones,2,147.15,294.3,PayPal
+TRX-10486,2023-05-25,CUST-478,South,Electronics,Monitor,2,291.55,583.1,Debit Card
+TRX-10487,2023-03-07,CUST-262,South,Electronics,Laptop,4,1154.92,4619.68,PayPal
+TRX-10488,2024-03-24,CUST-263,West,Electronics,Laptop,3,1237.62,3712.86,Debit Card
+TRX-10489,2023-10-14,CUST-494,North,Electronics,Monitor,3,328.19,984.57,Debit Card
+TRX-10490,2023-09-27,CUST-179,West,Home,Desk,2,161.51,323.02,Credit Card
+TRX-10491,2023-12-27,CUST-356,East,Home,Coffee Maker,2,80.32,160.64,PayPal
+TRX-10492,2024-11-13,CUST-100,East,Electronics,Headphones,4,148.48,593.92,PayPal
+TRX-10493,2023-10-11,CUST-220,South,Home,Chair,2,95.05,190.1,Credit Card
+TRX-10494,2023-07-23,CUST-264,South,Electronics,Laptop,3,1225.33,3675.99,Debit Card
+TRX-10495,2024-07-09,CUST-411,South,Electronics,Monitor,4,316.91,1267.64,PayPal
+TRX-10496,2024-09-11,CUST-350,South,Home,Desk,3,152.56,457.68,PayPal
+TRX-10497,2023-11-30,CUST-229,West,Home,Desk,2,138.36,276.72,PayPal
+TRX-10498,2023-01-20,CUST-381,East,Clothing,Jacket,1,110.95,110.95,PayPal
+TRX-10499,2023-02-04,CUST-297,South,Home,Blender,3,40.85,122.55,Debit Card
+TRX-10500,2023-06-10,CUST-278,South,Home,Coffee Maker,3,74.88,224.64,Debit Card
+TRX-10501,2023-10-03,CUST-280,East,Clothing,Jacket,2,109.0,218.0,Debit Card
+TRX-10502,2023-05-06,CUST-316,South,Electronics,Headphones,3,149.4,448.2,Debit Card
+TRX-10503,2023-02-08,CUST-322,East,Home,Coffee Maker,1,82.23,82.23,Debit Card
+TRX-10504,2023-06-27,CUST-393,East,Clothing,T-Shirt,3,23.77,71.31,Debit Card
+TRX-10505,2024-09-29,CUST-400,South,Home,Blender,4,41.76,167.04,Credit Card
+TRX-10506,2024-01-10,CUST-107,West,Electronics,Monitor,2,278.61,557.22,PayPal
+TRX-10507,2024-10-30,CUST-451,North,Home,Desk,1,164.1,164.1,Credit Card
+TRX-10508,2023-03-27,CUST-274,North,Electronics,Headphones,3,142.04,426.12,PayPal
+TRX-10509,2023-04-29,CUST-317,South,Electronics,Laptop,3,1246.23,3738.69,PayPal
+TRX-10510,2023-04-24,CUST-244,South,Clothing,T-Shirt,2,24.37,48.74,PayPal
+TRX-10511,2024-08-10,CUST-427,East,Clothing,Jacket,3,127.94,383.82,PayPal
+TRX-10512,2023-01-01,CUST-246,East,Electronics,Laptop,4,1270.92,5083.68,Credit Card
+TRX-10513,2023-02-22,CUST-403,North,Clothing,Jeans,2,65.29,130.58,Debit Card
+TRX-10514,2023-08-08,CUST-291,West,Home,Desk,2,154.54,309.08,PayPal
+TRX-10515,2023-06-10,CUST-268,West,Electronics,Headphones,1,136.45,136.45,Debit Card
+TRX-10516,2024-08-07,CUST-344,West,Electronics,Smartphone,1,878.93,878.93,PayPal
+TRX-10517,2023-11-20,CUST-197,North,Home,Chair,1,101.34,101.34,Credit Card
+TRX-10518,2024-10-05,CUST-201,North,Electronics,Monitor,2,294.25,588.5,PayPal
+TRX-10519,2024-08-16,CUST-496,North,Home,Chair,2,98.76,197.52,Credit Card
+TRX-10520,2023-12-31,CUST-430,South,Home,Blender,3,47.68,143.04,Debit Card
+TRX-10521,2024-03-30,CUST-188,East,Home,Blender,2,43.88,87.76,PayPal
+TRX-10522,2023-03-17,CUST-298,North,Home,Chair,1,96.57,96.57,Debit Card
+TRX-10523,2024-08-27,CUST-404,South,Clothing,Jeans,3,60.76,182.28,Debit Card
+TRX-10524,2023-04-12,CUST-366,East,Home,Coffee Maker,3,80.73,242.19,PayPal
+TRX-10525,2023-01-03,CUST-184,North,Home,Desk,2,153.1,306.2,PayPal
+TRX-10526,2024-03-25,CUST-216,East,Electronics,Smartphone,4,858.13,3432.52,Debit Card
+TRX-10527,2023-01-12,CUST-232,West,Electronics,Smartphone,1,850.2,850.2,Credit Card
+TRX-10528,2023-10-27,CUST-327,West,Electronics,Headphones,1,146.96,146.96,PayPal
+TRX-10529,2023-12-09,CUST-425,West,Electronics,Smartphone,4,817.26,3269.04,Debit Card
+TRX-10530,2024-03-02,CUST-120,North,Clothing,Jeans,4,62.96,251.84,PayPal
+TRX-10531,2023-12-02,CUST-402,East,Clothing,Jeans,3,56.35,169.05,PayPal
+TRX-10532,2024-12-15,CUST-150,North,Clothing,Jacket,3,109.71,329.13,PayPal
+TRX-10533,2023-05-21,CUST-374,East,Electronics,Laptop,1,1094.46,1094.46,Debit Card
+TRX-10534,2024-01-08,CUST-151,South,Electronics,Monitor,1,276.09,276.09,Credit Card
+TRX-10535,2023-06-05,CUST-390,South,Electronics,Monitor,1,310.21,310.21,PayPal
+TRX-10536,2024-02-24,CUST-257,West,Electronics,Headphones,2,152.43,304.86,Credit Card
+TRX-10537,2024-08-11,CUST-231,East,Home,Chair,1,104.32,104.32,PayPal
+TRX-10538,2024-04-03,CUST-362,West,Home,Chair,2,106.46,212.92,PayPal
+TRX-10539,2023-02-08,CUST-496,North,Clothing,Jacket,2,124.35,248.7,Debit Card
+TRX-10540,2023-11-08,CUST-340,West,Clothing,T-Shirt,3,23.42,70.26,Debit Card
+TRX-10541,2023-02-05,CUST-183,South,Home,Chair,2,101.35,202.7,PayPal
+TRX-10542,2024-01-20,CUST-271,North,Home,Blender,3,44.85,134.55,Credit Card
+TRX-10543,2024-07-12,CUST-478,East,Home,Desk,2,136.3,272.6,Debit Card
+TRX-10544,2023-04-28,CUST-376,West,Clothing,Sneakers,2,81.05,162.1,PayPal
+TRX-10545,2023-01-26,CUST-108,West,Electronics,Smartphone,1,861.47,861.47,Credit Card
+TRX-10546,2024-01-13,CUST-220,North,Clothing,T-Shirt,4,25.73,102.92,Debit Card
+TRX-10547,2023-06-01,CUST-307,West,Electronics,Laptop,4,1281.57,5126.28,Credit Card
+TRX-10548,2023-10-20,CUST-167,West,Home,Blender,3,45.51,136.53,PayPal
+TRX-10549,2024-09-03,CUST-159,West,Clothing,Jeans,3,57.3,171.9,Debit Card
+TRX-10550,2023-05-26,CUST-263,West,Clothing,T-Shirt,1,25.86,25.86,PayPal
+TRX-10551,2023-08-30,CUST-168,North,Clothing,Jeans,3,55.8,167.4,PayPal
+TRX-10552,2023-04-18,CUST-325,East,Electronics,Headphones,3,140.04,420.12,Credit Card
+TRX-10553,2024-10-23,CUST-392,North,Electronics,Laptop,1,1193.49,1193.49,PayPal
+TRX-10554,2024-03-30,CUST-259,West,Clothing,Jeans,4,61.7,246.8,PayPal
+TRX-10555,2024-08-12,CUST-176,East,Clothing,Jeans,1,61.66,61.66,Credit Card
+TRX-10556,2023-11-16,CUST-390,North,Clothing,Jeans,2,61.13,122.26,Debit Card
+TRX-10557,2024-07-07,CUST-473,North,Clothing,T-Shirt,2,25.49,50.98,Credit Card
+TRX-10558,2024-04-03,CUST-379,East,Home,Blender,1,44.51,44.51,PayPal
+TRX-10559,2024-08-02,CUST-317,West,Clothing,Jacket,3,111.08,333.24,Credit Card
+TRX-10560,2023-06-16,CUST-208,West,Home,Coffee Maker,4,77.4,309.6,Debit Card
+TRX-10561,2023-12-19,CUST-263,East,Electronics,Laptop,4,1099.06,4396.24,Credit Card
+TRX-10562,2023-12-19,CUST-478,South,Electronics,Laptop,4,1126.05,4504.2,Credit Card
+TRX-10563,2024-12-08,CUST-368,South,Clothing,Sneakers,3,87.18,261.54,Credit Card
+TRX-10564,2024-05-31,CUST-126,North,Electronics,Monitor,2,301.14,602.28,Debit Card
+TRX-10565,2023-08-18,CUST-299,East,Home,Coffee Maker,4,82.24,328.96,Debit Card
+TRX-10566,2024-01-16,CUST-157,East,Clothing,Jeans,2,61.81,123.62,Debit Card
+TRX-10567,2023-05-10,CUST-314,North,Electronics,Monitor,2,289.98,579.96,Credit Card
+TRX-10568,2023-07-28,CUST-390,North,Home,Blender,2,43.91,87.82,Debit Card
+TRX-10569,2023-04-26,CUST-363,East,Electronics,Smartphone,2,836.9,1673.8,PayPal
+TRX-10570,2024-07-01,CUST-432,West,Home,Desk,2,152.41,304.82,Debit Card
+TRX-10571,2023-11-07,CUST-307,West,Electronics,Smartphone,3,821.59,2464.77,Debit Card
+TRX-10572,2024-09-24,CUST-154,East,Home,Chair,2,98.19,196.38,Credit Card
+TRX-10573,2024-02-04,CUST-495,North,Clothing,T-Shirt,1,26.28,26.28,Credit Card
+TRX-10574,2024-10-17,CUST-129,South,Home,Desk,3,164.44,493.32,Debit Card
+TRX-10575,2024-09-18,CUST-203,East,Clothing,Jeans,4,56.82,227.28,Credit Card
+TRX-10576,2023-09-05,CUST-463,South,Clothing,T-Shirt,4,22.6,90.4,Credit Card
+TRX-10577,2023-05-29,CUST-183,North,Clothing,Jeans,2,56.92,113.84,PayPal
+TRX-10578,2024-03-31,CUST-330,South,Home,Desk,2,153.71,307.42,Debit Card
+TRX-10579,2024-04-04,CUST-137,North,Clothing,Sneakers,1,96.56,96.56,PayPal
+TRX-10580,2024-10-15,CUST-391,East,Clothing,Jeans,1,55.91,55.91,PayPal
+TRX-10581,2024-07-31,CUST-460,East,Home,Coffee Maker,2,76.85,153.7,Debit Card
+TRX-10582,2024-03-24,CUST-430,South,Electronics,Smartphone,3,734.02,2202.06,Credit Card
+TRX-10583,2024-02-11,CUST-253,East,Electronics,Monitor,2,319.52,639.04,Debit Card
+TRX-10584,2023-09-19,CUST-242,West,Home,Chair,3,102.01,306.03,PayPal
+TRX-10585,2023-09-01,CUST-111,South,Clothing,T-Shirt,1,27.46,27.46,PayPal
+TRX-10586,2024-11-08,CUST-181,East,Clothing,Jeans,2,65.17,130.34,PayPal
+TRX-10587,2023-08-04,CUST-257,East,Home,Desk,2,153.84,307.68,PayPal
+TRX-10588,2023-01-07,CUST-113,North,Electronics,Headphones,3,156.64,469.92,Credit Card
+TRX-10589,2024-11-05,CUST-165,West,Electronics,Headphones,1,137.43,137.43,PayPal
+TRX-10590,2024-04-10,CUST-305,East,Electronics,Smartphone,3,744.61,2233.83,Debit Card
+TRX-10591,2023-09-23,CUST-124,East,Clothing,Jacket,4,131.41,525.64,PayPal
+TRX-10592,2023-10-16,CUST-263,North,Home,Desk,1,152.25,152.25,Credit Card
+TRX-10593,2023-04-20,CUST-435,East,Electronics,Smartphone,1,817.02,817.02,PayPal
+TRX-10594,2024-03-11,CUST-486,South,Home,Coffee Maker,1,84.24,84.24,Debit Card
+TRX-10595,2023-01-25,CUST-240,North,Clothing,T-Shirt,2,27.26,54.52,Credit Card
+TRX-10596,2024-06-20,CUST-178,South,Clothing,T-Shirt,4,24.34,97.36,Debit Card
+TRX-10597,2023-01-12,CUST-387,West,Home,Blender,4,49.17,196.68,PayPal
+TRX-10598,2024-10-14,CUST-130,North,Clothing,Sneakers,4,83.2,332.8,PayPal
+TRX-10599,2024-03-22,CUST-489,South,Clothing,Sneakers,2,90.11,180.22,Debit Card
+TRX-10600,2023-09-11,CUST-229,East,Home,Desk,3,135.01,405.03,Debit Card
+TRX-10601,2023-10-14,CUST-104,South,Clothing,Sneakers,3,92.7,278.1,Debit Card
+TRX-10602,2023-12-11,CUST-229,South,Home,Desk,2,158.42,316.84,PayPal
+TRX-10603,2023-09-10,CUST-155,South,Clothing,Sneakers,2,89.72,179.44,Credit Card
+TRX-10604,2023-03-24,CUST-492,South,Clothing,T-Shirt,3,23.99,71.97,PayPal
+TRX-10605,2023-06-05,CUST-289,North,Clothing,Jeans,1,55.71,55.71,PayPal
+TRX-10606,2023-03-21,CUST-499,East,Home,Chair,3,95.31,285.93,PayPal
+TRX-10607,2024-09-06,CUST-139,East,Home,Desk,4,136.87,547.48,Debit Card
+TRX-10608,2024-01-15,CUST-407,West,Home,Blender,3,47.83,143.49,Credit Card
+TRX-10609,2023-05-04,CUST-330,East,Home,Coffee Maker,4,74.78,299.12,PayPal
+TRX-10610,2024-09-19,CUST-290,West,Home,Chair,1,104.49,104.49,PayPal
+TRX-10611,2024-04-27,CUST-106,East,Clothing,Jeans,1,59.4,59.4,Debit Card
+TRX-10612,2024-06-09,CUST-328,North,Electronics,Smartphone,2,804.08,1608.16,PayPal
+TRX-10613,2024-05-24,CUST-282,South,Home,Coffee Maker,1,78.19,78.19,PayPal
+TRX-10614,2024-02-09,CUST-345,South,Home,Blender,3,44.25,132.75,PayPal
+TRX-10615,2024-10-11,CUST-413,West,Clothing,Jeans,1,63.48,63.48,Credit Card
+TRX-10616,2023-03-06,CUST-112,North,Electronics,Smartphone,1,750.35,750.35,Credit Card
+TRX-10617,2024-05-07,CUST-312,South,Electronics,Laptop,2,1082.91,2165.82,PayPal
+TRX-10618,2023-06-22,CUST-259,East,Home,Chair,1,93.98,93.98,Credit Card
+TRX-10619,2024-05-11,CUST-287,West,Home,Desk,3,149.64,448.92,PayPal
+TRX-10620,2023-11-04,CUST-355,North,Electronics,Smartphone,1,823.37,823.37,Debit Card
+TRX-10621,2024-05-24,CUST-295,West,Electronics,Smartphone,2,735.69,1471.38,PayPal
+TRX-10622,2024-08-16,CUST-331,South,Clothing,Sneakers,4,96.56,386.24,Debit Card
+TRX-10623,2024-03-11,CUST-141,South,Electronics,Laptop,1,1274.56,1274.56,PayPal
+TRX-10624,2024-09-16,CUST-204,North,Clothing,Jeans,1,63.42,63.42,Debit Card
+TRX-10625,2024-01-28,CUST-228,West,Home,Blender,4,41.42,165.68,Debit Card
+TRX-10626,2023-01-29,CUST-196,South,Home,Blender,4,47.78,191.12,PayPal
+TRX-10627,2023-08-20,CUST-376,South,Electronics,Monitor,2,320.45,640.9,Debit Card
+TRX-10628,2024-12-26,CUST-299,North,Electronics,Smartphone,3,852.02,2556.06,Debit Card
+TRX-10629,2023-06-22,CUST-168,East,Electronics,Monitor,1,283.62,283.62,PayPal
+TRX-10630,2023-03-28,CUST-200,North,Electronics,Monitor,1,314.25,314.25,Credit Card
+TRX-10631,2024-05-19,CUST-186,North,Clothing,T-Shirt,4,22.74,90.96,Debit Card
+TRX-10632,2024-03-10,CUST-251,East,Home,Desk,1,156.49,156.49,PayPal
+TRX-10633,2023-10-04,CUST-331,North,Home,Chair,4,90.71,362.84,Debit Card
+TRX-10634,2023-08-16,CUST-238,North,Clothing,Jeans,2,58.24,116.48,Credit Card
+TRX-10635,2024-01-26,CUST-127,South,Home,Coffee Maker,3,87.53,262.59,Credit Card
+TRX-10636,2023-09-18,CUST-360,East,Clothing,Sneakers,2,87.39,174.78,Credit Card
+TRX-10637,2024-06-03,CUST-419,North,Home,Blender,4,46.44,185.76,PayPal
+TRX-10638,2024-01-03,CUST-319,North,Electronics,Laptop,3,1181.83,3545.49,PayPal
+TRX-10639,2023-12-26,CUST-428,South,Electronics,Monitor,4,323.93,1295.72,Credit Card
+TRX-10640,2024-07-14,CUST-391,North,Clothing,Jacket,2,117.17,234.34,Credit Card
+TRX-10641,2024-09-08,CUST-268,South,Electronics,Headphones,2,153.45,306.9,Credit Card
+TRX-10642,2023-07-09,CUST-354,South,Electronics,Monitor,3,327.59,982.77,Debit Card
+TRX-10643,2024-11-06,CUST-239,West,Clothing,Jeans,1,65.62,65.62,Credit Card
+TRX-10644,2024-01-09,CUST-368,West,Clothing,Jeans,2,59.69,119.38,PayPal
+TRX-10645,2023-10-15,CUST-387,East,Clothing,Jacket,3,121.98,365.94,Credit Card
+TRX-10646,2024-06-05,CUST-370,East,Electronics,Headphones,3,154.69,464.07,Credit Card
+TRX-10647,2023-07-02,CUST-252,West,Clothing,Sneakers,2,82.99,165.98,PayPal
+TRX-10648,2023-05-04,CUST-213,North,Electronics,Smartphone,2,780.16,1560.32,PayPal
+TRX-10649,2024-12-25,CUST-271,West,Electronics,Laptop,2,1306.34,2612.68,PayPal
+TRX-10650,2023-04-23,CUST-475,North,Clothing,T-Shirt,2,23.49,46.98,Credit Card
+TRX-10651,2024-06-27,CUST-321,West,Home,Desk,2,164.77,329.54,PayPal
+TRX-10652,2023-08-21,CUST-117,East,Electronics,Monitor,1,321.68,321.68,PayPal
+TRX-10653,2024-10-22,CUST-225,East,Clothing,Jacket,2,123.27,246.54,Credit Card
+TRX-10654,2023-08-26,CUST-234,North,Home,Desk,4,160.26,641.04,Debit Card
+TRX-10655,2023-07-22,CUST-355,South,Clothing,Jeans,4,56.17,224.68,Credit Card
+TRX-10656,2023-12-11,CUST-121,North,Electronics,Smartphone,3,807.2,2421.6,Debit Card
+TRX-10657,2024-04-10,CUST-357,West,Home,Coffee Maker,1,80.63,80.63,PayPal
+TRX-10658,2024-03-11,CUST-382,South,Electronics,Laptop,3,1111.61,3334.83,PayPal
+TRX-10659,2024-02-11,CUST-187,South,Electronics,Monitor,3,327.91,983.73,Debit Card
+TRX-10660,2024-11-13,CUST-288,South,Home,Desk,2,145.27,290.54,Debit Card
+TRX-10661,2024-12-03,CUST-217,East,Electronics,Smartphone,3,838.95,2516.85,Debit Card
+TRX-10662,2023-01-30,CUST-394,South,Home,Blender,1,45.59,45.59,PayPal
+TRX-10663,2023-05-08,CUST-328,West,Home,Desk,1,152.32,152.32,Credit Card
+TRX-10664,2023-07-05,CUST-243,North,Electronics,Monitor,2,279.6,559.2,Debit Card
+TRX-10665,2023-09-18,CUST-102,East,Clothing,T-Shirt,4,26.56,106.24,Credit Card
+TRX-10666,2024-04-27,CUST-323,South,Clothing,Jeans,4,65.9,263.6,PayPal
+TRX-10667,2024-05-05,CUST-109,East,Clothing,Jacket,2,129.12,258.24,Debit Card
+TRX-10668,2023-08-19,CUST-318,North,Home,Coffee Maker,2,83.88,167.76,Debit Card
+TRX-10669,2023-04-22,CUST-112,East,Electronics,Headphones,1,140.64,140.64,PayPal
+TRX-10670,2024-08-20,CUST-333,West,Electronics,Smartphone,4,806.19,3224.76,Debit Card
+TRX-10671,2023-01-12,CUST-308,West,Home,Chair,2,105.22,210.44,PayPal
+TRX-10672,2024-02-22,CUST-476,East,Clothing,Jeans,1,54.13,54.13,Credit Card
+TRX-10673,2023-03-11,CUST-411,North,Electronics,Smartphone,4,828.54,3314.16,Credit Card
+TRX-10674,2023-05-12,CUST-210,North,Electronics,Smartphone,2,800.33,1600.66,Debit Card
+TRX-10675,2024-06-19,CUST-326,West,Electronics,Headphones,4,148.46,593.84,PayPal
+TRX-10676,2024-04-13,CUST-409,South,Home,Desk,2,139.13,278.26,Debit Card
+TRX-10677,2023-07-21,CUST-137,West,Home,Chair,1,103.91,103.91,Debit Card
+TRX-10678,2023-02-26,CUST-119,East,Home,Desk,4,140.01,560.04,Debit Card
+TRX-10679,2024-05-30,CUST-320,North,Clothing,Sneakers,3,88.24,264.72,Credit Card
+TRX-10680,2023-12-02,CUST-285,North,Clothing,Jacket,4,123.42,493.68,Debit Card
+TRX-10681,2024-06-19,CUST-261,West,Clothing,Jeans,4,60.74,242.96,PayPal
+TRX-10682,2023-06-08,CUST-287,South,Clothing,T-Shirt,3,25.5,76.5,Credit Card
+TRX-10683,2023-11-15,CUST-465,East,Clothing,Jeans,1,63.9,63.9,PayPal
+TRX-10684,2023-04-19,CUST-175,East,Home,Blender,4,41.84,167.36,Debit Card
+TRX-10685,2023-04-27,CUST-455,East,Home,Blender,2,47.56,95.12,Debit Card
+TRX-10686,2024-11-15,CUST-327,East,Home,Blender,4,45.16,180.64,PayPal
+TRX-10687,2023-07-02,CUST-245,North,Home,Chair,1,92.45,92.45,Debit Card
+TRX-10688,2024-04-20,CUST-350,West,Electronics,Laptop,1,1169.14,1169.14,PayPal
+TRX-10689,2023-04-28,CUST-400,North,Home,Desk,1,158.0,158.0,PayPal
+TRX-10690,2023-09-17,CUST-247,East,Home,Desk,2,140.2,280.4,PayPal
+TRX-10691,2024-02-03,CUST-297,North,Home,Coffee Maker,3,84.57,253.71,PayPal
+TRX-10692,2023-03-16,CUST-458,West,Clothing,Jeans,4,65.89,263.56,PayPal
+TRX-10693,2024-05-19,CUST-160,South,Electronics,Monitor,4,304.31,1217.24,PayPal
+TRX-10694,2024-09-10,CUST-212,West,Home,Desk,3,164.39,493.17,PayPal
+TRX-10695,2024-12-10,CUST-436,East,Clothing,T-Shirt,2,25.43,50.86,Credit Card
+TRX-10696,2024-03-01,CUST-134,East,Home,Chair,3,108.59,325.77,PayPal
+TRX-10697,2024-08-03,CUST-448,South,Home,Desk,3,147.89,443.67,Credit Card
+TRX-10698,2023-02-18,CUST-173,West,Home,Blender,4,44.66,178.64,Credit Card
+TRX-10699,2024-08-04,CUST-189,East,Clothing,Jeans,4,65.25,261.0,Credit Card
+TRX-10700,2023-10-22,CUST-228,South,Home,Desk,3,137.42,412.26,PayPal
+TRX-10701,2023-07-01,CUST-273,East,Home,Coffee Maker,4,84.48,337.92,Debit Card
+TRX-10702,2024-07-22,CUST-130,East,Clothing,Sneakers,4,91.98,367.92,Credit Card
+TRX-10703,2024-07-01,CUST-312,East,Home,Blender,1,48.8,48.8,PayPal
+TRX-10704,2024-09-09,CUST-441,West,Home,Chair,4,91.38,365.52,Debit Card
+TRX-10705,2023-08-08,CUST-369,West,Clothing,Jeans,3,57.14,171.42,Debit Card
+TRX-10706,2024-02-04,CUST-281,East,Clothing,T-Shirt,4,23.75,95.0,Debit Card
+TRX-10707,2023-07-24,CUST-169,East,Home,Chair,1,98.58,98.58,PayPal
+TRX-10708,2023-08-16,CUST-283,West,Home,Desk,1,136.96,136.96,Credit Card
+TRX-10709,2023-09-07,CUST-462,North,Home,Chair,2,90.93,181.86,PayPal
+TRX-10710,2024-11-20,CUST-106,South,Clothing,Sneakers,4,83.51,334.04,Debit Card
+TRX-10711,2024-11-02,CUST-347,East,Home,Blender,3,41.28,123.84,PayPal
+TRX-10712,2024-10-16,CUST-298,West,Home,Chair,4,100.97,403.88,PayPal
+TRX-10713,2024-05-06,CUST-475,South,Clothing,Sneakers,2,88.08,176.16,Credit Card
+TRX-10714,2023-06-14,CUST-413,South,Home,Desk,1,142.8,142.8,Debit Card
+TRX-10715,2023-05-11,CUST-186,West,Electronics,Monitor,1,328.77,328.77,Credit Card
+TRX-10716,2023-11-01,CUST-470,East,Home,Blender,4,42.28,169.12,PayPal
+TRX-10717,2024-03-20,CUST-260,North,Clothing,T-Shirt,4,27.36,109.44,PayPal
+TRX-10718,2024-05-04,CUST-426,South,Clothing,Jeans,4,55.81,223.24,Debit Card
+TRX-10719,2024-08-15,CUST-251,North,Home,Chair,1,103.68,103.68,PayPal
+TRX-10720,2023-01-28,CUST-142,West,Home,Desk,2,138.44,276.88,Debit Card
+TRX-10721,2023-06-26,CUST-116,South,Clothing,Sneakers,2,82.22,164.44,Credit Card
+TRX-10722,2023-07-17,CUST-197,South,Home,Coffee Maker,2,81.81,163.62,PayPal
+TRX-10723,2024-05-31,CUST-101,South,Clothing,T-Shirt,1,24.92,24.92,PayPal
+TRX-10724,2023-03-07,CUST-429,North,Electronics,Laptop,1,1239.41,1239.41,Debit Card
+TRX-10725,2024-03-10,CUST-224,South,Electronics,Laptop,4,1190.95,4763.8,Credit Card
+TRX-10726,2023-12-10,CUST-393,South,Clothing,Sneakers,4,94.49,377.96,Debit Card
+TRX-10727,2024-09-02,CUST-291,South,Electronics,Headphones,2,159.19,318.38,PayPal
+TRX-10728,2023-02-01,CUST-490,East,Home,Coffee Maker,1,84.7,84.7,PayPal
+TRX-10729,2024-01-18,CUST-167,East,Home,Coffee Maker,2,85.95,171.9,Debit Card
+TRX-10730,2024-10-16,CUST-475,West,Electronics,Headphones,2,157.7,315.4,PayPal
+TRX-10731,2024-12-26,CUST-215,East,Electronics,Monitor,3,277.58,832.74,PayPal
+TRX-10732,2024-01-16,CUST-267,West,Electronics,Monitor,3,322.23,966.69,Debit Card
+TRX-10733,2024-03-22,CUST-165,North,Clothing,T-Shirt,2,27.42,54.84,Debit Card
+TRX-10734,2023-02-13,CUST-196,West,Home,Chair,2,91.3,182.6,PayPal
+TRX-10735,2024-11-09,CUST-378,South,Electronics,Laptop,3,1173.77,3521.31,PayPal
+TRX-10736,2024-03-02,CUST-296,North,Electronics,Monitor,2,319.33,638.66,Credit Card
+TRX-10737,2023-09-25,CUST-173,East,Electronics,Laptop,4,1311.47,5245.88,Credit Card
+TRX-10738,2024-04-20,CUST-396,East,Home,Coffee Maker,4,73.5,294.0,Debit Card
+TRX-10739,2023-03-13,CUST-154,North,Electronics,Laptop,1,1218.62,1218.62,Debit Card
+TRX-10740,2023-08-26,CUST-203,South,Clothing,Jeans,3,61.71,185.13,Debit Card
+TRX-10741,2024-04-12,CUST-367,North,Electronics,Laptop,4,1204.85,4819.4,Debit Card
+TRX-10742,2024-01-22,CUST-464,North,Home,Coffee Maker,4,74.66,298.64,PayPal
+TRX-10743,2023-02-09,CUST-319,South,Electronics,Smartphone,2,864.98,1729.96,Debit Card
+TRX-10744,2024-06-03,CUST-200,West,Home,Chair,4,94.04,376.16,Credit Card
+TRX-10745,2024-09-10,CUST-200,South,Clothing,Jacket,4,125.58,502.32,Debit Card
+TRX-10746,2024-01-01,CUST-345,South,Home,Blender,2,44.46,88.92,PayPal
+TRX-10747,2024-06-07,CUST-494,North,Home,Chair,1,107.14,107.14,Credit Card
+TRX-10748,2023-05-09,CUST-162,East,Electronics,Smartphone,4,800.83,3203.32,Credit Card
+TRX-10749,2024-06-16,CUST-257,West,Clothing,Jeans,1,59.82,59.82,Credit Card
+TRX-10750,2023-04-12,CUST-322,South,Home,Desk,4,154.04,616.16,PayPal
+TRX-10751,2024-06-20,CUST-230,East,Home,Chair,4,103.12,412.48,Debit Card
+TRX-10752,2024-10-27,CUST-481,South,Home,Coffee Maker,1,80.44,80.44,PayPal
+TRX-10753,2024-12-01,CUST-364,South,Electronics,Laptop,3,1170.97,3512.91,Debit Card
+TRX-10754,2024-10-07,CUST-310,East,Clothing,Jacket,2,127.66,255.32,PayPal
+TRX-10755,2024-01-30,CUST-463,North,Home,Chair,1,105.19,105.19,PayPal
+TRX-10756,2024-12-28,CUST-325,West,Electronics,Headphones,1,148.78,148.78,Debit Card
+TRX-10757,2024-04-20,CUST-385,West,Electronics,Laptop,4,1276.62,5106.48,Debit Card
+TRX-10758,2023-06-05,CUST-347,East,Home,Chair,1,93.48,93.48,Credit Card
+TRX-10759,2024-11-05,CUST-279,South,Electronics,Smartphone,1,733.95,733.95,Debit Card
+TRX-10760,2023-12-04,CUST-413,South,Clothing,Jacket,3,129.73,389.19,Credit Card
+TRX-10761,2023-06-25,CUST-483,West,Electronics,Monitor,3,306.83,920.49,Credit Card
+TRX-10762,2024-09-11,CUST-238,South,Clothing,T-Shirt,1,24.26,24.26,PayPal
+TRX-10763,2023-10-16,CUST-311,West,Electronics,Laptop,3,1282.5,3847.5,PayPal
+TRX-10764,2023-03-07,CUST-347,South,Clothing,Sneakers,2,94.31,188.62,Credit Card
+TRX-10765,2024-03-29,CUST-300,South,Electronics,Laptop,3,1096.71,3290.13,Credit Card
+TRX-10766,2024-10-01,CUST-290,East,Home,Desk,1,154.66,154.66,PayPal
+TRX-10767,2023-05-23,CUST-290,South,Clothing,Jacket,2,116.17,232.34,Debit Card
+TRX-10768,2024-09-20,CUST-401,North,Home,Desk,1,137.06,137.06,PayPal
+TRX-10769,2024-04-04,CUST-138,South,Home,Blender,4,47.33,189.32,PayPal
+TRX-10770,2023-07-26,CUST-309,South,Electronics,Headphones,4,159.22,636.88,Debit Card
+TRX-10771,2023-09-08,CUST-318,North,Electronics,Smartphone,2,824.12,1648.24,Debit Card
+TRX-10772,2023-12-20,CUST-475,South,Clothing,T-Shirt,3,25.3,75.9,PayPal
+TRX-10773,2024-09-03,CUST-427,West,Electronics,Smartphone,2,780.72,1561.44,Debit Card
+TRX-10774,2024-06-25,CUST-433,West,Home,Coffee Maker,3,74.06,222.18,PayPal
+TRX-10775,2023-10-08,CUST-443,East,Electronics,Laptop,1,1194.98,1194.98,Debit Card
+TRX-10776,2024-12-27,CUST-249,North,Home,Chair,2,90.54,181.08,Credit Card
+TRX-10777,2024-09-13,CUST-486,East,Clothing,Sneakers,3,96.45,289.35,Debit Card
+TRX-10778,2023-10-11,CUST-272,East,Electronics,Smartphone,1,840.63,840.63,Credit Card
+TRX-10779,2023-03-14,CUST-350,West,Electronics,Laptop,3,1311.07,3933.21,Credit Card
+TRX-10780,2024-05-22,CUST-374,North,Clothing,Jeans,1,61.54,61.54,Credit Card
+TRX-10781,2023-04-30,CUST-416,North,Electronics,Headphones,2,161.18,322.36,Credit Card
+TRX-10782,2023-10-13,CUST-364,East,Electronics,Headphones,1,137.05,137.05,Credit Card
+TRX-10783,2023-03-30,CUST-241,West,Electronics,Headphones,4,135.37,541.48,PayPal
+TRX-10784,2023-11-30,CUST-321,North,Electronics,Headphones,3,152.95,458.85,PayPal
+TRX-10785,2023-03-09,CUST-363,East,Electronics,Headphones,3,152.96,458.88,PayPal
+TRX-10786,2024-09-13,CUST-185,West,Home,Blender,1,48.4,48.4,PayPal
+TRX-10787,2023-09-12,CUST-282,South,Clothing,T-Shirt,3,26.96,80.88,Credit Card
+TRX-10788,2024-03-07,CUST-257,North,Clothing,T-Shirt,2,25.16,50.32,PayPal
+TRX-10789,2024-07-29,CUST-149,West,Home,Chair,3,98.58,295.74,Credit Card
+TRX-10790,2023-11-21,CUST-403,North,Clothing,Jeans,1,60.88,60.88,Debit Card
+TRX-10791,2024-11-14,CUST-300,West,Home,Chair,3,106.63,319.89,Debit Card
+TRX-10792,2023-02-04,CUST-315,West,Home,Blender,4,48.69,194.76,Debit Card
+TRX-10793,2023-10-28,CUST-442,South,Home,Chair,4,109.12,436.48,Debit Card
+TRX-10794,2024-03-13,CUST-175,South,Clothing,Sneakers,4,88.75,355.0,Credit Card
+TRX-10795,2024-10-20,CUST-125,North,Home,Desk,3,148.93,446.79,Debit Card
+TRX-10796,2023-08-20,CUST-120,North,Home,Desk,2,139.94,279.88,Credit Card
+TRX-10797,2024-05-19,CUST-256,East,Home,Coffee Maker,4,82.1,328.4,PayPal
+TRX-10798,2024-03-30,CUST-447,West,Electronics,Monitor,3,308.38,925.14,PayPal
+TRX-10799,2023-03-17,CUST-166,West,Electronics,Monitor,2,276.25,552.5,Credit Card
+TRX-10800,2023-06-11,CUST-446,West,Clothing,Jacket,2,123.65,247.3,Credit Card
+TRX-10801,2024-08-06,CUST-186,South,Clothing,Sneakers,1,94.38,94.38,Debit Card
+TRX-10802,2024-10-26,CUST-309,South,Home,Chair,2,98.14,196.28,Debit Card
+TRX-10803,2023-09-19,CUST-317,West,Clothing,Sneakers,4,87.51,350.04,Debit Card
+TRX-10804,2024-01-15,CUST-461,North,Home,Chair,3,108.15,324.45,Credit Card
+TRX-10805,2024-09-12,CUST-340,North,Clothing,Sneakers,1,98.49,98.49,PayPal
+TRX-10806,2023-10-18,CUST-336,West,Electronics,Headphones,2,153.68,307.36,Debit Card
+TRX-10807,2024-10-14,CUST-288,North,Clothing,Jacket,1,119.38,119.38,PayPal
+TRX-10808,2023-07-09,CUST-235,West,Clothing,T-Shirt,2,22.53,45.06,PayPal
+TRX-10809,2024-08-24,CUST-394,South,Electronics,Laptop,4,1088.81,4355.24,Debit Card
+TRX-10810,2024-12-04,CUST-417,West,Electronics,Monitor,1,318.16,318.16,Debit Card
+TRX-10811,2024-01-17,CUST-332,South,Electronics,Headphones,2,146.9,293.8,PayPal
+TRX-10812,2024-07-06,CUST-116,East,Home,Blender,1,44.07,44.07,Debit Card
+TRX-10813,2024-07-24,CUST-282,East,Electronics,Laptop,3,1107.32,3321.96,PayPal
+TRX-10814,2024-12-04,CUST-366,East,Home,Chair,1,107.48,107.48,Debit Card
+TRX-10815,2023-11-29,CUST-226,South,Home,Blender,3,40.9,122.7,Credit Card
+TRX-10816,2023-06-17,CUST-207,North,Electronics,Smartphone,1,763.96,763.96,PayPal
+TRX-10817,2024-03-31,CUST-208,South,Home,Chair,4,104.6,418.4,Credit Card
+TRX-10818,2023-10-28,CUST-189,West,Home,Blender,4,45.97,183.88,Credit Card
+TRX-10819,2024-03-28,CUST-107,East,Home,Chair,2,109.1,218.2,PayPal
+TRX-10820,2023-12-09,CUST-257,North,Home,Coffee Maker,2,85.81,171.62,Credit Card
+TRX-10821,2024-11-19,CUST-274,South,Electronics,Headphones,3,142.73,428.19,Credit Card
+TRX-10822,2023-11-20,CUST-260,West,Clothing,Sneakers,2,96.69,193.38,PayPal
+TRX-10823,2024-04-29,CUST-246,West,Home,Blender,2,44.61,89.22,Credit Card
+TRX-10824,2023-03-25,CUST-212,South,Clothing,T-Shirt,4,25.48,101.92,Debit Card
+TRX-10825,2024-10-16,CUST-140,North,Home,Coffee Maker,2,73.14,146.28,PayPal
+TRX-10826,2023-04-15,CUST-301,East,Electronics,Smartphone,3,870.68,2612.04,PayPal
+TRX-10827,2023-09-23,CUST-497,West,Electronics,Headphones,3,145.86,437.58,PayPal
+TRX-10828,2024-12-13,CUST-476,East,Electronics,Laptop,2,1232.66,2465.32,Debit Card
+TRX-10829,2023-03-25,CUST-254,West,Home,Blender,3,41.89,125.67,PayPal
+TRX-10830,2024-11-08,CUST-486,East,Electronics,Headphones,1,157.23,157.23,Credit Card
+TRX-10831,2023-09-15,CUST-180,South,Clothing,Sneakers,4,90.61,362.44,Debit Card
+TRX-10832,2024-02-23,CUST-334,East,Electronics,Headphones,4,155.85,623.4,Debit Card
+TRX-10833,2023-12-23,CUST-312,West,Electronics,Laptop,1,1196.64,1196.64,Debit Card
+TRX-10834,2023-08-11,CUST-378,North,Electronics,Smartphone,3,849.28,2547.84,Debit Card
+TRX-10835,2023-10-04,CUST-206,North,Clothing,Jeans,2,63.8,127.6,PayPal
+TRX-10836,2024-03-04,CUST-474,North,Home,Desk,3,147.9,443.7,Credit Card
+TRX-10837,2024-09-25,CUST-129,East,Clothing,Jeans,2,60.51,121.02,PayPal
+TRX-10838,2024-03-26,CUST-294,South,Clothing,Jacket,2,118.71,237.42,PayPal
+TRX-10839,2023-02-10,CUST-162,North,Electronics,Headphones,3,160.73,482.19,Debit Card
+TRX-10840,2024-07-13,CUST-259,East,Electronics,Headphones,3,137.97,413.91,PayPal
+TRX-10841,2023-04-28,CUST-199,North,Clothing,T-Shirt,1,24.36,24.36,PayPal
+TRX-10842,2024-11-09,CUST-389,West,Clothing,T-Shirt,4,24.46,97.84,PayPal
+TRX-10843,2023-01-07,CUST-295,North,Home,Blender,1,42.0,42.0,PayPal
+TRX-10844,2023-07-12,CUST-146,West,Clothing,T-Shirt,1,22.72,22.72,Debit Card
+TRX-10845,2023-07-21,CUST-225,North,Electronics,Headphones,1,139.63,139.63,Debit Card
+TRX-10846,2024-07-29,CUST-424,West,Home,Blender,1,45.86,45.86,Debit Card
+TRX-10847,2024-09-19,CUST-303,South,Home,Chair,4,100.62,402.48,Credit Card
+TRX-10848,2024-01-23,CUST-212,North,Home,Desk,3,151.79,455.37,PayPal
+TRX-10849,2024-01-11,CUST-443,West,Electronics,Monitor,1,278.43,278.43,Credit Card
+TRX-10850,2024-07-10,CUST-359,East,Clothing,Jeans,3,60.07,180.21,Credit Card
+TRX-10851,2023-12-29,CUST-333,South,Clothing,Jeans,2,55.19,110.38,Debit Card
+TRX-10852,2023-05-05,CUST-498,West,Clothing,Sneakers,2,88.12,176.24,Credit Card
+TRX-10853,2024-04-29,CUST-221,North,Home,Chair,2,99.76,199.52,Debit Card
+TRX-10854,2023-05-04,CUST-456,West,Clothing,Jacket,2,110.79,221.58,Debit Card
+TRX-10855,2024-12-08,CUST-373,North,Clothing,Jacket,2,119.38,238.76,PayPal
+TRX-10856,2023-03-18,CUST-158,West,Clothing,T-Shirt,1,26.63,26.63,Credit Card
+TRX-10857,2023-04-19,CUST-323,West,Home,Desk,4,163.83,655.32,Debit Card
+TRX-10858,2023-03-10,CUST-264,North,Home,Desk,4,145.21,580.84,Debit Card
+TRX-10859,2024-11-04,CUST-464,South,Electronics,Monitor,1,298.67,298.67,Credit Card
+TRX-10860,2023-12-09,CUST-486,South,Electronics,Smartphone,3,841.9,2525.7,PayPal
+TRX-10861,2023-04-19,CUST-150,West,Home,Coffee Maker,4,76.84,307.36,Credit Card
+TRX-10862,2024-01-18,CUST-120,West,Home,Coffee Maker,1,74.83,74.83,PayPal
+TRX-10863,2024-05-13,CUST-484,South,Home,Blender,3,49.2,147.6,Credit Card
+TRX-10864,2024-09-28,CUST-496,West,Home,Blender,4,45.72,182.88,Debit Card
+TRX-10865,2024-03-10,CUST-372,East,Electronics,Monitor,3,307.57,922.71,PayPal
+TRX-10866,2023-04-14,CUST-313,North,Home,Chair,2,104.69,209.38,PayPal
+TRX-10867,2023-06-14,CUST-440,East,Home,Blender,2,45.62,91.24,Debit Card
+TRX-10868,2024-10-18,CUST-200,North,Home,Chair,1,92.96,92.96,PayPal
+TRX-10869,2023-03-05,CUST-190,North,Clothing,Sneakers,3,90.77,272.31,Credit Card
+TRX-10870,2024-11-15,CUST-146,East,Electronics,Headphones,3,162.28,486.84,Credit Card
+TRX-10871,2024-01-30,CUST-104,North,Electronics,Monitor,1,322.2,322.2,Credit Card
+TRX-10872,2024-07-11,CUST-111,West,Clothing,Sneakers,4,95.3,381.2,PayPal
+TRX-10873,2023-05-27,CUST-253,South,Electronics,Headphones,3,164.09,492.27,PayPal
+TRX-10874,2024-08-04,CUST-282,West,Home,Desk,4,164.43,657.72,Debit Card
+TRX-10875,2024-08-09,CUST-315,West,Electronics,Smartphone,2,780.05,1560.1,Debit Card
+TRX-10876,2024-12-15,CUST-291,West,Electronics,Smartphone,3,790.6,2371.8,Credit Card
+TRX-10877,2024-04-09,CUST-278,North,Electronics,Monitor,2,299.54,599.08,Credit Card
+TRX-10878,2023-03-23,CUST-191,South,Electronics,Headphones,3,161.83,485.49,PayPal
+TRX-10879,2023-12-31,CUST-262,West,Electronics,Smartphone,3,852.4,2557.2,Credit Card
+TRX-10880,2023-04-26,CUST-436,West,Electronics,Smartphone,1,752.08,752.08,Credit Card
+TRX-10881,2023-05-27,CUST-162,South,Electronics,Smartphone,1,822.43,822.43,Credit Card
+TRX-10882,2023-01-13,CUST-288,South,Home,Blender,3,48.45,145.35,Debit Card
+TRX-10883,2023-04-24,CUST-121,North,Clothing,Jacket,4,130.23,520.92,PayPal
+TRX-10884,2024-07-19,CUST-493,West,Home,Desk,3,155.63,466.89,Debit Card
+TRX-10885,2023-10-04,CUST-303,South,Electronics,Smartphone,2,741.51,1483.02,PayPal
+TRX-10886,2024-06-30,CUST-283,East,Home,Desk,4,159.13,636.52,Debit Card
+TRX-10887,2023-10-30,CUST-262,North,Home,Desk,2,150.86,301.72,Debit Card
+TRX-10888,2023-04-23,CUST-426,West,Home,Desk,4,164.93,659.72,Debit Card
+TRX-10889,2023-03-06,CUST-391,North,Home,Coffee Maker,3,72.04,216.12,Credit Card
+TRX-10890,2024-07-02,CUST-240,North,Clothing,Jacket,1,128.02,128.02,Debit Card
+TRX-10891,2023-07-07,CUST-227,North,Clothing,Sneakers,1,94.56,94.56,Debit Card
+TRX-10892,2024-11-06,CUST-134,West,Electronics,Smartphone,1,849.47,849.47,Debit Card
+TRX-10893,2024-06-18,CUST-364,West,Home,Chair,4,102.27,409.08,Credit Card
+TRX-10894,2024-01-19,CUST-359,South,Home,Coffee Maker,2,83.57,167.14,Credit Card
+TRX-10895,2023-03-16,CUST-454,East,Electronics,Headphones,2,147.21,294.42,Credit Card
+TRX-10896,2023-07-07,CUST-272,North,Home,Blender,2,45.44,90.88,PayPal
+TRX-10897,2024-07-26,CUST-182,South,Clothing,T-Shirt,1,25.99,25.99,Credit Card
+TRX-10898,2023-03-07,CUST-244,North,Home,Desk,4,150.68,602.72,Credit Card
+TRX-10899,2024-01-15,CUST-243,South,Clothing,Jacket,2,120.01,240.02,Credit Card
+TRX-10900,2024-03-25,CUST-112,South,Clothing,T-Shirt,2,24.89,49.78,PayPal
+TRX-10901,2024-05-22,CUST-389,East,Clothing,Jacket,3,124.0,372.0,Credit Card
+TRX-10902,2023-08-03,CUST-219,South,Clothing,Jeans,4,57.37,229.48,PayPal
+TRX-10903,2024-09-21,CUST-320,West,Home,Chair,3,98.1,294.3,Credit Card
+TRX-10904,2023-11-17,CUST-332,North,Clothing,Jeans,3,61.0,183.0,PayPal
+TRX-10905,2024-06-16,CUST-152,West,Home,Coffee Maker,1,75.51,75.51,PayPal
+TRX-10906,2024-12-26,CUST-130,East,Clothing,T-Shirt,1,24.58,24.58,Debit Card
+TRX-10907,2024-06-27,CUST-173,West,Home,Desk,3,161.66,484.98,Debit Card
+TRX-10908,2024-07-19,CUST-151,South,Electronics,Smartphone,4,813.74,3254.96,PayPal
+TRX-10909,2023-01-14,CUST-277,South,Clothing,T-Shirt,2,25.69,51.38,Debit Card
+TRX-10910,2023-02-22,CUST-434,South,Clothing,T-Shirt,4,26.07,104.28,PayPal
+TRX-10911,2023-09-17,CUST-304,West,Clothing,T-Shirt,3,25.26,75.78,Debit Card
+TRX-10912,2024-04-10,CUST-111,North,Home,Blender,4,48.75,195.0,Credit Card
+TRX-10913,2023-10-17,CUST-437,South,Electronics,Laptop,2,1199.21,2398.42,Credit Card
+TRX-10914,2023-03-16,CUST-460,West,Home,Coffee Maker,3,85.18,255.54,Credit Card
+TRX-10915,2024-03-16,CUST-340,East,Home,Chair,3,104.97,314.91,Credit Card
+TRX-10916,2023-04-06,CUST-313,South,Electronics,Monitor,2,300.67,601.34,Debit Card
+TRX-10917,2023-03-29,CUST-405,South,Electronics,Smartphone,3,833.12,2499.36,Credit Card
+TRX-10918,2023-11-21,CUST-476,East,Electronics,Smartphone,2,794.71,1589.42,Credit Card
+TRX-10919,2024-10-12,CUST-220,South,Clothing,Jeans,4,54.99,219.96,PayPal
+TRX-10920,2023-05-17,CUST-261,South,Clothing,T-Shirt,3,24.3,72.9,PayPal
+TRX-10921,2023-05-21,CUST-182,East,Electronics,Headphones,4,144.4,577.6,PayPal
+TRX-10922,2024-07-21,CUST-278,West,Clothing,Jacket,4,129.84,519.36,Debit Card
+TRX-10923,2024-04-15,CUST-317,West,Clothing,Jeans,2,55.07,110.14,Debit Card
+TRX-10924,2024-12-29,CUST-219,South,Electronics,Monitor,4,303.88,1215.52,Credit Card
+TRX-10925,2023-01-23,CUST-312,South,Home,Blender,3,46.58,139.74,PayPal
+TRX-10926,2023-04-11,CUST-123,North,Electronics,Smartphone,1,834.09,834.09,PayPal
+TRX-10927,2024-03-27,CUST-380,South,Electronics,Monitor,1,315.66,315.66,Debit Card
+TRX-10928,2024-12-23,CUST-239,North,Home,Blender,1,43.18,43.18,Credit Card
+TRX-10929,2023-04-11,CUST-403,South,Electronics,Laptop,1,1319.87,1319.87,PayPal
+TRX-10930,2024-07-06,CUST-454,West,Home,Blender,4,43.97,175.88,Debit Card
+TRX-10931,2023-08-15,CUST-335,North,Home,Coffee Maker,2,79.32,158.64,Credit Card
+TRX-10932,2023-01-13,CUST-309,East,Clothing,Sneakers,3,81.05,243.15,PayPal
+TRX-10933,2023-01-31,CUST-485,South,Home,Desk,4,151.56,606.24,Credit Card
+TRX-10934,2023-06-15,CUST-409,North,Clothing,Jeans,1,56.54,56.54,Debit Card
+TRX-10935,2023-04-10,CUST-208,South,Electronics,Headphones,1,161.4,161.4,PayPal
+TRX-10936,2023-06-11,CUST-492,East,Clothing,Jeans,1,63.05,63.05,PayPal
+TRX-10937,2023-10-01,CUST-102,North,Clothing,Sneakers,3,83.46,250.38,Credit Card
+TRX-10938,2023-05-29,CUST-127,West,Electronics,Monitor,4,288.94,1155.76,Debit Card
+TRX-10939,2023-03-06,CUST-455,East,Clothing,T-Shirt,2,26.07,52.14,Debit Card
+TRX-10940,2023-08-15,CUST-112,West,Electronics,Smartphone,3,733.65,2200.95,PayPal
+TRX-10941,2023-02-23,CUST-237,East,Home,Blender,2,41.02,82.04,Debit Card
+TRX-10942,2023-02-22,CUST-173,North,Home,Blender,3,45.39,136.17,Credit Card
+TRX-10943,2023-04-12,CUST-379,North,Electronics,Monitor,1,270.88,270.88,PayPal
+TRX-10944,2024-02-02,CUST-237,West,Electronics,Smartphone,1,854.12,854.12,PayPal
+TRX-10945,2023-04-21,CUST-201,West,Home,Chair,3,90.63,271.89,Credit Card
+TRX-10946,2024-06-19,CUST-128,East,Home,Desk,2,150.93,301.86,Credit Card
+TRX-10947,2024-01-13,CUST-287,West,Electronics,Laptop,4,1191.38,4765.52,Debit Card
+TRX-10948,2023-04-29,CUST-255,East,Home,Desk,1,146.93,146.93,Debit Card
+TRX-10949,2023-04-14,CUST-191,East,Home,Coffee Maker,1,76.28,76.28,Credit Card
+TRX-10950,2024-05-16,CUST-280,West,Home,Desk,3,164.28,492.84,PayPal
+TRX-10951,2024-11-04,CUST-233,West,Electronics,Headphones,3,137.29,411.87,PayPal
+TRX-10952,2024-05-15,CUST-252,South,Electronics,Laptop,4,1184.52,4738.08,PayPal
+TRX-10953,2024-06-02,CUST-343,North,Electronics,Smartphone,2,843.7,1687.4,PayPal
+TRX-10954,2024-06-11,CUST-307,West,Electronics,Monitor,4,308.51,1234.04,Debit Card
+TRX-10955,2024-10-08,CUST-327,South,Electronics,Smartphone,4,767.97,3071.88,Credit Card
+TRX-10956,2023-06-09,CUST-430,East,Home,Blender,1,48.12,48.12,PayPal
+TRX-10957,2024-12-29,CUST-144,South,Home,Blender,3,47.97,143.91,Debit Card
+TRX-10958,2024-09-07,CUST-294,South,Home,Blender,4,44.08,176.32,Debit Card
+TRX-10959,2024-09-01,CUST-325,North,Clothing,Jeans,1,62.52,62.52,PayPal
+TRX-10960,2023-05-04,CUST-317,West,Home,Chair,3,99.68,299.04,Debit Card
+TRX-10961,2024-01-28,CUST-218,North,Electronics,Monitor,4,304.93,1219.72,Credit Card
+TRX-10962,2024-03-09,CUST-430,West,Clothing,Jeans,4,63.42,253.68,Credit Card
+TRX-10963,2023-10-05,CUST-332,South,Home,Chair,4,109.26,437.04,PayPal
+TRX-10964,2024-05-06,CUST-298,West,Electronics,Monitor,2,282.3,564.6,Debit Card
+TRX-10965,2023-01-25,CUST-493,South,Electronics,Headphones,2,139.22,278.44,Credit Card
+TRX-10966,2023-09-24,CUST-280,East,Clothing,Jeans,3,57.78,173.34,PayPal
+TRX-10967,2024-02-16,CUST-420,South,Electronics,Smartphone,4,804.36,3217.44,PayPal
+TRX-10968,2023-04-12,CUST-315,North,Home,Desk,4,145.36,581.44,PayPal
+TRX-10969,2024-07-12,CUST-258,West,Clothing,T-Shirt,1,26.12,26.12,PayPal
+TRX-10970,2023-01-05,CUST-183,West,Electronics,Headphones,2,156.23,312.46,Credit Card
+TRX-10971,2023-09-05,CUST-153,North,Home,Desk,3,153.93,461.79,Credit Card
+TRX-10972,2023-01-15,CUST-323,North,Clothing,Jeans,2,58.99,117.98,PayPal
+TRX-10973,2024-07-11,CUST-489,West,Home,Blender,1,45.01,45.01,Credit Card
+TRX-10974,2024-03-21,CUST-309,South,Clothing,T-Shirt,2,23.87,47.74,PayPal
+TRX-10975,2023-08-11,CUST-321,North,Home,Chair,2,100.94,201.88,PayPal
+TRX-10976,2023-04-03,CUST-107,North,Clothing,Sneakers,2,91.1,182.2,Debit Card
+TRX-10977,2024-09-11,CUST-260,East,Clothing,Jeans,3,56.51,169.53,Debit Card
+TRX-10978,2023-11-29,CUST-149,East,Clothing,Jeans,3,55.64,166.92,PayPal
+TRX-10979,2024-05-06,CUST-169,West,Clothing,Jeans,4,64.25,257.0,PayPal
+TRX-10980,2023-09-09,CUST-147,South,Home,Chair,4,92.18,368.72,PayPal
+TRX-10981,2023-03-31,CUST-431,East,Home,Chair,3,98.13,294.39,PayPal
+TRX-10982,2023-10-01,CUST-118,West,Home,Chair,1,95.19,95.19,Debit Card
+TRX-10983,2023-06-03,CUST-489,South,Home,Blender,2,42.08,84.16,Debit Card
+TRX-10984,2024-07-24,CUST-224,South,Clothing,Sneakers,3,84.42,253.26,Debit Card
+TRX-10985,2023-09-02,CUST-435,West,Home,Blender,3,48.99,146.97,Credit Card
+TRX-10986,2024-06-03,CUST-240,North,Clothing,Jeans,3,65.73,197.19,Debit Card
+TRX-10987,2023-12-18,CUST-193,North,Electronics,Laptop,2,1285.01,2570.02,Credit Card
+TRX-10988,2024-08-15,CUST-286,South,Clothing,Jeans,3,61.69,185.07,PayPal
+TRX-10989,2023-04-03,CUST-185,East,Clothing,T-Shirt,2,27.3,54.6,Credit Card
+TRX-10990,2023-03-15,CUST-135,East,Home,Coffee Maker,1,81.65,81.65,Debit Card
+TRX-10991,2023-06-05,CUST-354,North,Clothing,T-Shirt,4,24.29,97.16,Credit Card
+TRX-10992,2023-06-19,CUST-351,South,Home,Chair,4,102.69,410.76,Debit Card
+TRX-10993,2024-03-31,CUST-190,North,Electronics,Monitor,3,280.67,842.01,Credit Card
+TRX-10994,2023-12-15,CUST-463,South,Home,Blender,3,42.78,128.34,PayPal
+TRX-10995,2023-09-22,CUST-347,West,Clothing,T-Shirt,2,25.81,51.62,PayPal
+TRX-10996,2024-05-13,CUST-228,South,Home,Chair,2,109.8,219.6,PayPal
+TRX-10997,2023-11-23,CUST-340,South,Electronics,Laptop,1,1090.78,1090.78,Credit Card
+TRX-10998,2024-09-20,CUST-193,North,Clothing,Jacket,4,123.25,493.0,Debit Card
+TRX-10999,2023-12-25,CUST-190,North,Electronics,Headphones,1,162.55,162.55,Credit Card
+TRX-11000,2023-10-01,CUST-272,East,Electronics,Smartphone,1,764.09,764.09,PayPal
+TRX-11001,2024-11-23,CUST-190,East,Clothing,Jacket,4,114.02,456.08,PayPal
+TRX-11002,2023-04-24,CUST-356,East,Electronics,Smartphone,1,786.5,786.5,Credit Card
+TRX-11003,2024-02-08,CUST-215,East,Electronics,Monitor,1,281.5,281.5,Credit Card
+TRX-11004,2024-12-15,CUST-140,South,Electronics,Laptop,3,1086.6,3259.8,Credit Card
+TRX-11005,2023-07-12,CUST-377,East,Electronics,Monitor,2,272.34,544.68,Debit Card
+TRX-11006,2024-08-02,CUST-296,West,Home,Desk,1,161.0,161.0,Debit Card
+TRX-11007,2024-10-22,CUST-198,South,Clothing,Jeans,4,62.63,250.52,PayPal
+TRX-11008,2024-02-07,CUST-208,North,Clothing,Sneakers,3,86.87,260.61,PayPal
+TRX-11009,2023-11-23,CUST-253,East,Home,Chair,3,97.06,291.18,PayPal
+TRX-11010,2024-04-06,CUST-231,North,Home,Chair,1,107.85,107.85,Credit Card
+TRX-11011,2024-02-03,CUST-341,South,Home,Desk,4,159.69,638.76,Debit Card
+TRX-11012,2024-07-06,CUST-467,South,Electronics,Headphones,1,141.14,141.14,Debit Card
+TRX-11013,2024-07-11,CUST-423,East,Clothing,Sneakers,3,86.97,260.91,Credit Card
+TRX-11014,2024-02-25,CUST-484,North,Electronics,Headphones,3,143.86,431.58,Credit Card
+TRX-11015,2023-10-10,CUST-139,East,Electronics,Smartphone,4,785.51,3142.04,Credit Card
+TRX-11016,2024-06-19,CUST-123,West,Electronics,Smartphone,4,727.62,2910.48,Debit Card
+TRX-11017,2023-10-17,CUST-280,South,Home,Chair,3,103.09,309.27,PayPal
+TRX-11018,2024-08-03,CUST-450,South,Home,Coffee Maker,3,76.52,229.56,Debit Card
+TRX-11019,2024-11-11,CUST-412,East,Electronics,Monitor,2,277.67,555.34,Credit Card
+TRX-11020,2024-07-19,CUST-425,South,Clothing,Sneakers,4,91.63,366.52,Debit Card
+TRX-11021,2024-11-10,CUST-490,North,Electronics,Laptop,2,1093.11,2186.22,Debit Card
+TRX-11022,2023-11-13,CUST-311,North,Clothing,Jeans,1,56.44,56.44,Credit Card
+TRX-11023,2023-12-08,CUST-402,North,Clothing,Sneakers,3,85.15,255.45,Debit Card
+TRX-11024,2023-02-07,CUST-338,East,Home,Chair,4,93.82,375.28,PayPal
+TRX-11025,2023-12-09,CUST-413,East,Clothing,Jeans,1,58.99,58.99,Credit Card
+TRX-11026,2024-06-20,CUST-211,South,Home,Blender,2,43.23,86.46,Credit Card
+TRX-11027,2023-07-04,CUST-481,South,Home,Coffee Maker,2,85.07,170.14,Debit Card
+TRX-11028,2024-07-04,CUST-115,East,Electronics,Headphones,3,145.11,435.33,Debit Card
+TRX-11029,2023-11-06,CUST-248,South,Home,Coffee Maker,1,84.07,84.07,PayPal
+TRX-11030,2024-07-24,CUST-386,North,Clothing,Jeans,4,55.8,223.2,PayPal
+TRX-11031,2024-03-18,CUST-261,South,Clothing,Jacket,4,126.09,504.36,Debit Card
+TRX-11032,2024-10-12,CUST-109,North,Home,Desk,1,158.42,158.42,Credit Card
+TRX-11033,2024-07-13,CUST-210,North,Clothing,Jeans,1,59.78,59.78,PayPal
+TRX-11034,2023-04-12,CUST-340,South,Electronics,Smartphone,1,834.31,834.31,Credit Card
+TRX-11035,2024-07-16,CUST-391,North,Clothing,Jeans,1,60.17,60.17,Debit Card
+TRX-11036,2023-03-29,CUST-293,East,Electronics,Laptop,3,1313.38,3940.14,Debit Card
+TRX-11037,2024-02-27,CUST-478,East,Electronics,Smartphone,4,831.55,3326.2,Debit Card
+TRX-11038,2024-02-11,CUST-477,East,Clothing,T-Shirt,3,26.52,79.56,PayPal
+TRX-11039,2023-11-09,CUST-180,East,Electronics,Laptop,2,1254.96,2509.92,Credit Card
+TRX-11040,2024-04-21,CUST-172,South,Clothing,Sneakers,1,81.56,81.56,Credit Card
+TRX-11041,2023-12-06,CUST-407,East,Clothing,Jeans,2,58.14,116.28,Credit Card
+TRX-11042,2024-07-28,CUST-148,North,Clothing,T-Shirt,1,23.29,23.29,Debit Card
+TRX-11043,2023-04-19,CUST-282,North,Home,Desk,3,156.81,470.43,Credit Card
+TRX-11044,2024-04-18,CUST-370,South,Electronics,Monitor,1,302.96,302.96,Credit Card
+TRX-11045,2023-05-08,CUST-468,South,Home,Desk,4,150.2,600.8,Credit Card
+TRX-11046,2024-02-23,CUST-177,East,Electronics,Smartphone,4,724.03,2896.12,Credit Card
+TRX-11047,2024-11-04,CUST-288,East,Clothing,T-Shirt,2,26.02,52.04,Debit Card
+TRX-11048,2023-11-11,CUST-438,North,Clothing,Jeans,4,55.17,220.68,Credit Card
+TRX-11049,2023-06-17,CUST-438,West,Electronics,Headphones,1,156.19,156.19,PayPal
+TRX-11050,2023-10-10,CUST-435,North,Clothing,Sneakers,1,88.73,88.73,Debit Card
+TRX-11051,2023-08-28,CUST-419,North,Home,Coffee Maker,1,85.8,85.8,PayPal
+TRX-11052,2024-12-16,CUST-179,West,Home,Chair,3,104.29,312.87,Credit Card
+TRX-11053,2023-03-30,CUST-247,East,Clothing,Jeans,2,55.58,111.16,Debit Card
+TRX-11054,2023-05-31,CUST-101,North,Clothing,Sneakers,4,93.19,372.76,Debit Card
+TRX-11055,2023-11-09,CUST-427,East,Clothing,Jacket,3,128.91,386.73,Debit Card
+TRX-11056,2024-01-10,CUST-213,South,Home,Blender,4,42.75,171.0,Debit Card
+TRX-11057,2023-06-28,CUST-309,North,Home,Coffee Maker,3,85.33,255.99,Debit Card
+TRX-11058,2023-05-04,CUST-212,South,Clothing,Sneakers,4,85.46,341.84,Credit Card
+TRX-11059,2023-11-27,CUST-488,West,Home,Desk,1,135.59,135.59,Debit Card
+TRX-11060,2023-04-07,CUST-104,North,Electronics,Smartphone,1,776.47,776.47,PayPal
+TRX-11061,2023-03-10,CUST-217,East,Clothing,Jacket,2,125.58,251.16,Debit Card
+TRX-11062,2023-11-14,CUST-149,North,Home,Chair,1,94.94,94.94,Credit Card
+TRX-11063,2024-12-26,CUST-296,East,Home,Desk,3,147.98,443.94,Credit Card
+TRX-11064,2024-07-12,CUST-266,East,Home,Chair,2,91.44,182.88,Debit Card
+TRX-11065,2023-03-25,CUST-281,East,Home,Blender,1,49.0,49.0,PayPal
+TRX-11066,2024-06-09,CUST-314,South,Home,Coffee Maker,3,83.74,251.22,PayPal
+TRX-11067,2024-04-21,CUST-347,East,Home,Desk,2,147.55,295.1,Debit Card
+TRX-11068,2023-12-04,CUST-418,South,Clothing,Jeans,4,65.88,263.52,PayPal
+TRX-11069,2024-01-27,CUST-317,East,Electronics,Smartphone,1,789.12,789.12,Credit Card
+TRX-11070,2023-01-17,CUST-421,East,Clothing,Jacket,2,118.8,237.6,Debit Card
+TRX-11071,2024-02-16,CUST-417,South,Electronics,Smartphone,1,875.31,875.31,Credit Card
+TRX-11072,2024-04-18,CUST-318,North,Home,Desk,2,151.66,303.32,Credit Card
+TRX-11073,2024-01-22,CUST-365,East,Home,Chair,3,100.39,301.17,Credit Card
+TRX-11074,2023-07-27,CUST-101,South,Home,Chair,3,100.34,301.02,Credit Card
+TRX-11075,2023-06-15,CUST-121,West,Home,Desk,2,143.62,287.24,Credit Card
+TRX-11076,2023-10-22,CUST-318,East,Electronics,Laptop,3,1114.55,3343.65,Debit Card
+TRX-11077,2023-01-20,CUST-140,West,Clothing,Jeans,2,54.91,109.82,Debit Card
+TRX-11078,2024-02-07,CUST-183,South,Electronics,Monitor,4,275.52,1102.08,PayPal
+TRX-11079,2024-02-18,CUST-408,North,Home,Desk,2,137.76,275.52,PayPal
+TRX-11080,2023-05-14,CUST-306,South,Home,Desk,3,135.45,406.35,Credit Card
+TRX-11081,2024-04-25,CUST-451,North,Home,Coffee Maker,1,81.02,81.02,Debit Card
+TRX-11082,2024-03-18,CUST-199,East,Clothing,Jacket,1,122.64,122.64,Debit Card
+TRX-11083,2024-02-17,CUST-164,North,Home,Chair,2,94.99,189.98,PayPal
+TRX-11084,2023-09-23,CUST-408,East,Home,Chair,1,92.34,92.34,Debit Card
+TRX-11085,2024-07-13,CUST-478,West,Electronics,Smartphone,2,871.16,1742.32,PayPal
+TRX-11086,2024-09-01,CUST-124,South,Clothing,Sneakers,4,94.9,379.6,Credit Card
+TRX-11087,2023-10-28,CUST-167,West,Clothing,Sneakers,1,81.91,81.91,Credit Card
+TRX-11088,2023-06-13,CUST-182,South,Home,Coffee Maker,1,86.98,86.98,PayPal
+TRX-11089,2023-03-14,CUST-336,West,Home,Chair,4,109.15,436.6,Debit Card
+TRX-11090,2023-09-19,CUST-275,West,Clothing,Jacket,4,122.81,491.24,Credit Card
+TRX-11091,2024-01-05,CUST-382,West,Clothing,Sneakers,2,92.97,185.94,Debit Card
+TRX-11092,2024-05-21,CUST-440,South,Clothing,Sneakers,3,88.8,266.4,Debit Card
+TRX-11093,2024-01-02,CUST-370,North,Home,Blender,4,48.73,194.92,Debit Card
+TRX-11094,2023-03-14,CUST-347,East,Clothing,Jeans,3,63.81,191.43,Debit Card
+TRX-11095,2024-01-12,CUST-140,West,Clothing,Jacket,3,113.5,340.5,Debit Card
+TRX-11096,2024-05-07,CUST-267,East,Home,Desk,4,142.26,569.04,Debit Card
+TRX-11097,2023-05-31,CUST-210,West,Clothing,Sneakers,1,92.77,92.77,Credit Card
+TRX-11098,2024-07-28,CUST-324,East,Electronics,Monitor,3,314.32,942.96,PayPal
+TRX-11099,2023-10-26,CUST-389,West,Home,Desk,1,141.43,141.43,Credit Card
+TRX-11100,2023-11-10,CUST-260,West,Electronics,Headphones,1,136.88,136.88,Credit Card
+TRX-11101,2024-08-28,CUST-403,East,Clothing,Sneakers,2,93.11,186.22,Debit Card
+TRX-11102,2024-07-03,CUST-226,East,Clothing,T-Shirt,2,24.17,48.34,Credit Card
+TRX-11103,2023-11-15,CUST-176,East,Electronics,Smartphone,3,851.68,2555.04,PayPal
+TRX-11104,2024-08-25,CUST-337,West,Clothing,Sneakers,3,95.16,285.48,PayPal
+TRX-11105,2024-05-04,CUST-308,West,Home,Coffee Maker,2,76.66,153.32,PayPal
+TRX-11106,2024-09-10,CUST-444,East,Home,Desk,2,162.62,325.24,PayPal
+TRX-11107,2024-11-24,CUST-136,West,Clothing,Sneakers,4,87.0,348.0,Debit Card
+TRX-11108,2023-07-06,CUST-440,West,Clothing,Jeans,4,62.0,248.0,Credit Card
+TRX-11109,2023-12-29,CUST-222,North,Home,Blender,2,44.2,88.4,Credit Card
+TRX-11110,2024-11-10,CUST-213,North,Home,Coffee Maker,2,83.29,166.58,Debit Card
+TRX-11111,2023-12-01,CUST-191,West,Home,Coffee Maker,1,82.39,82.39,Debit Card
+TRX-11112,2024-10-23,CUST-238,East,Electronics,Smartphone,3,787.1,2361.3,Debit Card
+TRX-11113,2023-08-02,CUST-355,South,Clothing,Jacket,1,122.37,122.37,Debit Card
+TRX-11114,2023-03-29,CUST-423,South,Electronics,Laptop,3,1177.83,3533.49,Credit Card
+TRX-11115,2023-01-03,CUST-341,West,Clothing,T-Shirt,1,23.55,23.55,PayPal
+TRX-11116,2023-02-07,CUST-440,East,Home,Coffee Maker,2,78.54,157.08,Credit Card
+TRX-11117,2024-12-14,CUST-447,North,Home,Blender,1,41.94,41.94,Debit Card
+TRX-11118,2024-09-12,CUST-402,East,Clothing,Sneakers,3,92.96,278.88,Debit Card
+TRX-11119,2023-03-10,CUST-228,North,Electronics,Monitor,3,311.11,933.33,Credit Card
+TRX-11120,2023-10-10,CUST-411,East,Clothing,Jeans,4,57.72,230.88,Credit Card
+TRX-11121,2023-10-04,CUST-160,East,Clothing,T-Shirt,1,25.27,25.27,PayPal
+TRX-11122,2023-06-02,CUST-336,West,Electronics,Headphones,4,145.61,582.44,Debit Card
+TRX-11123,2024-07-20,CUST-451,South,Home,Blender,4,43.27,173.08,Credit Card
+TRX-11124,2023-06-26,CUST-461,East,Home,Coffee Maker,2,84.58,169.16,Debit Card
+TRX-11125,2023-04-07,CUST-468,South,Home,Blender,4,42.94,171.76,PayPal
+TRX-11126,2023-01-06,CUST-208,North,Clothing,Sneakers,1,82.85,82.85,PayPal
+TRX-11127,2024-02-29,CUST-217,West,Home,Coffee Maker,2,80.05,160.1,Debit Card
+TRX-11128,2024-04-09,CUST-175,West,Electronics,Smartphone,3,847.12,2541.36,PayPal
+TRX-11129,2024-02-18,CUST-412,East,Home,Blender,3,48.23,144.69,PayPal
+TRX-11130,2023-10-12,CUST-338,East,Clothing,T-Shirt,1,22.57,22.57,Credit Card
+TRX-11131,2024-11-02,CUST-145,West,Clothing,Jeans,1,62.08,62.08,Debit Card
+TRX-11132,2023-02-14,CUST-346,South,Electronics,Monitor,4,293.09,1172.36,Credit Card
+TRX-11133,2024-04-29,CUST-233,West,Clothing,T-Shirt,2,22.51,45.02,PayPal
+TRX-11134,2024-10-23,CUST-345,East,Electronics,Laptop,2,1269.46,2538.92,PayPal
+TRX-11135,2024-09-29,CUST-334,North,Clothing,Sneakers,1,82.5,82.5,Credit Card
+TRX-11136,2024-09-25,CUST-237,East,Electronics,Headphones,3,156.97,470.91,PayPal
+TRX-11137,2024-11-04,CUST-300,West,Home,Desk,3,154.04,462.12,Debit Card
+TRX-11138,2023-07-25,CUST-266,East,Home,Chair,3,94.24,282.72,Credit Card
+TRX-11139,2023-05-07,CUST-246,East,Home,Chair,2,91.15,182.3,Debit Card
+TRX-11140,2024-02-16,CUST-251,East,Home,Chair,2,96.71,193.42,PayPal
+TRX-11141,2023-05-17,CUST-274,West,Electronics,Monitor,1,306.98,306.98,PayPal
+TRX-11142,2023-01-19,CUST-294,East,Electronics,Headphones,1,157.62,157.62,Debit Card
+TRX-11143,2024-03-24,CUST-453,East,Home,Coffee Maker,3,83.14,249.42,Credit Card
+TRX-11144,2023-04-03,CUST-338,North,Home,Blender,2,44.21,88.42,PayPal
+TRX-11145,2023-09-02,CUST-419,South,Electronics,Smartphone,1,738.46,738.46,Credit Card
+TRX-11146,2024-10-01,CUST-443,South,Home,Desk,3,162.99,488.97,PayPal
+TRX-11147,2023-09-26,CUST-424,East,Clothing,Jacket,3,124.61,373.83,PayPal
+TRX-11148,2023-01-07,CUST-413,South,Home,Desk,3,157.94,473.82,PayPal
+TRX-11149,2023-07-12,CUST-340,West,Home,Coffee Maker,1,80.12,80.12,Credit Card
+TRX-11150,2024-06-20,CUST-350,West,Home,Chair,3,102.23,306.69,Credit Card
+TRX-11151,2024-06-24,CUST-216,West,Electronics,Laptop,3,1193.82,3581.46,Credit Card
+TRX-11152,2024-01-15,CUST-243,North,Clothing,Jeans,2,56.66,113.32,PayPal
+TRX-11153,2023-03-14,CUST-219,East,Electronics,Laptop,4,1082.39,4329.56,Debit Card
+TRX-11154,2024-05-19,CUST-185,North,Clothing,Jeans,1,63.03,63.03,Debit Card
+TRX-11155,2023-12-30,CUST-217,East,Electronics,Laptop,3,1282.4,3847.2,PayPal
+TRX-11156,2024-02-17,CUST-438,North,Electronics,Monitor,2,317.49,634.98,PayPal
+TRX-11157,2024-03-04,CUST-370,East,Electronics,Headphones,1,159.62,159.62,Debit Card
+TRX-11158,2024-06-25,CUST-156,West,Clothing,Jacket,1,119.19,119.19,Debit Card
+TRX-11159,2024-01-19,CUST-147,North,Electronics,Monitor,3,318.21,954.63,Debit Card
+TRX-11160,2024-06-17,CUST-105,South,Electronics,Laptop,4,1129.91,4519.64,PayPal
+TRX-11161,2023-10-19,CUST-434,South,Clothing,Sneakers,1,88.01,88.01,Credit Card
+TRX-11162,2023-02-18,CUST-272,North,Electronics,Laptop,1,1095.98,1095.98,PayPal
+TRX-11163,2024-07-10,CUST-434,North,Clothing,T-Shirt,1,24.75,24.75,Credit Card
+TRX-11164,2024-09-26,CUST-333,West,Home,Chair,1,94.63,94.63,PayPal
+TRX-11165,2023-01-03,CUST-281,North,Electronics,Laptop,3,1157.08,3471.24,Credit Card
+TRX-11166,2023-02-28,CUST-161,North,Electronics,Laptop,4,1255.02,5020.08,Credit Card
+TRX-11167,2023-05-02,CUST-206,West,Home,Coffee Maker,4,77.99,311.96,Debit Card
+TRX-11168,2023-08-23,CUST-485,East,Clothing,T-Shirt,2,27.15,54.3,PayPal
+TRX-11169,2023-12-14,CUST-258,South,Clothing,Jeans,1,61.94,61.94,Debit Card
+TRX-11170,2024-05-18,CUST-306,South,Clothing,Jeans,1,63.65,63.65,Credit Card
+TRX-11171,2023-05-16,CUST-300,East,Home,Blender,4,40.94,163.76,Debit Card
+TRX-11172,2024-01-03,CUST-417,South,Home,Blender,1,45.75,45.75,Debit Card
+TRX-11173,2024-05-14,CUST-308,West,Clothing,Sneakers,2,95.45,190.9,Debit Card
+TRX-11174,2024-12-04,CUST-143,North,Clothing,Jacket,3,108.35,325.05,Credit Card
+TRX-11175,2023-04-02,CUST-364,North,Electronics,Headphones,3,157.27,471.81,Credit Card
+TRX-11176,2024-03-17,CUST-499,East,Clothing,Jacket,2,116.33,232.66,Credit Card
+TRX-11177,2024-07-29,CUST-445,South,Clothing,Jacket,3,126.21,378.63,Credit Card
+TRX-11178,2024-04-14,CUST-161,West,Electronics,Headphones,1,161.67,161.67,Credit Card
+TRX-11179,2024-03-20,CUST-368,East,Home,Blender,2,41.91,83.82,Debit Card
+TRX-11180,2024-06-03,CUST-203,East,Clothing,Jeans,4,62.55,250.2,Debit Card
+TRX-11181,2023-08-25,CUST-485,North,Home,Blender,4,43.32,173.28,PayPal
+TRX-11182,2024-10-11,CUST-399,South,Clothing,Jeans,4,59.1,236.4,Debit Card
+TRX-11183,2024-08-15,CUST-317,South,Home,Coffee Maker,4,83.93,335.72,Credit Card
+TRX-11184,2024-01-06,CUST-445,West,Home,Chair,4,103.92,415.68,Debit Card
+TRX-11185,2024-01-04,CUST-483,West,Electronics,Laptop,2,1188.19,2376.38,Credit Card
+TRX-11186,2023-08-27,CUST-294,South,Electronics,Monitor,1,302.96,302.96,Credit Card
+TRX-11187,2023-03-02,CUST-228,East,Home,Desk,2,163.17,326.34,PayPal
+TRX-11188,2023-06-05,CUST-477,South,Clothing,Jeans,4,60.34,241.36,Credit Card
+TRX-11189,2024-08-08,CUST-306,West,Clothing,Jeans,3,57.34,172.02,PayPal
+TRX-11190,2023-12-06,CUST-456,West,Electronics,Monitor,3,316.68,950.04,PayPal
+TRX-11191,2024-06-23,CUST-491,South,Electronics,Monitor,1,314.87,314.87,Debit Card
+TRX-11192,2024-06-17,CUST-169,North,Home,Coffee Maker,3,72.5,217.5,Credit Card
+TRX-11193,2024-11-05,CUST-178,East,Electronics,Monitor,4,294.91,1179.64,PayPal
+TRX-11194,2024-11-20,CUST-275,North,Electronics,Laptop,4,1213.76,4855.04,Credit Card
+TRX-11195,2024-01-01,CUST-286,South,Clothing,Jeans,4,57.88,231.52,Debit Card
+TRX-11196,2024-03-30,CUST-203,West,Home,Blender,3,45.13,135.39,PayPal
+TRX-11197,2023-09-15,CUST-363,West,Home,Desk,2,155.0,310.0,Debit Card
+TRX-11198,2024-07-03,CUST-275,West,Electronics,Smartphone,2,759.84,1519.68,Debit Card
+TRX-11199,2023-10-26,CUST-386,East,Clothing,Jacket,4,127.84,511.36,Credit Card
+TRX-11200,2024-04-02,CUST-464,South,Home,Coffee Maker,1,84.82,84.82,Debit Card
+TRX-11201,2024-10-16,CUST-499,South,Clothing,Sneakers,3,89.38,268.14,PayPal
+TRX-11202,2024-04-03,CUST-286,North,Home,Blender,1,44.2,44.2,PayPal
+TRX-11203,2024-05-22,CUST-403,North,Electronics,Laptop,2,1283.8,2567.6,Debit Card
+TRX-11204,2023-06-15,CUST-213,East,Electronics,Smartphone,2,769.95,1539.9,Credit Card
+TRX-11205,2024-11-25,CUST-306,East,Home,Blender,4,46.86,187.44,Credit Card
+TRX-11206,2023-12-21,CUST-102,South,Home,Coffee Maker,2,80.19,160.38,Credit Card
+TRX-11207,2023-05-05,CUST-237,West,Electronics,Smartphone,1,819.94,819.94,PayPal
+TRX-11208,2024-07-26,CUST-128,South,Home,Desk,4,146.72,586.88,Debit Card
+TRX-11209,2024-03-25,CUST-173,South,Electronics,Headphones,3,157.7,473.1,PayPal
+TRX-11210,2023-10-03,CUST-147,South,Electronics,Monitor,1,278.31,278.31,Debit Card
+TRX-11211,2024-10-12,CUST-209,North,Home,Chair,4,101.94,407.76,Credit Card
+TRX-11212,2024-12-09,CUST-290,East,Clothing,Jacket,4,116.92,467.68,PayPal
+TRX-11213,2024-10-22,CUST-367,West,Clothing,Jeans,3,56.54,169.62,PayPal
+TRX-11214,2023-04-23,CUST-269,North,Electronics,Headphones,2,149.82,299.64,PayPal
+TRX-11215,2023-01-14,CUST-302,North,Clothing,Sneakers,1,93.87,93.87,PayPal
+TRX-11216,2023-06-04,CUST-154,East,Clothing,Jacket,1,130.78,130.78,PayPal
+TRX-11217,2024-04-15,CUST-174,West,Clothing,Jacket,4,128.73,514.92,Debit Card
+TRX-11218,2023-12-09,CUST-158,South,Home,Desk,1,140.02,140.02,PayPal
+TRX-11219,2023-07-01,CUST-438,South,Clothing,T-Shirt,1,25.99,25.99,PayPal
+TRX-11220,2023-09-17,CUST-292,South,Clothing,Jacket,3,125.95,377.85,Debit Card
+TRX-11221,2024-02-10,CUST-313,South,Electronics,Laptop,4,1123.05,4492.2,PayPal
+TRX-11222,2023-04-03,CUST-241,South,Clothing,Jeans,1,60.96,60.96,Credit Card
+TRX-11223,2023-04-22,CUST-474,West,Clothing,Jacket,2,109.45,218.9,PayPal
+TRX-11224,2023-10-23,CUST-217,North,Home,Coffee Maker,3,74.74,224.22,PayPal
+TRX-11225,2024-10-04,CUST-255,East,Clothing,Jeans,2,62.23,124.46,PayPal
+TRX-11226,2023-01-13,CUST-421,North,Home,Desk,2,149.65,299.3,PayPal
+TRX-11227,2024-03-13,CUST-125,West,Home,Desk,2,152.18,304.36,PayPal
+TRX-11228,2023-05-30,CUST-247,South,Clothing,T-Shirt,4,26.2,104.8,Credit Card
+TRX-11229,2024-12-21,CUST-227,North,Electronics,Smartphone,4,725.08,2900.32,PayPal
+TRX-11230,2023-05-24,CUST-417,West,Electronics,Laptop,3,1227.92,3683.76,PayPal
+TRX-11231,2023-02-14,CUST-338,East,Clothing,T-Shirt,4,25.48,101.92,Credit Card
+TRX-11232,2023-06-30,CUST-314,North,Electronics,Smartphone,3,829.35,2488.05,Credit Card
+TRX-11233,2023-03-14,CUST-278,West,Electronics,Monitor,3,287.19,861.57,Credit Card
+TRX-11234,2024-04-09,CUST-338,East,Clothing,Jacket,2,108.72,217.44,Credit Card
+TRX-11235,2023-09-21,CUST-306,West,Home,Chair,1,102.06,102.06,PayPal
+TRX-11236,2024-01-01,CUST-375,South,Clothing,Sneakers,2,96.25,192.5,PayPal
+TRX-11237,2024-09-22,CUST-367,North,Home,Coffee Maker,1,77.56,77.56,PayPal
+TRX-11238,2023-12-16,CUST-110,South,Clothing,Jeans,4,63.8,255.2,Credit Card
+TRX-11239,2023-12-30,CUST-157,East,Home,Blender,3,47.6,142.8,Debit Card
+TRX-11240,2023-02-19,CUST-457,East,Electronics,Laptop,4,1135.05,4540.2,Credit Card
+TRX-11241,2024-07-17,CUST-370,North,Home,Chair,4,108.85,435.4,Debit Card
+TRX-11242,2024-09-29,CUST-395,West,Clothing,Sneakers,3,83.65,250.95,Credit Card
+TRX-11243,2023-02-25,CUST-459,South,Home,Desk,4,138.43,553.72,Credit Card
+TRX-11244,2023-04-03,CUST-449,North,Home,Chair,4,94.15,376.6,Debit Card
+TRX-11245,2023-02-08,CUST-127,South,Electronics,Monitor,2,271.23,542.46,Credit Card
+TRX-11246,2023-01-13,CUST-135,East,Electronics,Headphones,1,145.66,145.66,Credit Card
+TRX-11247,2024-05-30,CUST-322,South,Clothing,Jeans,2,56.53,113.06,Debit Card
+TRX-11248,2024-01-18,CUST-443,South,Electronics,Laptop,2,1266.43,2532.86,Credit Card
+TRX-11249,2024-10-03,CUST-130,North,Electronics,Monitor,3,279.3,837.9,PayPal
+TRX-11250,2023-10-29,CUST-195,North,Electronics,Laptop,4,1152.58,4610.32,Debit Card
+TRX-11251,2024-04-30,CUST-365,South,Clothing,T-Shirt,4,23.28,93.12,Credit Card
+TRX-11252,2023-12-21,CUST-211,North,Clothing,T-Shirt,2,25.03,50.06,Credit Card
+TRX-11253,2023-05-25,CUST-164,North,Electronics,Headphones,3,140.23,420.69,PayPal
+TRX-11254,2024-05-04,CUST-412,North,Clothing,T-Shirt,3,24.8,74.4,Credit Card
+TRX-11255,2023-07-03,CUST-325,North,Clothing,T-Shirt,1,26.08,26.08,PayPal
+TRX-11256,2023-03-30,CUST-275,North,Electronics,Monitor,1,297.51,297.51,Debit Card
+TRX-11257,2024-02-03,CUST-205,South,Electronics,Smartphone,4,807.56,3230.24,PayPal
+TRX-11258,2024-05-17,CUST-266,North,Electronics,Laptop,3,1155.33,3465.99,Debit Card
+TRX-11259,2024-01-28,CUST-139,South,Electronics,Smartphone,4,810.01,3240.04,Debit Card
+TRX-11260,2023-03-23,CUST-432,West,Clothing,Sneakers,3,87.69,263.07,Credit Card
+TRX-11261,2024-03-03,CUST-137,South,Clothing,T-Shirt,3,26.21,78.63,Credit Card
+TRX-11262,2023-08-15,CUST-147,West,Electronics,Smartphone,3,854.12,2562.36,Debit Card
+TRX-11263,2024-12-08,CUST-286,South,Electronics,Laptop,3,1177.63,3532.89,Debit Card
+TRX-11264,2024-05-02,CUST-496,South,Clothing,T-Shirt,2,26.31,52.62,Credit Card
+TRX-11265,2023-08-17,CUST-489,North,Electronics,Laptop,1,1293.57,1293.57,Credit Card
+TRX-11266,2023-07-07,CUST-445,South,Home,Chair,1,101.35,101.35,Credit Card
+TRX-11267,2023-05-12,CUST-138,West,Home,Desk,2,161.09,322.18,PayPal
+TRX-11268,2024-11-02,CUST-286,North,Home,Coffee Maker,1,86.92,86.92,PayPal
+TRX-11269,2023-04-30,CUST-319,South,Home,Blender,2,41.77,83.54,Credit Card
+TRX-11270,2024-02-16,CUST-230,East,Clothing,T-Shirt,3,23.33,69.99,Credit Card
+TRX-11271,2024-12-20,CUST-195,East,Clothing,Sneakers,2,84.29,168.58,PayPal
+TRX-11272,2023-09-04,CUST-171,East,Clothing,Jacket,4,130.25,521.0,PayPal
+TRX-11273,2023-07-25,CUST-131,East,Home,Chair,2,97.42,194.84,Debit Card
+TRX-11274,2024-11-29,CUST-175,West,Home,Coffee Maker,3,84.76,254.28,Credit Card
+TRX-11275,2023-12-15,CUST-354,West,Home,Desk,3,151.7,455.1,Credit Card
+TRX-11276,2023-12-11,CUST-226,North,Electronics,Monitor,4,290.26,1161.04,Debit Card
+TRX-11277,2024-12-25,CUST-349,East,Home,Desk,2,141.62,283.24,PayPal
+TRX-11278,2024-02-10,CUST-487,East,Home,Desk,3,150.66,451.98,Credit Card
+TRX-11279,2024-09-17,CUST-375,East,Clothing,T-Shirt,3,22.5,67.5,PayPal
+TRX-11280,2024-04-25,CUST-484,North,Electronics,Headphones,1,146.3,146.3,PayPal
+TRX-11281,2023-02-27,CUST-427,North,Clothing,Jacket,1,116.43,116.43,PayPal
+TRX-11282,2023-10-06,CUST-273,East,Home,Desk,1,162.62,162.62,Debit Card
+TRX-11283,2024-04-18,CUST-210,North,Clothing,Jacket,3,122.64,367.92,Credit Card
+TRX-11284,2023-08-17,CUST-255,East,Home,Coffee Maker,3,86.53,259.59,Credit Card
+TRX-11285,2023-01-02,CUST-345,West,Home,Chair,4,105.21,420.84,Credit Card
+TRX-11286,2023-10-13,CUST-458,West,Home,Coffee Maker,1,78.88,78.88,Credit Card
+TRX-11287,2023-08-26,CUST-193,West,Clothing,Jeans,2,65.22,130.44,PayPal
+TRX-11288,2024-08-28,CUST-248,East,Clothing,Jacket,3,119.42,358.26,PayPal
+TRX-11289,2024-04-11,CUST-215,East,Electronics,Smartphone,1,727.27,727.27,Debit Card
+TRX-11290,2024-12-14,CUST-463,East,Clothing,Jacket,4,124.08,496.32,Debit Card
+TRX-11291,2024-01-19,CUST-279,West,Electronics,Smartphone,3,800.2,2400.6,Credit Card
+TRX-11292,2023-11-04,CUST-236,West,Clothing,Jeans,1,57.34,57.34,PayPal
+TRX-11293,2023-02-13,CUST-326,East,Electronics,Laptop,1,1281.4,1281.4,Credit Card
+TRX-11294,2023-09-22,CUST-387,West,Electronics,Monitor,4,315.22,1260.88,Credit Card
+TRX-11295,2023-08-25,CUST-491,West,Electronics,Laptop,1,1091.91,1091.91,Debit Card
+TRX-11296,2023-09-25,CUST-420,West,Electronics,Monitor,2,286.86,573.72,PayPal
+TRX-11297,2024-12-02,CUST-470,East,Clothing,T-Shirt,2,25.55,51.1,Credit Card
+TRX-11298,2023-09-30,CUST-320,South,Home,Desk,3,157.52,472.56,PayPal
+TRX-11299,2024-02-11,CUST-155,West,Home,Desk,4,160.69,642.76,PayPal
+TRX-11300,2024-09-05,CUST-291,South,Electronics,Monitor,2,293.24,586.48,Credit Card
+TRX-11301,2023-08-21,CUST-326,East,Clothing,Jeans,4,59.17,236.68,Credit Card
+TRX-11302,2023-05-29,CUST-214,South,Electronics,Headphones,4,147.56,590.24,PayPal
+TRX-11303,2024-10-29,CUST-372,North,Electronics,Monitor,4,287.63,1150.52,Credit Card
+TRX-11304,2023-01-28,CUST-137,West,Electronics,Headphones,4,154.6,618.4,Debit Card
+TRX-11305,2023-09-01,CUST-167,West,Electronics,Laptop,3,1307.32,3921.96,Debit Card
+TRX-11306,2023-10-26,CUST-263,East,Home,Blender,1,43.65,43.65,PayPal
+TRX-11307,2024-07-23,CUST-387,East,Clothing,Sneakers,4,98.34,393.36,Credit Card
+TRX-11308,2023-09-04,CUST-287,South,Electronics,Smartphone,4,806.88,3227.52,Debit Card
+TRX-11309,2023-09-09,CUST-454,North,Electronics,Smartphone,2,878.42,1756.84,Debit Card
+TRX-11310,2023-07-29,CUST-403,West,Home,Blender,4,41.78,167.12,Debit Card
+TRX-11311,2024-04-04,CUST-307,East,Clothing,T-Shirt,3,26.67,80.01,Credit Card
+TRX-11312,2024-05-06,CUST-236,South,Electronics,Headphones,2,148.58,297.16,PayPal
+TRX-11313,2024-08-10,CUST-386,South,Home,Chair,4,94.8,379.2,Credit Card
+TRX-11314,2024-06-20,CUST-389,West,Home,Desk,2,139.51,279.02,Credit Card
+TRX-11315,2024-05-24,CUST-217,West,Electronics,Laptop,4,1125.45,4501.8,PayPal
+TRX-11316,2023-12-26,CUST-109,West,Clothing,Jacket,2,123.89,247.78,PayPal
+TRX-11317,2023-01-05,CUST-294,West,Home,Desk,4,140.32,561.28,Credit Card
+TRX-11318,2023-04-23,CUST-370,East,Home,Coffee Maker,4,84.11,336.44,Debit Card
+TRX-11319,2024-11-23,CUST-143,West,Electronics,Laptop,1,1190.97,1190.97,Debit Card
+TRX-11320,2023-12-17,CUST-439,North,Electronics,Headphones,2,147.34,294.68,Credit Card
+TRX-11321,2023-03-28,CUST-275,East,Electronics,Laptop,4,1261.79,5047.16,PayPal
+TRX-11322,2023-09-03,CUST-188,West,Home,Chair,1,103.82,103.82,Debit Card
+TRX-11323,2024-01-13,CUST-248,West,Electronics,Laptop,3,1255.13,3765.39,PayPal
+TRX-11324,2024-09-19,CUST-313,East,Home,Desk,1,147.9,147.9,Credit Card
+TRX-11325,2024-04-25,CUST-471,North,Home,Blender,1,42.06,42.06,PayPal
+TRX-11326,2023-09-07,CUST-465,West,Electronics,Headphones,3,143.64,430.92,Credit Card
+TRX-11327,2023-01-25,CUST-376,East,Home,Chair,2,101.92,203.84,Credit Card
+TRX-11328,2023-03-11,CUST-212,South,Electronics,Smartphone,2,813.38,1626.76,PayPal
+TRX-11329,2023-10-30,CUST-190,East,Clothing,Jeans,4,54.54,218.16,Debit Card
+TRX-11330,2024-12-26,CUST-459,South,Electronics,Laptop,4,1303.57,5214.28,PayPal
+TRX-11331,2024-07-05,CUST-341,West,Electronics,Monitor,3,309.42,928.26,Debit Card
+TRX-11332,2024-12-12,CUST-302,South,Clothing,Jeans,4,60.73,242.92,PayPal
+TRX-11333,2023-08-25,CUST-280,North,Electronics,Headphones,1,159.03,159.03,Credit Card
+TRX-11334,2024-03-18,CUST-336,East,Electronics,Monitor,4,297.84,1191.36,PayPal
+TRX-11335,2024-08-07,CUST-158,South,Home,Blender,1,45.77,45.77,Debit Card
+TRX-11336,2023-12-26,CUST-287,East,Clothing,Sneakers,1,91.71,91.71,PayPal
+TRX-11337,2023-04-18,CUST-431,East,Clothing,Jeans,3,61.4,184.2,PayPal
+TRX-11338,2024-03-20,CUST-480,South,Electronics,Laptop,1,1289.55,1289.55,PayPal
+TRX-11339,2024-08-28,CUST-202,West,Clothing,Jeans,2,63.82,127.64,PayPal
+TRX-11340,2024-11-26,CUST-261,East,Home,Desk,1,164.09,164.09,Debit Card
+TRX-11341,2024-08-10,CUST-484,East,Electronics,Headphones,4,136.51,546.04,PayPal
+TRX-11342,2024-09-04,CUST-210,South,Electronics,Smartphone,4,793.27,3173.08,Debit Card
+TRX-11343,2023-07-10,CUST-281,North,Home,Desk,1,152.23,152.23,Credit Card
+TRX-11344,2023-07-28,CUST-121,North,Electronics,Headphones,3,161.93,485.79,Credit Card
+TRX-11345,2023-07-27,CUST-107,East,Home,Chair,1,99.55,99.55,Credit Card
+TRX-11346,2024-06-12,CUST-189,North,Clothing,Sneakers,1,83.85,83.85,Credit Card
+TRX-11347,2024-05-10,CUST-177,East,Home,Blender,2,41.9,83.8,Debit Card
+TRX-11348,2024-01-01,CUST-113,East,Electronics,Smartphone,3,866.06,2598.18,Debit Card
+TRX-11349,2024-10-16,CUST-409,East,Clothing,T-Shirt,1,24.4,24.4,Credit Card
+TRX-11350,2024-02-19,CUST-344,South,Electronics,Laptop,1,1262.85,1262.85,Credit Card
+TRX-11351,2023-01-06,CUST-296,North,Home,Coffee Maker,4,75.27,301.08,Debit Card
+TRX-11352,2024-02-11,CUST-316,East,Electronics,Laptop,1,1304.1,1304.1,Credit Card
+TRX-11353,2023-01-05,CUST-119,North,Electronics,Laptop,3,1224.4,3673.2,Credit Card
+TRX-11354,2024-03-23,CUST-341,West,Home,Chair,3,95.0,285.0,Credit Card
+TRX-11355,2023-09-06,CUST-113,South,Clothing,Jeans,1,65.65,65.65,Debit Card
+TRX-11356,2024-01-19,CUST-143,West,Electronics,Smartphone,3,855.18,2565.54,Debit Card
+TRX-11357,2024-07-28,CUST-338,East,Home,Desk,3,138.49,415.47,Debit Card
+TRX-11358,2024-02-23,CUST-199,North,Electronics,Laptop,1,1238.83,1238.83,PayPal
+TRX-11359,2024-03-07,CUST-143,East,Electronics,Monitor,2,310.88,621.76,Debit Card
+TRX-11360,2024-01-16,CUST-244,South,Electronics,Monitor,1,318.88,318.88,Credit Card
+TRX-11361,2023-03-06,CUST-454,South,Home,Desk,2,161.98,323.96,Credit Card
+TRX-11362,2023-05-08,CUST-497,West,Home,Chair,1,97.1,97.1,PayPal
+TRX-11363,2023-07-06,CUST-307,North,Clothing,T-Shirt,3,23.89,71.67,PayPal
+TRX-11364,2024-01-23,CUST-445,East,Electronics,Headphones,2,159.82,319.64,Debit Card
+TRX-11365,2023-07-13,CUST-386,South,Clothing,T-Shirt,1,23.34,23.34,Credit Card
+TRX-11366,2023-06-20,CUST-258,North,Electronics,Monitor,4,275.74,1102.96,PayPal
+TRX-11367,2024-08-05,CUST-463,West,Home,Chair,1,109.16,109.16,Credit Card
+TRX-11368,2023-05-05,CUST-412,East,Electronics,Smartphone,2,866.63,1733.26,Credit Card
+TRX-11369,2024-04-02,CUST-329,North,Home,Blender,2,43.07,86.14,PayPal
+TRX-11370,2024-02-27,CUST-159,East,Home,Chair,1,100.63,100.63,PayPal
+TRX-11371,2023-06-22,CUST-250,North,Clothing,T-Shirt,2,24.72,49.44,Debit Card
+TRX-11372,2024-09-25,CUST-207,West,Home,Coffee Maker,2,85.33,170.66,Debit Card
+TRX-11373,2023-01-06,CUST-387,North,Clothing,Sneakers,3,87.82,263.46,Debit Card
+TRX-11374,2024-02-28,CUST-477,North,Electronics,Headphones,3,148.01,444.03,PayPal
+TRX-11375,2023-07-21,CUST-311,South,Electronics,Monitor,1,300.85,300.85,Debit Card
+TRX-11376,2024-03-22,CUST-422,West,Clothing,Sneakers,4,84.87,339.48,Debit Card
+TRX-11377,2024-02-05,CUST-195,West,Electronics,Headphones,3,159.85,479.55,Credit Card
+TRX-11378,2024-02-20,CUST-313,East,Clothing,Sneakers,4,98.38,393.52,Debit Card
+TRX-11379,2024-06-17,CUST-292,North,Electronics,Monitor,3,319.23,957.69,Debit Card
+TRX-11380,2024-05-29,CUST-492,South,Home,Desk,4,147.01,588.04,Debit Card
+TRX-11381,2023-09-27,CUST-324,West,Electronics,Headphones,3,153.11,459.33,Debit Card
+TRX-11382,2023-08-21,CUST-428,West,Home,Coffee Maker,3,78.9,236.7,Credit Card
+TRX-11383,2023-05-05,CUST-274,North,Clothing,Jeans,3,56.17,168.51,Credit Card
+TRX-11384,2023-09-13,CUST-314,North,Home,Coffee Maker,4,78.72,314.88,Credit Card
+TRX-11385,2023-08-25,CUST-347,West,Electronics,Monitor,4,295.03,1180.12,PayPal
+TRX-11386,2024-08-08,CUST-305,West,Clothing,Sneakers,1,88.53,88.53,Debit Card
+TRX-11387,2023-11-10,CUST-193,South,Home,Coffee Maker,2,83.59,167.18,PayPal
+TRX-11388,2023-01-25,CUST-433,South,Home,Blender,1,41.4,41.4,Debit Card
+TRX-11389,2023-04-09,CUST-110,North,Home,Blender,4,41.94,167.76,Debit Card
+TRX-11390,2024-11-15,CUST-490,North,Electronics,Smartphone,2,852.82,1705.64,PayPal
+TRX-11391,2024-07-29,CUST-357,North,Electronics,Monitor,4,278.13,1112.52,PayPal
+TRX-11392,2023-02-23,CUST-430,North,Home,Coffee Maker,2,86.82,173.64,Credit Card
+TRX-11393,2024-06-13,CUST-286,North,Clothing,Sneakers,3,88.56,265.68,PayPal
+TRX-11394,2023-12-30,CUST-338,West,Clothing,Sneakers,2,91.5,183.0,PayPal
+TRX-11395,2024-11-30,CUST-432,South,Electronics,Laptop,4,1089.66,4358.64,Credit Card
+TRX-11396,2024-10-03,CUST-414,South,Home,Blender,2,45.6,91.2,Credit Card
+TRX-11397,2023-03-13,CUST-362,South,Electronics,Monitor,3,302.12,906.36,PayPal
+TRX-11398,2024-07-28,CUST-479,North,Electronics,Monitor,3,277.92,833.76,PayPal
+TRX-11399,2024-07-08,CUST-116,West,Electronics,Monitor,2,295.57,591.14,PayPal
+TRX-11400,2024-01-11,CUST-391,South,Clothing,Jeans,1,56.66,56.66,Credit Card
+TRX-11401,2023-03-31,CUST-307,East,Clothing,Jeans,1,63.81,63.81,Credit Card
+TRX-11402,2023-06-24,CUST-175,East,Electronics,Smartphone,2,750.92,1501.84,Credit Card
+TRX-11403,2024-02-04,CUST-369,East,Electronics,Monitor,3,287.24,861.72,Debit Card
+TRX-11404,2023-06-29,CUST-223,East,Electronics,Smartphone,1,840.39,840.39,PayPal
+TRX-11405,2023-07-14,CUST-498,North,Clothing,Jeans,1,63.11,63.11,PayPal
+TRX-11406,2024-03-11,CUST-374,South,Home,Chair,2,97.89,195.78,Debit Card
+TRX-11407,2023-03-05,CUST-264,North,Electronics,Headphones,1,141.49,141.49,Debit Card
+TRX-11408,2023-10-12,CUST-247,North,Clothing,Sneakers,4,94.68,378.72,Debit Card
+TRX-11409,2023-06-13,CUST-485,East,Home,Chair,3,104.68,314.04,PayPal
+TRX-11410,2023-05-26,CUST-455,North,Home,Desk,4,147.25,589.0,Credit Card
+TRX-11411,2024-04-15,CUST-133,North,Electronics,Laptop,3,1220.36,3661.08,Debit Card
+TRX-11412,2023-08-09,CUST-455,South,Clothing,Jeans,2,56.32,112.64,PayPal
+TRX-11413,2024-01-02,CUST-428,East,Home,Blender,4,48.47,193.88,PayPal
+TRX-11414,2024-07-03,CUST-169,West,Home,Desk,3,141.9,425.7,Debit Card
+TRX-11415,2024-03-16,CUST-247,South,Electronics,Headphones,3,161.25,483.75,Credit Card
+TRX-11416,2023-02-19,CUST-437,North,Electronics,Smartphone,4,827.69,3310.76,PayPal
+TRX-11417,2024-09-29,CUST-174,East,Home,Coffee Maker,3,72.72,218.16,Debit Card
+TRX-11418,2023-10-27,CUST-389,West,Electronics,Headphones,2,145.81,291.62,PayPal
+TRX-11419,2024-09-09,CUST-194,East,Electronics,Smartphone,1,724.8,724.8,Debit Card
+TRX-11420,2024-05-04,CUST-258,East,Electronics,Monitor,3,329.31,987.93,PayPal
+TRX-11421,2023-07-08,CUST-438,West,Clothing,Sneakers,1,92.87,92.87,PayPal
+TRX-11422,2023-07-06,CUST-471,South,Home,Coffee Maker,4,87.76,351.04,PayPal
+TRX-11423,2023-11-12,CUST-372,South,Home,Blender,2,44.52,89.04,Credit Card
+TRX-11424,2023-10-29,CUST-344,South,Electronics,Monitor,4,300.04,1200.16,Credit Card
+TRX-11425,2023-05-09,CUST-494,West,Home,Blender,4,44.37,177.48,Debit Card
+TRX-11426,2023-11-23,CUST-466,South,Home,Coffee Maker,4,80.9,323.6,Credit Card
+TRX-11427,2024-12-21,CUST-324,South,Clothing,Jacket,3,127.64,382.92,PayPal
+TRX-11428,2023-11-17,CUST-146,South,Home,Desk,4,149.77,599.08,PayPal
+TRX-11429,2024-12-11,CUST-485,West,Home,Chair,2,94.21,188.42,Debit Card
+TRX-11430,2023-04-18,CUST-118,East,Electronics,Headphones,4,153.07,612.28,Debit Card
+TRX-11431,2023-06-20,CUST-430,North,Electronics,Monitor,4,277.56,1110.24,Credit Card
+TRX-11432,2023-07-14,CUST-382,South,Home,Desk,4,160.41,641.64,Credit Card
+TRX-11433,2024-10-17,CUST-485,South,Home,Coffee Maker,2,81.51,163.02,PayPal
+TRX-11434,2024-08-18,CUST-265,South,Home,Desk,2,152.26,304.52,Credit Card
+TRX-11435,2024-01-16,CUST-365,South,Home,Chair,4,92.87,371.48,Credit Card
+TRX-11436,2023-12-27,CUST-473,North,Clothing,Jeans,4,62.31,249.24,Debit Card
+TRX-11437,2023-09-03,CUST-307,East,Electronics,Headphones,1,141.56,141.56,Credit Card
+TRX-11438,2024-04-12,CUST-341,South,Clothing,Sneakers,1,84.82,84.82,Credit Card
+TRX-11439,2023-12-02,CUST-261,West,Home,Chair,1,90.9,90.9,Debit Card
+TRX-11440,2023-11-18,CUST-111,South,Clothing,Sneakers,1,84.3,84.3,PayPal
+TRX-11441,2023-07-20,CUST-109,North,Home,Chair,4,96.64,386.56,Credit Card
+TRX-11442,2024-11-18,CUST-375,West,Electronics,Laptop,2,1099.58,2199.16,Credit Card
+TRX-11443,2023-11-17,CUST-223,East,Home,Desk,2,149.48,298.96,Debit Card
+TRX-11444,2024-01-21,CUST-258,South,Home,Desk,2,156.73,313.46,Debit Card
+TRX-11445,2023-10-12,CUST-114,North,Clothing,Jacket,2,127.33,254.66,Debit Card
+TRX-11446,2023-12-06,CUST-224,East,Clothing,Jeans,4,64.68,258.72,Debit Card
+TRX-11447,2024-09-13,CUST-433,West,Clothing,Jeans,1,54.3,54.3,Credit Card
+TRX-11448,2024-11-04,CUST-227,West,Clothing,T-Shirt,4,26.7,106.8,Credit Card
+TRX-11449,2024-03-29,CUST-135,East,Electronics,Laptop,2,1287.12,2574.24,Debit Card
+TRX-11450,2023-07-25,CUST-226,North,Home,Blender,2,49.42,98.84,Debit Card
+TRX-11451,2024-03-15,CUST-316,West,Electronics,Laptop,4,1247.48,4989.92,Credit Card
+TRX-11452,2023-06-13,CUST-247,South,Clothing,T-Shirt,1,24.04,24.04,Debit Card
+TRX-11453,2024-10-24,CUST-464,South,Electronics,Laptop,3,1307.02,3921.06,Debit Card
+TRX-11454,2024-03-27,CUST-248,West,Electronics,Headphones,3,143.16,429.48,PayPal
+TRX-11455,2024-12-18,CUST-297,West,Clothing,T-Shirt,2,25.67,51.34,Credit Card
+TRX-11456,2024-08-21,CUST-241,South,Electronics,Smartphone,1,829.54,829.54,Debit Card
+TRX-11457,2024-06-10,CUST-143,North,Electronics,Headphones,2,138.82,277.64,Debit Card
+TRX-11458,2024-05-09,CUST-143,North,Electronics,Smartphone,2,867.88,1735.76,PayPal
+TRX-11459,2024-01-07,CUST-442,South,Clothing,Jeans,1,61.8,61.8,PayPal
+TRX-11460,2023-07-25,CUST-434,West,Electronics,Smartphone,3,836.63,2509.89,Debit Card
+TRX-11461,2023-10-14,CUST-454,West,Home,Blender,1,48.52,48.52,PayPal
+TRX-11462,2023-04-20,CUST-289,West,Clothing,T-Shirt,3,24.28,72.84,Credit Card
+TRX-11463,2023-09-08,CUST-311,West,Electronics,Laptop,4,1209.67,4838.68,Debit Card
+TRX-11464,2023-11-22,CUST-194,West,Electronics,Smartphone,1,810.52,810.52,PayPal
+TRX-11465,2024-05-22,CUST-318,West,Electronics,Smartphone,1,780.8,780.8,Debit Card
+TRX-11466,2024-10-02,CUST-311,West,Home,Desk,3,142.21,426.63,PayPal
+TRX-11467,2024-08-09,CUST-153,East,Home,Desk,4,139.14,556.56,PayPal
+TRX-11468,2023-02-23,CUST-317,North,Electronics,Headphones,1,148.32,148.32,Debit Card
+TRX-11469,2024-07-11,CUST-292,North,Clothing,Sneakers,4,82.18,328.72,Credit Card
+TRX-11470,2023-04-21,CUST-228,West,Clothing,Jacket,1,115.68,115.68,Credit Card
+TRX-11471,2023-11-22,CUST-107,East,Clothing,Jeans,1,58.83,58.83,Debit Card
+TRX-11472,2024-11-03,CUST-230,West,Clothing,Sneakers,3,86.67,260.01,PayPal
+TRX-11473,2024-04-19,CUST-463,North,Clothing,Jeans,1,62.86,62.86,Debit Card
+TRX-11474,2023-10-03,CUST-172,South,Clothing,T-Shirt,1,25.97,25.97,PayPal
+TRX-11475,2023-04-12,CUST-272,East,Clothing,T-Shirt,3,26.52,79.56,Debit Card
+TRX-11476,2023-07-07,CUST-185,East,Electronics,Smartphone,1,844.86,844.86,Credit Card
+TRX-11477,2023-02-12,CUST-310,West,Home,Coffee Maker,3,76.92,230.76,Debit Card
+TRX-11478,2024-09-18,CUST-125,West,Electronics,Smartphone,4,756.17,3024.68,Debit Card
+TRX-11479,2023-05-17,CUST-119,North,Clothing,T-Shirt,1,23.99,23.99,Debit Card
+TRX-11480,2024-07-04,CUST-367,East,Clothing,Jeans,4,61.82,247.28,PayPal
+TRX-11481,2024-10-27,CUST-141,South,Home,Chair,3,99.48,298.44,Credit Card
+TRX-11482,2024-09-01,CUST-374,East,Electronics,Monitor,2,319.2,638.4,Debit Card
+TRX-11483,2024-01-04,CUST-319,South,Home,Chair,2,103.79,207.58,PayPal
+TRX-11484,2023-11-24,CUST-151,East,Home,Coffee Maker,4,86.37,345.48,Credit Card
+TRX-11485,2023-09-20,CUST-366,South,Clothing,Sneakers,4,94.14,376.56,Debit Card
+TRX-11486,2024-10-27,CUST-457,South,Clothing,Sneakers,4,97.34,389.36,Debit Card
+TRX-11487,2024-07-16,CUST-216,East,Clothing,T-Shirt,3,25.28,75.84,PayPal
+TRX-11488,2024-08-22,CUST-307,North,Clothing,Jacket,1,120.71,120.71,PayPal
+TRX-11489,2024-01-16,CUST-217,North,Electronics,Smartphone,1,729.1,729.1,PayPal
+TRX-11490,2024-09-21,CUST-359,South,Home,Coffee Maker,4,76.85,307.4,Credit Card
+TRX-11491,2023-01-07,CUST-465,South,Electronics,Laptop,1,1175.02,1175.02,PayPal
+TRX-11492,2024-03-13,CUST-314,West,Electronics,Monitor,4,288.43,1153.72,PayPal
+TRX-11493,2024-06-23,CUST-334,North,Home,Chair,2,105.8,211.6,Debit Card
+TRX-11494,2023-02-23,CUST-128,East,Clothing,T-Shirt,2,27.35,54.7,PayPal
+TRX-11495,2023-11-30,CUST-134,West,Home,Coffee Maker,4,77.43,309.72,Credit Card
+TRX-11496,2024-12-20,CUST-337,North,Home,Desk,1,154.74,154.74,Credit Card
+TRX-11497,2024-11-15,CUST-178,West,Clothing,T-Shirt,1,24.27,24.27,Debit Card
+TRX-11498,2023-12-24,CUST-205,North,Electronics,Headphones,1,148.56,148.56,Credit Card
+TRX-11499,2024-07-29,CUST-345,North,Clothing,T-Shirt,1,25.57,25.57,PayPal
+TRX-11500,2023-11-16,CUST-186,South,Home,Coffee Maker,2,82.37,164.74,Debit Card
+TRX-11501,2023-10-05,CUST-436,North,Electronics,Headphones,3,147.45,442.35,Debit Card
+TRX-11502,2023-11-26,CUST-237,South,Electronics,Monitor,1,327.27,327.27,Credit Card
+TRX-11503,2024-01-16,CUST-405,East,Clothing,Sneakers,4,85.72,342.88,Debit Card
+TRX-11504,2024-11-03,CUST-100,South,Electronics,Smartphone,4,784.23,3136.92,PayPal
+TRX-11505,2024-05-30,CUST-231,North,Home,Coffee Maker,4,74.6,298.4,Credit Card
+TRX-11506,2023-09-17,CUST-100,North,Clothing,Jeans,2,56.51,113.02,Debit Card
+TRX-11507,2024-04-01,CUST-288,East,Home,Coffee Maker,2,72.67,145.34,PayPal
+TRX-11508,2023-10-19,CUST-343,South,Clothing,Sneakers,1,91.39,91.39,Credit Card
+TRX-11509,2024-06-27,CUST-433,East,Home,Chair,3,91.59,274.77,PayPal
+TRX-11510,2024-05-22,CUST-115,East,Clothing,Jeans,4,55.78,223.12,Debit Card
+TRX-11511,2023-07-06,CUST-130,East,Electronics,Headphones,3,151.75,455.25,PayPal
+TRX-11512,2024-07-04,CUST-403,East,Home,Chair,1,101.91,101.91,PayPal
+TRX-11513,2023-02-08,CUST-231,East,Clothing,T-Shirt,4,24.1,96.4,PayPal
+TRX-11514,2023-07-22,CUST-165,South,Clothing,Jacket,2,112.82,225.64,Debit Card
+TRX-11515,2024-06-13,CUST-189,South,Home,Coffee Maker,2,82.08,164.16,PayPal
+TRX-11516,2023-09-10,CUST-356,West,Electronics,Smartphone,3,764.33,2292.99,PayPal
+TRX-11517,2024-08-21,CUST-189,West,Home,Desk,2,144.69,289.38,Debit Card
+TRX-11518,2023-02-13,CUST-299,East,Electronics,Smartphone,2,748.34,1496.68,PayPal
+TRX-11519,2023-04-11,CUST-194,West,Clothing,Sneakers,3,95.43,286.29,PayPal
+TRX-11520,2023-02-02,CUST-328,West,Electronics,Headphones,2,164.87,329.74,Credit Card
+TRX-11521,2023-06-04,CUST-492,South,Home,Desk,2,158.58,317.16,PayPal
+TRX-11522,2024-06-24,CUST-260,North,Clothing,Jacket,4,128.97,515.88,Credit Card
+TRX-11523,2023-09-28,CUST-357,South,Clothing,T-Shirt,1,25.33,25.33,PayPal
+TRX-11524,2023-06-21,CUST-373,East,Clothing,Sneakers,1,92.59,92.59,PayPal
+TRX-11525,2024-12-22,CUST-335,North,Clothing,Jacket,3,122.39,367.17,PayPal
+TRX-11526,2023-12-30,CUST-194,East,Electronics,Headphones,2,157.56,315.12,PayPal
+TRX-11527,2024-12-22,CUST-295,North,Electronics,Headphones,4,159.61,638.44,PayPal
+TRX-11528,2023-01-22,CUST-271,North,Home,Desk,1,145.59,145.59,PayPal
+TRX-11529,2023-01-25,CUST-284,North,Home,Blender,2,48.92,97.84,Credit Card
+TRX-11530,2023-05-24,CUST-450,South,Electronics,Laptop,3,1083.5,3250.5,Credit Card
+TRX-11531,2023-08-12,CUST-319,North,Clothing,T-Shirt,4,25.21,100.84,PayPal
+TRX-11532,2023-09-22,CUST-249,North,Electronics,Headphones,1,135.43,135.43,Debit Card
+TRX-11533,2023-07-16,CUST-141,North,Electronics,Smartphone,3,729.53,2188.59,Credit Card
+TRX-11534,2023-11-26,CUST-350,North,Clothing,T-Shirt,3,23.92,71.76,PayPal
+TRX-11535,2023-05-03,CUST-466,South,Electronics,Laptop,3,1239.97,3719.91,Debit Card
+TRX-11536,2023-12-14,CUST-128,West,Clothing,Jacket,2,111.43,222.86,PayPal
+TRX-11537,2024-01-31,CUST-210,West,Home,Coffee Maker,2,78.19,156.38,Credit Card
+TRX-11538,2023-05-27,CUST-166,South,Clothing,T-Shirt,1,26.77,26.77,PayPal
+TRX-11539,2023-05-02,CUST-439,North,Electronics,Headphones,3,146.48,439.44,PayPal
+TRX-11540,2024-08-19,CUST-144,North,Home,Coffee Maker,3,79.59,238.77,Debit Card
+TRX-11541,2023-11-29,CUST-294,North,Clothing,Sneakers,4,90.96,363.84,Debit Card
+TRX-11542,2023-11-30,CUST-432,North,Clothing,T-Shirt,4,26.89,107.56,Debit Card
+TRX-11543,2023-01-15,CUST-426,South,Home,Blender,3,41.52,124.56,Credit Card
+TRX-11544,2024-02-12,CUST-212,West,Clothing,Jacket,1,109.06,109.06,Debit Card
+TRX-11545,2023-09-23,CUST-307,East,Electronics,Headphones,1,154.37,154.37,Credit Card
+TRX-11546,2024-01-04,CUST-405,South,Home,Blender,4,48.08,192.32,Credit Card
+TRX-11547,2024-11-30,CUST-253,South,Electronics,Headphones,1,140.1,140.1,Debit Card
+TRX-11548,2024-02-24,CUST-476,North,Home,Desk,2,157.7,315.4,PayPal
+TRX-11549,2024-03-02,CUST-124,South,Clothing,T-Shirt,2,22.8,45.6,PayPal
+TRX-11550,2024-07-08,CUST-433,West,Electronics,Monitor,1,278.55,278.55,Debit Card
+TRX-11551,2024-03-19,CUST-418,West,Home,Desk,3,143.58,430.74,Debit Card
+TRX-11552,2023-02-25,CUST-254,West,Electronics,Monitor,3,310.23,930.69,PayPal
+TRX-11553,2023-08-20,CUST-319,West,Clothing,Jacket,1,126.38,126.38,Credit Card
+TRX-11554,2023-09-06,CUST-422,South,Home,Desk,2,145.06,290.12,PayPal
+TRX-11555,2024-03-07,CUST-193,East,Home,Coffee Maker,2,87.48,174.96,Credit Card
+TRX-11556,2024-06-20,CUST-247,North,Home,Desk,1,149.71,149.71,Credit Card
+TRX-11557,2023-03-07,CUST-400,East,Home,Blender,3,42.11,126.33,Credit Card
+TRX-11558,2024-08-10,CUST-213,South,Clothing,Jeans,3,59.7,179.1,Debit Card
+TRX-11559,2024-12-15,CUST-246,North,Clothing,Sneakers,3,92.3,276.9,PayPal
+TRX-11560,2024-06-21,CUST-337,East,Electronics,Headphones,1,164.78,164.78,PayPal
+TRX-11561,2024-03-03,CUST-315,East,Clothing,Jeans,1,65.54,65.54,Credit Card
+TRX-11562,2024-12-26,CUST-250,East,Home,Coffee Maker,3,78.39,235.17,Credit Card
+TRX-11563,2023-03-17,CUST-319,East,Clothing,Jeans,3,54.2,162.6,PayPal
+TRX-11564,2023-10-16,CUST-127,East,Home,Desk,3,147.6,442.8,Credit Card
+TRX-11565,2023-05-06,CUST-276,South,Home,Desk,1,159.12,159.12,Debit Card
+TRX-11566,2024-09-01,CUST-226,South,Electronics,Laptop,3,1309.73,3929.19,Credit Card
+TRX-11567,2023-10-21,CUST-432,South,Home,Blender,4,44.24,176.96,PayPal
+TRX-11568,2023-11-06,CUST-249,West,Home,Chair,4,102.37,409.48,Credit Card
+TRX-11569,2024-02-23,CUST-272,South,Electronics,Smartphone,4,741.63,2966.52,Debit Card
+TRX-11570,2024-03-14,CUST-313,West,Electronics,Monitor,4,277.98,1111.92,Debit Card
+TRX-11571,2023-03-26,CUST-164,West,Home,Blender,4,48.42,193.68,Debit Card
+TRX-11572,2023-03-05,CUST-442,West,Electronics,Headphones,3,145.63,436.89,Credit Card
+TRX-11573,2023-12-18,CUST-257,South,Clothing,Sneakers,3,89.71,269.13,Debit Card
+TRX-11574,2024-04-07,CUST-324,South,Home,Chair,2,108.77,217.54,PayPal
+TRX-11575,2024-04-10,CUST-187,North,Home,Desk,3,154.68,464.04,PayPal
+TRX-11576,2024-03-10,CUST-269,West,Home,Desk,4,157.27,629.08,PayPal
+TRX-11577,2023-12-06,CUST-446,East,Home,Coffee Maker,4,79.57,318.28,Credit Card
+TRX-11578,2023-09-02,CUST-208,East,Clothing,Jacket,1,114.27,114.27,PayPal
+TRX-11579,2023-03-31,CUST-395,South,Home,Blender,1,44.21,44.21,Debit Card
+TRX-11580,2023-06-26,CUST-442,East,Electronics,Monitor,1,306.61,306.61,Credit Card
+TRX-11581,2024-09-20,CUST-191,West,Electronics,Laptop,2,1156.15,2312.3,Credit Card
+TRX-11582,2024-06-20,CUST-157,East,Home,Coffee Maker,1,81.59,81.59,Debit Card
+TRX-11583,2023-11-27,CUST-348,West,Home,Blender,2,40.56,81.12,Debit Card
+TRX-11584,2023-03-16,CUST-241,West,Clothing,Jeans,2,56.91,113.82,Debit Card
+TRX-11585,2024-05-17,CUST-472,North,Clothing,Sneakers,3,82.88,248.64,PayPal
+TRX-11586,2024-06-14,CUST-245,North,Clothing,T-Shirt,4,24.86,99.44,Debit Card
+TRX-11587,2023-12-10,CUST-336,South,Electronics,Laptop,4,1251.46,5005.84,Debit Card
+TRX-11588,2023-06-02,CUST-225,West,Clothing,Jeans,1,57.04,57.04,PayPal
+TRX-11589,2023-08-09,CUST-310,West,Electronics,Headphones,1,152.31,152.31,Debit Card
+TRX-11590,2024-05-13,CUST-428,North,Clothing,Jacket,2,122.68,245.36,PayPal
+TRX-11591,2024-04-25,CUST-435,North,Electronics,Monitor,3,304.33,912.99,Credit Card
+TRX-11592,2024-02-06,CUST-133,East,Clothing,Jeans,3,56.38,169.14,PayPal
+TRX-11593,2024-10-07,CUST-120,West,Home,Blender,1,44.42,44.42,PayPal
+TRX-11594,2023-02-17,CUST-138,South,Home,Chair,4,98.53,394.12,Credit Card
+TRX-11595,2024-06-25,CUST-343,East,Electronics,Laptop,2,1253.54,2507.08,Credit Card
+TRX-11596,2024-01-16,CUST-428,East,Electronics,Monitor,4,304.74,1218.96,PayPal
+TRX-11597,2023-07-10,CUST-267,South,Electronics,Headphones,4,153.15,612.6,PayPal
+TRX-11598,2023-06-03,CUST-487,North,Home,Coffee Maker,1,82.7,82.7,Credit Card
+TRX-11599,2024-09-02,CUST-476,West,Clothing,Sneakers,3,85.79,257.37,PayPal
+TRX-11600,2023-09-18,CUST-375,East,Clothing,Sneakers,3,96.95,290.85,Debit Card
+TRX-11601,2024-08-27,CUST-112,North,Home,Coffee Maker,3,84.92,254.76,Credit Card
+TRX-11602,2023-11-26,CUST-288,West,Home,Chair,1,90.38,90.38,PayPal
+TRX-11603,2023-03-08,CUST-290,North,Electronics,Monitor,4,287.23,1148.92,PayPal
+TRX-11604,2023-04-27,CUST-366,North,Clothing,Jacket,1,113.55,113.55,PayPal
+TRX-11605,2023-10-25,CUST-496,South,Electronics,Headphones,1,141.62,141.62,Debit Card
+TRX-11606,2023-09-25,CUST-136,East,Electronics,Smartphone,1,753.51,753.51,PayPal
+TRX-11607,2023-03-14,CUST-407,West,Clothing,T-Shirt,4,23.7,94.8,Debit Card
+TRX-11608,2024-07-25,CUST-378,West,Clothing,Jeans,2,60.15,120.3,Credit Card
+TRX-11609,2024-05-01,CUST-440,West,Electronics,Smartphone,4,819.26,3277.04,Credit Card
+TRX-11610,2023-06-28,CUST-296,East,Clothing,Jeans,2,65.21,130.42,PayPal
+TRX-11611,2024-03-09,CUST-375,South,Electronics,Smartphone,1,842.54,842.54,Debit Card
+TRX-11612,2024-05-07,CUST-229,West,Home,Coffee Maker,1,78.3,78.3,Debit Card
+TRX-11613,2023-04-16,CUST-474,North,Clothing,Jeans,2,65.58,131.16,Debit Card
+TRX-11614,2023-04-09,CUST-181,South,Clothing,Jeans,2,60.05,120.1,Debit Card
+TRX-11615,2023-07-11,CUST-424,North,Home,Chair,4,94.13,376.52,Credit Card
+TRX-11616,2024-04-11,CUST-481,West,Electronics,Laptop,3,1135.73,3407.19,Credit Card
+TRX-11617,2024-01-19,CUST-315,West,Home,Blender,4,42.29,169.16,Debit Card
+TRX-11618,2023-08-05,CUST-134,East,Home,Chair,3,106.5,319.5,Debit Card
+TRX-11619,2024-04-11,CUST-457,West,Home,Desk,1,160.38,160.38,Credit Card
+TRX-11620,2024-04-11,CUST-404,West,Electronics,Headphones,2,154.25,308.5,Credit Card
+TRX-11621,2023-08-20,CUST-278,North,Electronics,Laptop,3,1094.98,3284.94,Debit Card
+TRX-11622,2024-08-14,CUST-182,North,Electronics,Monitor,4,284.91,1139.64,Credit Card
+TRX-11623,2023-06-22,CUST-106,North,Clothing,Jacket,3,129.01,387.03,Credit Card
+TRX-11624,2024-07-01,CUST-105,East,Home,Desk,2,160.72,321.44,Debit Card
+TRX-11625,2023-05-14,CUST-384,West,Clothing,Sneakers,3,93.43,280.29,Credit Card
+TRX-11626,2024-11-16,CUST-251,North,Electronics,Headphones,3,144.84,434.52,Credit Card
+TRX-11627,2023-04-25,CUST-481,East,Clothing,Sneakers,3,85.16,255.48,Debit Card
+TRX-11628,2023-03-16,CUST-265,East,Clothing,Jacket,3,115.49,346.47,Credit Card
+TRX-11629,2024-08-24,CUST-275,East,Clothing,Jacket,3,108.12,324.36,Debit Card
+TRX-11630,2023-08-10,CUST-414,East,Electronics,Monitor,4,289.73,1158.92,Debit Card
+TRX-11631,2023-04-22,CUST-323,West,Electronics,Monitor,4,318.72,1274.88,Credit Card
+TRX-11632,2024-09-12,CUST-484,East,Home,Chair,3,105.66,316.98,Credit Card
+TRX-11633,2023-11-08,CUST-295,North,Clothing,Sneakers,4,91.76,367.04,Credit Card
+TRX-11634,2023-08-25,CUST-203,North,Home,Blender,3,46.12,138.36,Debit Card
+TRX-11635,2024-04-08,CUST-329,North,Electronics,Monitor,1,321.58,321.58,Debit Card
+TRX-11636,2024-07-06,CUST-222,East,Electronics,Headphones,3,137.64,412.92,Credit Card
+TRX-11637,2024-11-20,CUST-162,South,Home,Desk,1,160.09,160.09,Debit Card
+TRX-11638,2024-11-29,CUST-482,East,Clothing,Sneakers,1,93.97,93.97,Credit Card
+TRX-11639,2024-01-24,CUST-147,South,Clothing,T-Shirt,4,24.89,99.56,Credit Card
+TRX-11640,2024-11-17,CUST-198,East,Clothing,Jeans,4,63.95,255.8,Debit Card
+TRX-11641,2024-01-03,CUST-352,East,Electronics,Headphones,3,160.17,480.51,Debit Card
+TRX-11642,2023-01-24,CUST-215,West,Electronics,Laptop,3,1301.33,3903.99,Credit Card
+TRX-11643,2024-05-16,CUST-305,South,Clothing,Jacket,2,110.7,221.4,Debit Card
+TRX-11644,2024-08-04,CUST-126,North,Clothing,Sneakers,3,86.87,260.61,PayPal
+TRX-11645,2023-09-04,CUST-363,West,Home,Blender,4,46.61,186.44,Credit Card
+TRX-11646,2024-07-12,CUST-460,South,Clothing,T-Shirt,2,25.98,51.96,Debit Card
+TRX-11647,2023-12-18,CUST-288,East,Electronics,Smartphone,4,741.17,2964.68,Debit Card
+TRX-11648,2023-01-01,CUST-133,West,Clothing,T-Shirt,2,23.2,46.4,Credit Card
+TRX-11649,2023-11-30,CUST-476,West,Clothing,Jacket,4,116.86,467.44,Credit Card
+TRX-11650,2024-05-16,CUST-291,South,Electronics,Headphones,2,140.15,280.3,Credit Card
+TRX-11651,2023-01-14,CUST-491,South,Electronics,Laptop,2,1201.86,2403.72,PayPal
+TRX-11652,2023-07-28,CUST-456,East,Electronics,Headphones,2,146.9,293.8,Debit Card
+TRX-11653,2023-04-04,CUST-192,North,Home,Chair,4,103.26,413.04,Credit Card
+TRX-11654,2023-01-22,CUST-390,East,Clothing,T-Shirt,1,24.84,24.84,Credit Card
+TRX-11655,2024-09-25,CUST-227,South,Clothing,Sneakers,2,97.11,194.22,Debit Card
+TRX-11656,2024-03-17,CUST-229,South,Clothing,T-Shirt,1,24.59,24.59,Debit Card
+TRX-11657,2024-04-26,CUST-449,North,Electronics,Headphones,3,162.92,488.76,PayPal
+TRX-11658,2023-11-21,CUST-168,North,Home,Blender,3,45.86,137.58,PayPal
+TRX-11659,2024-09-08,CUST-264,East,Electronics,Monitor,4,325.24,1300.96,Debit Card
+TRX-11660,2024-03-01,CUST-284,East,Clothing,Jacket,1,112.9,112.9,Credit Card
+TRX-11661,2024-09-03,CUST-441,North,Clothing,Jacket,3,110.53,331.59,Debit Card
+TRX-11662,2024-11-04,CUST-256,South,Clothing,Jeans,2,64.13,128.26,Debit Card
+TRX-11663,2024-08-31,CUST-117,North,Clothing,T-Shirt,2,23.1,46.2,PayPal
+TRX-11664,2023-04-07,CUST-100,East,Clothing,Sneakers,3,94.01,282.03,PayPal
+TRX-11665,2023-05-05,CUST-181,East,Electronics,Laptop,4,1108.59,4434.36,Debit Card
+TRX-11666,2024-06-27,CUST-260,South,Clothing,Sneakers,3,82.31,246.93,PayPal
+TRX-11667,2024-03-14,CUST-327,South,Home,Desk,1,156.56,156.56,PayPal
+TRX-11668,2024-04-08,CUST-389,South,Home,Chair,2,108.36,216.72,PayPal
+TRX-11669,2024-04-16,CUST-155,West,Electronics,Laptop,2,1092.92,2185.84,Debit Card
+TRX-11670,2023-01-18,CUST-281,North,Clothing,Jeans,4,61.5,246.0,Debit Card
+TRX-11671,2023-06-20,CUST-394,East,Home,Coffee Maker,1,77.46,77.46,Credit Card
+TRX-11672,2023-03-20,CUST-245,East,Clothing,Jeans,1,63.78,63.78,Debit Card
+TRX-11673,2024-12-08,CUST-422,South,Home,Blender,3,48.29,144.87,Debit Card
+TRX-11674,2024-09-09,CUST-362,East,Electronics,Laptop,2,1273.94,2547.88,Credit Card
+TRX-11675,2024-05-20,CUST-292,South,Clothing,Jacket,2,126.11,252.22,Credit Card
+TRX-11676,2023-02-21,CUST-469,South,Home,Chair,1,107.73,107.73,PayPal
+TRX-11677,2024-04-18,CUST-433,North,Clothing,T-Shirt,1,22.99,22.99,Debit Card
+TRX-11678,2023-10-25,CUST-283,South,Home,Desk,3,160.76,482.28,Credit Card
+TRX-11679,2024-06-15,CUST-427,North,Clothing,Jacket,4,127.65,510.6,Credit Card
+TRX-11680,2024-01-04,CUST-123,West,Home,Blender,1,43.27,43.27,PayPal
+TRX-11681,2023-03-24,CUST-418,East,Home,Blender,3,45.34,136.02,PayPal
+TRX-11682,2024-09-02,CUST-161,East,Clothing,T-Shirt,4,22.81,91.24,Debit Card
+TRX-11683,2024-04-03,CUST-311,East,Electronics,Monitor,2,292.61,585.22,PayPal
+TRX-11684,2024-02-29,CUST-141,West,Home,Desk,3,159.24,477.72,Debit Card
+TRX-11685,2023-06-07,CUST-211,West,Clothing,T-Shirt,3,23.03,69.09,PayPal
+TRX-11686,2023-09-30,CUST-393,East,Home,Coffee Maker,2,83.34,166.68,Debit Card
+TRX-11687,2023-07-26,CUST-209,North,Electronics,Laptop,1,1156.9,1156.9,Debit Card
+TRX-11688,2024-07-21,CUST-474,South,Clothing,Jacket,3,129.98,389.94,PayPal
+TRX-11689,2024-04-26,CUST-390,South,Clothing,Jeans,4,55.49,221.96,Credit Card
+TRX-11690,2024-04-21,CUST-297,East,Electronics,Laptop,1,1262.61,1262.61,PayPal
+TRX-11691,2023-08-07,CUST-376,North,Clothing,Sneakers,3,82.4,247.2,PayPal
+TRX-11692,2023-03-02,CUST-153,East,Clothing,Sneakers,4,96.47,385.88,Debit Card
+TRX-11693,2023-03-06,CUST-199,North,Electronics,Smartphone,4,722.12,2888.48,Credit Card
+TRX-11694,2023-09-30,CUST-476,South,Home,Coffee Maker,3,86.96,260.88,PayPal
+TRX-11695,2024-11-23,CUST-426,West,Home,Chair,3,106.06,318.18,PayPal
+TRX-11696,2024-03-27,CUST-305,North,Clothing,Jeans,2,60.04,120.08,PayPal
+TRX-11697,2024-08-30,CUST-246,West,Clothing,T-Shirt,3,25.22,75.66,Debit Card
+TRX-11698,2023-05-05,CUST-180,South,Clothing,Sneakers,2,93.62,187.24,Debit Card
+TRX-11699,2023-05-30,CUST-387,South,Clothing,T-Shirt,2,25.02,50.04,PayPal
+TRX-11700,2024-03-13,CUST-338,South,Home,Coffee Maker,1,78.58,78.58,PayPal
+TRX-11701,2023-07-30,CUST-489,West,Home,Coffee Maker,2,80.75,161.5,Debit Card
+TRX-11702,2024-06-18,CUST-490,North,Clothing,Sneakers,3,88.44,265.32,Credit Card
+TRX-11703,2023-04-07,CUST-135,North,Home,Chair,3,95.22,285.66,Credit Card
+TRX-11704,2023-08-07,CUST-284,North,Electronics,Monitor,4,280.75,1123.0,Credit Card
+TRX-11705,2024-07-20,CUST-477,South,Electronics,Smartphone,2,832.95,1665.9,Debit Card
+TRX-11706,2024-09-22,CUST-307,South,Home,Blender,3,41.48,124.44,Credit Card
+TRX-11707,2024-06-30,CUST-178,East,Clothing,Jacket,2,126.61,253.22,Debit Card
+TRX-11708,2024-06-29,CUST-196,West,Electronics,Laptop,1,1230.86,1230.86,Debit Card
+TRX-11709,2024-08-05,CUST-102,East,Home,Chair,3,108.76,326.28,PayPal
+TRX-11710,2024-08-16,CUST-142,North,Clothing,Sneakers,3,95.87,287.61,Credit Card
+TRX-11711,2024-07-26,CUST-369,East,Clothing,Jeans,1,54.83,54.83,Debit Card
+TRX-11712,2023-04-13,CUST-109,East,Clothing,Jacket,2,124.11,248.22,Credit Card
+TRX-11713,2024-10-31,CUST-327,West,Home,Chair,2,92.97,185.94,PayPal
+TRX-11714,2023-07-28,CUST-196,South,Home,Blender,4,45.47,181.88,Credit Card
+TRX-11715,2024-11-12,CUST-406,West,Clothing,T-Shirt,3,23.48,70.44,PayPal
+TRX-11716,2024-12-20,CUST-140,North,Electronics,Headphones,4,154.28,617.12,PayPal
+TRX-11717,2024-10-28,CUST-383,South,Electronics,Laptop,2,1206.26,2412.52,Debit Card
+TRX-11718,2023-07-06,CUST-229,North,Clothing,T-Shirt,2,23.52,47.04,PayPal
+TRX-11719,2023-07-18,CUST-112,East,Home,Blender,2,43.9,87.8,Debit Card
+TRX-11720,2024-03-19,CUST-377,North,Clothing,Jeans,3,58.12,174.36,PayPal
+TRX-11721,2024-12-15,CUST-173,North,Clothing,T-Shirt,2,22.86,45.72,Credit Card
+TRX-11722,2024-03-02,CUST-216,West,Home,Desk,4,156.76,627.04,Credit Card
+TRX-11723,2023-12-10,CUST-465,East,Clothing,Jeans,1,58.64,58.64,PayPal
+TRX-11724,2024-12-28,CUST-328,South,Electronics,Smartphone,1,767.68,767.68,Credit Card
+TRX-11725,2023-11-14,CUST-236,North,Home,Desk,4,160.47,641.88,Debit Card
+TRX-11726,2023-04-27,CUST-405,West,Electronics,Laptop,1,1162.28,1162.28,Debit Card
+TRX-11727,2024-12-15,CUST-440,South,Home,Blender,4,49.19,196.76,PayPal
+TRX-11728,2023-06-01,CUST-173,West,Clothing,T-Shirt,3,25.23,75.69,PayPal
+TRX-11729,2024-07-07,CUST-311,West,Home,Desk,2,151.04,302.08,PayPal
+TRX-11730,2024-06-12,CUST-172,North,Home,Blender,2,48.75,97.5,PayPal
+TRX-11731,2023-05-12,CUST-437,West,Clothing,Jacket,1,129.37,129.37,PayPal
+TRX-11732,2024-07-12,CUST-206,North,Clothing,Sneakers,4,90.04,360.16,PayPal
+TRX-11733,2023-03-20,CUST-254,South,Electronics,Smartphone,1,728.72,728.72,Credit Card
+TRX-11734,2023-09-04,CUST-118,West,Home,Desk,1,148.95,148.95,Credit Card
+TRX-11735,2024-12-29,CUST-253,East,Clothing,T-Shirt,2,22.94,45.88,PayPal
+TRX-11736,2024-03-08,CUST-437,North,Electronics,Smartphone,4,774.74,3098.96,Debit Card
+TRX-11737,2024-03-25,CUST-397,South,Electronics,Monitor,3,319.76,959.28,Credit Card
+TRX-11738,2024-08-10,CUST-276,South,Clothing,T-Shirt,4,25.27,101.08,PayPal
+TRX-11739,2023-02-18,CUST-154,East,Electronics,Smartphone,3,769.95,2309.85,Debit Card
+TRX-11740,2023-11-04,CUST-455,East,Electronics,Monitor,4,319.98,1279.92,Credit Card
+TRX-11741,2023-02-15,CUST-401,South,Home,Blender,3,48.97,146.91,Credit Card
+TRX-11742,2023-07-08,CUST-409,North,Home,Chair,4,100.89,403.56,Debit Card
+TRX-11743,2024-06-20,CUST-365,South,Clothing,Jacket,1,117.48,117.48,Credit Card
+TRX-11744,2024-03-17,CUST-299,West,Electronics,Laptop,4,1095.0,4380.0,Credit Card
+TRX-11745,2023-05-14,CUST-499,North,Clothing,Jacket,4,125.98,503.92,Debit Card
+TRX-11746,2023-08-21,CUST-433,West,Clothing,T-Shirt,3,24.9,74.7,Debit Card
+TRX-11747,2023-11-30,CUST-298,South,Electronics,Headphones,2,151.37,302.74,Debit Card
+TRX-11748,2023-10-28,CUST-311,South,Clothing,Jeans,1,59.82,59.82,PayPal
+TRX-11749,2023-03-09,CUST-352,West,Clothing,Sneakers,4,84.89,339.56,Debit Card
+TRX-11750,2024-02-02,CUST-207,South,Home,Chair,2,97.92,195.84,Credit Card
+TRX-11751,2024-12-30,CUST-143,East,Clothing,Jeans,4,59.7,238.8,Debit Card
+TRX-11752,2024-12-28,CUST-481,South,Home,Coffee Maker,2,80.57,161.14,Credit Card
+TRX-11753,2024-10-22,CUST-403,South,Electronics,Headphones,2,148.4,296.8,PayPal
+TRX-11754,2024-04-01,CUST-186,South,Home,Desk,2,135.03,270.06,Debit Card
+TRX-11755,2023-12-03,CUST-353,East,Electronics,Headphones,3,142.27,426.81,Credit Card
+TRX-11756,2024-08-18,CUST-375,East,Clothing,T-Shirt,2,23.19,46.38,PayPal
+TRX-11757,2023-07-02,CUST-367,West,Clothing,Jacket,3,125.47,376.41,Debit Card
+TRX-11758,2024-09-03,CUST-177,South,Home,Blender,4,46.81,187.24,Debit Card
+TRX-11759,2024-07-09,CUST-337,North,Electronics,Laptop,2,1217.66,2435.32,Credit Card
+TRX-11760,2023-12-22,CUST-377,East,Clothing,Jacket,4,109.64,438.56,PayPal
+TRX-11761,2023-05-03,CUST-345,South,Electronics,Monitor,4,276.49,1105.96,Debit Card
+TRX-11762,2023-03-12,CUST-147,South,Home,Chair,3,101.95,305.85,Debit Card
+TRX-11763,2023-06-04,CUST-152,North,Electronics,Smartphone,4,813.43,3253.72,PayPal
+TRX-11764,2024-10-08,CUST-168,East,Electronics,Laptop,4,1101.15,4404.6,PayPal
+TRX-11765,2024-01-22,CUST-477,East,Electronics,Monitor,4,280.91,1123.64,PayPal
+TRX-11766,2023-10-20,CUST-108,South,Electronics,Laptop,1,1257.57,1257.57,Debit Card
+TRX-11767,2024-06-12,CUST-253,West,Electronics,Headphones,1,154.06,154.06,Credit Card
+TRX-11768,2023-09-24,CUST-427,South,Home,Blender,1,40.87,40.87,PayPal
+TRX-11769,2024-06-30,CUST-218,South,Electronics,Monitor,1,325.72,325.72,PayPal
+TRX-11770,2024-10-13,CUST-393,East,Electronics,Headphones,2,163.59,327.18,PayPal
+TRX-11771,2024-06-29,CUST-268,South,Clothing,Sneakers,2,90.5,181.0,Debit Card
+TRX-11772,2024-10-18,CUST-322,South,Clothing,T-Shirt,1,26.61,26.61,Credit Card
+TRX-11773,2024-05-30,CUST-496,South,Clothing,T-Shirt,4,25.16,100.64,PayPal
+TRX-11774,2023-08-02,CUST-220,West,Home,Blender,1,46.87,46.87,Debit Card
+TRX-11775,2023-01-19,CUST-229,North,Electronics,Smartphone,1,875.17,875.17,Credit Card
+TRX-11776,2024-01-27,CUST-224,North,Home,Desk,2,138.64,277.28,Credit Card
+TRX-11777,2024-03-16,CUST-482,North,Electronics,Smartphone,3,826.67,2480.01,PayPal
+TRX-11778,2024-06-03,CUST-349,East,Clothing,Sneakers,2,85.48,170.96,Debit Card
+TRX-11779,2024-06-05,CUST-311,North,Home,Desk,1,145.03,145.03,Debit Card
+TRX-11780,2024-04-21,CUST-461,South,Electronics,Laptop,4,1141.79,4567.16,Credit Card
+TRX-11781,2024-03-13,CUST-341,North,Clothing,Jacket,2,118.47,236.94,Credit Card
+TRX-11782,2023-08-24,CUST-405,South,Clothing,T-Shirt,1,23.88,23.88,Debit Card
+TRX-11783,2023-08-04,CUST-442,South,Home,Desk,4,137.09,548.36,PayPal
+TRX-11784,2024-02-14,CUST-393,South,Electronics,Smartphone,1,800.38,800.38,PayPal
+TRX-11785,2023-03-27,CUST-143,North,Home,Blender,4,40.83,163.32,Credit Card
+TRX-11786,2024-01-13,CUST-489,West,Electronics,Smartphone,2,856.35,1712.7,PayPal
+TRX-11787,2023-10-21,CUST-150,North,Electronics,Smartphone,2,808.45,1616.9,Credit Card
+TRX-11788,2023-09-05,CUST-169,West,Home,Blender,4,41.27,165.08,Credit Card
+TRX-11789,2023-02-08,CUST-388,South,Clothing,Jeans,2,61.37,122.74,PayPal
+TRX-11790,2023-12-18,CUST-403,East,Home,Blender,4,44.36,177.44,Credit Card
+TRX-11791,2023-04-20,CUST-279,South,Home,Blender,2,41.53,83.06,Credit Card
+TRX-11792,2023-01-25,CUST-430,West,Clothing,Jacket,2,117.07,234.14,Credit Card
+TRX-11793,2023-06-29,CUST-331,East,Clothing,T-Shirt,1,26.46,26.46,PayPal
+TRX-11794,2024-07-29,CUST-331,West,Clothing,Jeans,1,64.01,64.01,Debit Card
+TRX-11795,2024-06-13,CUST-274,North,Electronics,Smartphone,2,871.0,1742.0,Debit Card
+TRX-11796,2024-08-18,CUST-390,South,Electronics,Smartphone,2,787.47,1574.94,PayPal
+TRX-11797,2024-02-06,CUST-209,South,Home,Desk,1,160.82,160.82,Debit Card
+TRX-11798,2024-06-25,CUST-271,West,Home,Coffee Maker,4,77.6,310.4,Credit Card
+TRX-11799,2024-03-11,CUST-276,North,Electronics,Smartphone,3,757.02,2271.06,PayPal
+TRX-11800,2023-08-06,CUST-263,West,Electronics,Monitor,2,327.98,655.96,Debit Card
+TRX-11801,2024-08-23,CUST-423,North,Clothing,Jeans,1,60.2,60.2,PayPal
+TRX-11802,2023-10-02,CUST-378,South,Electronics,Smartphone,2,855.71,1711.42,PayPal
+TRX-11803,2023-05-20,CUST-379,South,Home,Chair,4,95.3,381.2,PayPal
+TRX-11804,2024-06-13,CUST-156,South,Electronics,Smartphone,1,787.06,787.06,PayPal
+TRX-11805,2024-02-18,CUST-281,West,Electronics,Smartphone,2,807.57,1615.14,Debit Card
+TRX-11806,2023-09-16,CUST-189,East,Home,Desk,1,142.49,142.49,Debit Card
+TRX-11807,2023-09-07,CUST-354,South,Electronics,Monitor,2,300.92,601.84,Debit Card
+TRX-11808,2023-04-18,CUST-255,East,Clothing,T-Shirt,3,23.0,69.0,Credit Card
+TRX-11809,2023-09-15,CUST-226,North,Clothing,Sneakers,1,90.59,90.59,Debit Card
+TRX-11810,2023-03-29,CUST-303,North,Home,Desk,2,155.49,310.98,Debit Card
+TRX-11811,2023-09-11,CUST-287,East,Home,Coffee Maker,4,74.02,296.08,Debit Card
+TRX-11812,2024-02-01,CUST-104,North,Home,Chair,3,106.04,318.12,PayPal
+TRX-11813,2023-06-18,CUST-280,North,Home,Chair,4,93.84,375.36,Credit Card
+TRX-11814,2023-12-28,CUST-347,South,Clothing,T-Shirt,3,24.08,72.24,Debit Card
+TRX-11815,2024-02-20,CUST-454,North,Electronics,Headphones,4,162.26,649.04,Credit Card
+TRX-11816,2024-12-10,CUST-164,East,Clothing,Jeans,4,57.61,230.44,Credit Card
+TRX-11817,2023-01-26,CUST-250,South,Electronics,Monitor,4,282.54,1130.16,Credit Card
+TRX-11818,2023-08-25,CUST-336,North,Home,Chair,4,96.52,386.08,PayPal
+TRX-11819,2024-04-05,CUST-250,North,Electronics,Smartphone,3,790.85,2372.55,Debit Card
+TRX-11820,2023-07-08,CUST-354,North,Clothing,Jeans,2,65.43,130.86,Debit Card
+TRX-11821,2024-11-01,CUST-408,East,Home,Desk,4,147.77,591.08,PayPal
+TRX-11822,2024-08-24,CUST-456,East,Clothing,Jeans,4,57.81,231.24,Debit Card
+TRX-11823,2024-06-04,CUST-111,East,Clothing,Jeans,1,57.62,57.62,PayPal
+TRX-11824,2024-11-24,CUST-383,West,Clothing,Sneakers,4,88.25,353.0,Debit Card
+TRX-11825,2024-04-26,CUST-465,West,Clothing,Jacket,1,127.91,127.91,Debit Card
+TRX-11826,2024-09-09,CUST-464,West,Home,Desk,3,140.61,421.83,PayPal
+TRX-11827,2023-03-16,CUST-141,West,Electronics,Monitor,2,310.6,621.2,Credit Card
+TRX-11828,2024-06-28,CUST-170,South,Electronics,Smartphone,1,788.58,788.58,Credit Card
+TRX-11829,2023-04-11,CUST-355,West,Home,Chair,4,104.02,416.08,Credit Card
+TRX-11830,2024-01-12,CUST-242,South,Clothing,T-Shirt,3,27.49,82.47,PayPal
+TRX-11831,2023-08-09,CUST-182,East,Electronics,Laptop,1,1257.25,1257.25,Debit Card
+TRX-11832,2024-01-31,CUST-103,North,Electronics,Headphones,2,142.27,284.54,Debit Card
+TRX-11833,2023-10-08,CUST-314,South,Electronics,Headphones,4,162.56,650.24,Credit Card
+TRX-11834,2023-04-11,CUST-108,South,Clothing,Jacket,4,117.05,468.2,Debit Card
+TRX-11835,2024-05-24,CUST-162,South,Clothing,T-Shirt,2,26.85,53.7,Debit Card
+TRX-11836,2023-04-15,CUST-359,North,Electronics,Monitor,2,309.22,618.44,Debit Card
+TRX-11837,2024-03-04,CUST-306,North,Electronics,Smartphone,3,798.28,2394.84,PayPal
+TRX-11838,2024-08-10,CUST-215,East,Electronics,Smartphone,4,766.67,3066.68,PayPal
+TRX-11839,2024-05-27,CUST-266,West,Clothing,Jeans,2,57.6,115.2,Debit Card
+TRX-11840,2024-01-03,CUST-350,North,Electronics,Laptop,1,1239.3,1239.3,Credit Card
+TRX-11841,2024-11-16,CUST-269,West,Home,Coffee Maker,3,72.92,218.76,Debit Card
+TRX-11842,2024-07-14,CUST-393,North,Clothing,Sneakers,2,93.13,186.26,Credit Card
+TRX-11843,2024-03-08,CUST-158,South,Home,Blender,4,47.66,190.64,PayPal
+TRX-11844,2023-08-03,CUST-485,West,Clothing,T-Shirt,3,24.55,73.65,PayPal
+TRX-11845,2023-09-04,CUST-481,South,Home,Chair,4,108.68,434.72,PayPal
+TRX-11846,2024-01-02,CUST-267,West,Home,Coffee Maker,3,72.61,217.83,PayPal
+TRX-11847,2024-09-01,CUST-315,East,Home,Coffee Maker,3,76.97,230.91,Debit Card
+TRX-11848,2023-03-21,CUST-284,West,Home,Blender,2,44.7,89.4,Credit Card
+TRX-11849,2024-06-22,CUST-294,East,Home,Blender,3,47.68,143.04,PayPal
+TRX-11850,2023-04-24,CUST-341,West,Home,Blender,2,46.77,93.54,Credit Card
+TRX-11851,2024-08-10,CUST-410,South,Electronics,Headphones,1,149.42,149.42,Credit Card
+TRX-11852,2023-02-13,CUST-285,East,Electronics,Headphones,4,135.91,543.64,Debit Card
+TRX-11853,2023-03-25,CUST-306,South,Home,Chair,1,106.53,106.53,Debit Card
+TRX-11854,2023-06-14,CUST-244,North,Electronics,Smartphone,4,851.63,3406.52,PayPal
+TRX-11855,2024-02-07,CUST-144,North,Clothing,T-Shirt,1,24.85,24.85,Debit Card
+TRX-11856,2024-02-24,CUST-455,South,Home,Blender,2,42.23,84.46,Debit Card
+TRX-11857,2023-12-31,CUST-399,South,Electronics,Headphones,3,156.46,469.38,PayPal
+TRX-11858,2023-04-27,CUST-167,North,Clothing,Jacket,4,113.46,453.84,PayPal
+TRX-11859,2023-11-21,CUST-154,East,Electronics,Smartphone,2,780.14,1560.28,PayPal
+TRX-11860,2023-10-24,CUST-330,West,Clothing,Sneakers,2,98.79,197.58,Credit Card
+TRX-11861,2024-06-05,CUST-457,East,Clothing,Jacket,2,129.39,258.78,Debit Card
+TRX-11862,2024-11-21,CUST-491,East,Clothing,Jeans,4,58.22,232.88,Credit Card
+TRX-11863,2023-03-19,CUST-184,West,Electronics,Headphones,1,138.74,138.74,Debit Card
+TRX-11864,2023-05-25,CUST-168,West,Electronics,Monitor,1,315.95,315.95,Credit Card
+TRX-11865,2024-04-23,CUST-407,West,Electronics,Monitor,2,271.17,542.34,Credit Card
+TRX-11866,2023-06-20,CUST-162,East,Electronics,Smartphone,2,816.94,1633.88,Debit Card
+TRX-11867,2024-11-03,CUST-240,North,Electronics,Monitor,2,287.42,574.84,PayPal
+TRX-11868,2024-03-21,CUST-320,South,Clothing,T-Shirt,1,26.31,26.31,Credit Card
+TRX-11869,2024-01-13,CUST-207,North,Home,Desk,4,158.76,635.04,Debit Card
+TRX-11870,2023-03-12,CUST-318,North,Electronics,Monitor,2,293.35,586.7,Credit Card
+TRX-11871,2023-03-21,CUST-411,West,Clothing,T-Shirt,3,25.58,76.74,Debit Card
+TRX-11872,2024-04-30,CUST-281,North,Home,Desk,4,162.93,651.72,Debit Card
+TRX-11873,2024-09-23,CUST-376,North,Electronics,Smartphone,1,862.47,862.47,Credit Card
+TRX-11874,2023-02-26,CUST-192,North,Clothing,Jeans,2,60.96,121.92,Credit Card
+TRX-11875,2023-07-12,CUST-336,East,Electronics,Smartphone,1,851.78,851.78,Credit Card
+TRX-11876,2023-08-15,CUST-332,West,Electronics,Smartphone,1,728.79,728.79,PayPal
+TRX-11877,2024-09-30,CUST-336,South,Electronics,Monitor,1,296.85,296.85,PayPal
+TRX-11878,2024-03-11,CUST-271,East,Clothing,Jeans,3,60.13,180.39,Credit Card
+TRX-11879,2023-07-03,CUST-467,East,Electronics,Smartphone,1,733.91,733.91,PayPal
+TRX-11880,2024-01-08,CUST-186,South,Home,Coffee Maker,3,87.12,261.36,PayPal
+TRX-11881,2023-11-18,CUST-374,East,Electronics,Headphones,1,158.83,158.83,PayPal
+TRX-11882,2023-04-28,CUST-290,South,Home,Blender,3,49.04,147.12,Credit Card
+TRX-11883,2023-11-25,CUST-116,East,Home,Desk,3,153.31,459.93,Credit Card
+TRX-11884,2024-07-28,CUST-161,South,Clothing,T-Shirt,2,22.62,45.24,Credit Card
+TRX-11885,2024-02-27,CUST-472,West,Electronics,Smartphone,1,830.87,830.87,Debit Card
+TRX-11886,2023-03-22,CUST-138,North,Electronics,Monitor,3,327.35,982.05,Credit Card
+TRX-11887,2024-01-23,CUST-296,East,Clothing,Jacket,1,117.74,117.74,Credit Card
+TRX-11888,2024-12-28,CUST-384,North,Clothing,Sneakers,4,82.04,328.16,Debit Card
+TRX-11889,2024-10-25,CUST-113,North,Clothing,T-Shirt,3,23.64,70.92,Debit Card
+TRX-11890,2023-02-26,CUST-310,West,Clothing,Jacket,2,115.09,230.18,Credit Card
+TRX-11891,2023-12-10,CUST-302,East,Electronics,Laptop,1,1226.72,1226.72,PayPal
+TRX-11892,2024-10-02,CUST-434,West,Electronics,Laptop,1,1120.91,1120.91,Credit Card
+TRX-11893,2023-09-28,CUST-287,South,Electronics,Smartphone,1,724.63,724.63,Debit Card
+TRX-11894,2023-07-30,CUST-464,North,Electronics,Monitor,2,317.64,635.28,Credit Card
+TRX-11895,2024-12-25,CUST-208,West,Clothing,Sneakers,1,95.58,95.58,PayPal
+TRX-11896,2024-01-14,CUST-414,West,Clothing,T-Shirt,3,25.02,75.06,Debit Card
+TRX-11897,2023-05-26,CUST-467,South,Electronics,Laptop,3,1124.5,3373.5,Credit Card
+TRX-11898,2024-06-13,CUST-266,East,Electronics,Monitor,3,328.02,984.06,Credit Card
+TRX-11899,2024-03-03,CUST-171,North,Electronics,Headphones,2,161.18,322.36,Credit Card
+TRX-11900,2023-06-11,CUST-426,West,Home,Coffee Maker,2,81.33,162.66,Debit Card
+TRX-11901,2023-02-07,CUST-492,East,Clothing,Sneakers,4,88.0,352.0,Credit Card
+TRX-11902,2023-07-19,CUST-354,West,Electronics,Headphones,2,161.01,322.02,Debit Card
+TRX-11903,2024-01-24,CUST-497,West,Clothing,T-Shirt,2,25.5,51.0,Credit Card
+TRX-11904,2023-06-16,CUST-303,East,Clothing,T-Shirt,4,24.24,96.96,Credit Card
+TRX-11905,2023-05-30,CUST-258,South,Clothing,Sneakers,2,83.89,167.78,Debit Card
+TRX-11906,2024-11-08,CUST-410,North,Electronics,Laptop,4,1145.63,4582.52,Debit Card
+TRX-11907,2023-08-05,CUST-100,West,Clothing,Sneakers,4,81.89,327.56,PayPal
+TRX-11908,2023-05-20,CUST-205,North,Electronics,Smartphone,3,839.57,2518.71,PayPal
+TRX-11909,2023-12-24,CUST-479,South,Electronics,Laptop,2,1156.98,2313.96,PayPal
+TRX-11910,2024-03-25,CUST-173,East,Clothing,Jacket,2,131.4,262.8,Credit Card
+TRX-11911,2023-05-02,CUST-116,South,Electronics,Smartphone,4,803.6,3214.4,PayPal
+TRX-11912,2024-04-23,CUST-351,South,Clothing,Jacket,2,113.8,227.6,PayPal
+TRX-11913,2023-04-29,CUST-261,West,Clothing,T-Shirt,3,24.4,73.2,Debit Card
+TRX-11914,2023-02-14,CUST-413,South,Home,Desk,2,136.92,273.84,Credit Card
+TRX-11915,2024-07-09,CUST-370,East,Electronics,Smartphone,2,764.52,1529.04,Debit Card
+TRX-11916,2023-12-23,CUST-102,South,Clothing,Sneakers,2,81.55,163.1,PayPal
+TRX-11917,2024-07-16,CUST-166,East,Electronics,Headphones,2,139.01,278.02,PayPal
+TRX-11918,2024-11-18,CUST-244,South,Electronics,Laptop,1,1096.54,1096.54,PayPal
+TRX-11919,2023-01-04,CUST-237,East,Clothing,T-Shirt,4,25.6,102.4,PayPal
+TRX-11920,2023-02-21,CUST-233,West,Electronics,Headphones,1,143.69,143.69,Debit Card
+TRX-11921,2024-12-17,CUST-310,East,Clothing,Sneakers,4,94.69,378.76,Credit Card
+TRX-11922,2024-05-30,CUST-251,West,Electronics,Monitor,2,278.36,556.72,PayPal
+TRX-11923,2023-11-20,CUST-456,South,Home,Blender,3,49.09,147.27,PayPal
+TRX-11924,2024-04-23,CUST-155,West,Electronics,Laptop,2,1096.33,2192.66,Debit Card
+TRX-11925,2024-04-05,CUST-423,South,Electronics,Monitor,4,300.36,1201.44,Credit Card
+TRX-11926,2024-10-28,CUST-361,West,Clothing,Sneakers,1,94.44,94.44,PayPal
+TRX-11927,2023-08-29,CUST-454,West,Home,Coffee Maker,4,83.0,332.0,Credit Card
+TRX-11928,2024-08-11,CUST-279,South,Clothing,Jacket,2,123.26,246.52,Debit Card
+TRX-11929,2023-06-20,CUST-121,East,Electronics,Headphones,4,141.78,567.12,Credit Card
+TRX-11930,2023-08-15,CUST-495,North,Electronics,Headphones,3,144.12,432.36,PayPal
+TRX-11931,2024-09-06,CUST-138,North,Clothing,T-Shirt,4,26.14,104.56,Debit Card
+TRX-11932,2024-11-23,CUST-367,West,Electronics,Smartphone,1,728.41,728.41,PayPal
+TRX-11933,2023-12-19,CUST-156,East,Home,Coffee Maker,2,80.5,161.0,PayPal
+TRX-11934,2024-10-01,CUST-272,South,Electronics,Monitor,4,315.11,1260.44,PayPal
+TRX-11935,2024-05-31,CUST-317,East,Clothing,T-Shirt,4,22.51,90.04,Debit Card
+TRX-11936,2023-04-27,CUST-283,West,Electronics,Monitor,3,304.76,914.28,Credit Card
+TRX-11937,2023-06-11,CUST-166,West,Clothing,Sneakers,4,90.84,363.36,Credit Card
+TRX-11938,2023-08-25,CUST-426,West,Electronics,Headphones,3,136.53,409.59,Debit Card
+TRX-11939,2024-03-22,CUST-119,East,Electronics,Monitor,2,287.79,575.58,Credit Card
+TRX-11940,2024-04-08,CUST-495,South,Clothing,Jacket,2,115.75,231.5,Credit Card
+TRX-11941,2024-07-10,CUST-494,West,Clothing,Jeans,1,55.6,55.6,PayPal
+TRX-11942,2023-04-01,CUST-337,North,Home,Chair,3,93.27,279.81,Credit Card
+TRX-11943,2023-08-02,CUST-439,North,Clothing,Sneakers,2,94.97,189.94,PayPal
+TRX-11944,2024-01-04,CUST-448,East,Clothing,Jacket,4,110.74,442.96,Debit Card
+TRX-11945,2023-02-21,CUST-388,North,Home,Chair,1,99.99,99.99,PayPal
+TRX-11946,2023-05-13,CUST-373,South,Clothing,Jeans,3,59.5,178.5,Credit Card
+TRX-11947,2024-04-22,CUST-342,West,Clothing,Jacket,1,123.34,123.34,Credit Card
+TRX-11948,2024-08-13,CUST-269,West,Home,Blender,2,43.13,86.26,Debit Card
+TRX-11949,2023-03-23,CUST-186,South,Home,Blender,4,44.39,177.56,PayPal
+TRX-11950,2023-12-24,CUST-262,East,Clothing,Sneakers,2,83.94,167.88,Debit Card
+TRX-11951,2023-12-16,CUST-496,North,Electronics,Laptop,2,1197.25,2394.5,Credit Card
+TRX-11952,2024-01-10,CUST-191,West,Home,Blender,3,44.71,134.13,Debit Card
+TRX-11953,2024-10-21,CUST-379,South,Electronics,Headphones,1,161.04,161.04,Debit Card
+TRX-11954,2023-11-10,CUST-227,South,Clothing,Jeans,2,61.72,123.44,Credit Card
+TRX-11955,2024-07-18,CUST-286,East,Clothing,Jeans,3,59.34,178.02,Credit Card
+TRX-11956,2024-07-18,CUST-498,South,Home,Coffee Maker,3,78.16,234.48,PayPal
+TRX-11957,2023-12-17,CUST-246,North,Electronics,Smartphone,4,792.63,3170.52,Credit Card
+TRX-11958,2023-07-01,CUST-224,North,Home,Chair,1,104.72,104.72,Credit Card
+TRX-11959,2023-01-03,CUST-163,West,Clothing,Jeans,3,56.05,168.15,Credit Card
+TRX-11960,2023-04-07,CUST-457,East,Home,Coffee Maker,3,81.65,244.95,Credit Card
+TRX-11961,2023-01-21,CUST-138,North,Clothing,T-Shirt,3,25.98,77.94,Credit Card
+TRX-11962,2023-03-07,CUST-190,East,Electronics,Laptop,2,1313.87,2627.74,Debit Card
+TRX-11963,2023-12-04,CUST-222,North,Electronics,Headphones,3,137.75,413.25,Credit Card
+TRX-11964,2023-10-18,CUST-258,South,Electronics,Headphones,3,154.42,463.26,PayPal
+TRX-11965,2023-10-08,CUST-142,North,Home,Coffee Maker,1,76.08,76.08,PayPal
+TRX-11966,2024-12-03,CUST-150,South,Clothing,Jacket,3,118.54,355.62,PayPal
+TRX-11967,2024-05-06,CUST-168,South,Electronics,Laptop,2,1103.28,2206.56,PayPal
+TRX-11968,2023-07-07,CUST-329,South,Clothing,Jeans,2,64.3,128.6,Debit Card
+TRX-11969,2023-04-24,CUST-175,North,Clothing,Sneakers,2,97.71,195.42,Credit Card
+TRX-11970,2023-02-18,CUST-425,West,Home,Coffee Maker,1,78.37,78.37,PayPal
+TRX-11971,2024-01-24,CUST-317,South,Electronics,Headphones,3,162.42,487.26,Debit Card
+TRX-11972,2023-12-12,CUST-329,South,Clothing,Jacket,1,124.38,124.38,Debit Card
+TRX-11973,2024-08-06,CUST-360,North,Electronics,Laptop,2,1153.66,2307.32,Debit Card
+TRX-11974,2024-10-17,CUST-356,North,Clothing,Sneakers,3,83.25,249.75,Debit Card
+TRX-11975,2023-02-16,CUST-450,East,Electronics,Laptop,3,1082.86,3248.58,Debit Card
+TRX-11976,2023-11-07,CUST-334,North,Electronics,Laptop,4,1313.47,5253.88,PayPal
+TRX-11977,2023-06-04,CUST-265,North,Home,Blender,2,41.19,82.38,Credit Card
+TRX-11978,2023-12-24,CUST-273,East,Home,Coffee Maker,2,80.02,160.04,PayPal
+TRX-11979,2024-08-31,CUST-216,West,Clothing,Jeans,4,65.25,261.0,Debit Card
+TRX-11980,2024-06-16,CUST-299,West,Home,Coffee Maker,2,82.75,165.5,PayPal
+TRX-11981,2024-03-23,CUST-347,East,Electronics,Smartphone,3,865.78,2597.34,Debit Card
+TRX-11982,2023-10-29,CUST-130,West,Electronics,Laptop,2,1091.7,2183.4,Credit Card
+TRX-11983,2023-09-28,CUST-193,South,Clothing,Jeans,1,61.58,61.58,PayPal
+TRX-11984,2024-05-16,CUST-179,South,Electronics,Headphones,1,157.7,157.7,PayPal
+TRX-11985,2024-07-02,CUST-441,East,Home,Chair,1,107.39,107.39,Credit Card
+TRX-11986,2023-04-03,CUST-435,West,Electronics,Headphones,1,163.43,163.43,PayPal
+TRX-11987,2024-11-08,CUST-258,West,Clothing,T-Shirt,4,25.13,100.52,Debit Card
+TRX-11988,2024-05-19,CUST-172,North,Home,Chair,1,106.39,106.39,Debit Card
+TRX-11989,2023-08-04,CUST-189,West,Electronics,Laptop,3,1148.17,3444.51,Credit Card
+TRX-11990,2023-08-08,CUST-427,West,Electronics,Laptop,1,1185.78,1185.78,Credit Card
+TRX-11991,2024-07-07,CUST-234,South,Clothing,Jacket,1,125.8,125.8,PayPal
+TRX-11992,2023-10-10,CUST-157,South,Home,Blender,1,46.7,46.7,PayPal
+TRX-11993,2023-03-14,CUST-472,West,Clothing,Jeans,1,55.56,55.56,Credit Card
+TRX-11994,2024-03-01,CUST-252,North,Clothing,Sneakers,3,92.16,276.48,Debit Card
+TRX-11995,2023-01-06,CUST-224,East,Home,Blender,3,41.45,124.35,Credit Card
+TRX-11996,2024-07-31,CUST-413,East,Clothing,Sneakers,1,86.8,86.8,PayPal
+TRX-11997,2023-01-02,CUST-303,West,Home,Chair,3,104.07,312.21,PayPal
+TRX-11998,2023-04-13,CUST-123,West,Electronics,Headphones,4,155.18,620.72,Debit Card
+TRX-11999,2023-07-28,CUST-350,East,Home,Chair,1,95.72,95.72,Credit Card
